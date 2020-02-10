@@ -1,10 +1,10 @@
 {
-  "Name": "Wattie",
+  "Name": "",
   "Assets": [
     {
       "ID": "axion-kc-v2.zip",
       "Name": "Axion - Kareem Cambell - Blk/Gum",
-      "Description": "Condition: Used\r\nBrand: Axion\r\nModel: Kareem Cambell KCK\r\nSize: Any\r\nColor: Black/Gum\r\nVersion: 2\r\n\r\nIMPORTANT\r\n\r\nPlease install [Shoes] Low Top Skate Shoe Mesh in the meshes section for the proper look.\r\n\r\nReplaces Black Mid Top Shoe in game.",
+      "Description": "Condition: Used\r\nBrand: Axion\r\nModel: Kareem Cambell KCK\r\nSize: Any\r\nColor: Black/Gum\r\nVersion: 2\r\n\r\nIMPORTANT\r\n\r\nPlease install [Shoes] Low Top Skate Shoe Mesh in the meshes section for the proper look.\r\n\r\nReplaces Black Mid Top Shoe in game.\r\n\r\nFor my latest releases: https://github.com/WattieSession/SessionMods/releases",
       "Version": 1.0,
       "Author": "Wattie",
       "DownloadLink": "rsmm://Url/https$github.com/WattieSession/SessionMods/releases/download/s8/axion-kc-v2.zip",
@@ -15,7 +15,7 @@
     {
       "ID": "dc-kalis-vulc-red-v2.zip",
       "Name": "DC Shoes - Kalis Vulc - Red/Wht",
-      "Description": "Condition: Used\r\nBrand: DC Shoes\r\nModel: Josh Kalis Vulc\r\nSize: Any\r\nColor: Red/White\r\nVersion: 2\r\n\r\nIMPORTANT\r\n\r\nReplaces Vul A Shoe in game.",
+      "Description": "Condition: Used\r\nBrand: DC Shoes\r\nModel: Josh Kalis Vulc\r\nSize: Any\r\nColor: Red/White\r\nVersion: 2\r\n\r\nIMPORTANT\r\n\r\nReplaces Vul A Shoe in game.\r\n\r\nFor my latest releases: https://github.com/WattieSession/SessionMods/releases",
       "Version": 1.0,
       "Author": "Wattie",
       "DownloadLink": "rsmm://Url/https$github.com/WattieSession/SessionMods/releases/download/s6/dc-kalis-vulc-red-v2.zip",
@@ -26,7 +26,7 @@
     {
       "ID": "dc-kalis-vulc-offwht-v2.zip",
       "Name": "DC Shoes - Kalis Vulc - Off White",
-      "Description": "Condition: Used\r\nBrand: DC Shoes\r\nModel: Josh Kalis Vulc\r\nSize: Any\r\nColor: Off White/White\r\nVersion: 2\r\n\r\nIMPORTANT\r\n\r\nReplaces Vul A Shoe in game.",
+      "Description": "Condition: Used\r\nBrand: DC Shoes\r\nModel: Josh Kalis Vulc\r\nSize: Any\r\nColor: Off White/White\r\nVersion: 2\r\n\r\nIMPORTANT\r\n\r\nReplaces Vul A Shoe in game.\r\n\r\nFor my latest releases: https://github.com/WattieSession/SessionMods/releases",
       "Version": 1.0,
       "Author": "Wattie",
       "DownloadLink": "rsmm://Url/https$github.com/WattieSession/SessionMods/releases/download/s7/dc-kalis-vulc-offwht-v2.zip",
@@ -37,7 +37,7 @@
     {
       "ID": "es-rc-v2.zip",
       "Name": "eS - Contract - Ronny Creager",
-      "Description": "Condition: Used\r\nBrand: eS\r\nModel: Contract Ronny Creager\r\nSize: Any\r\nColor: Black/White\r\nVersion: 2\r\n\r\nIMPORTANT\r\n\r\nPlease install [Shoes] Low Top Skate Shoe Mesh in the meshes section for the proper look.\r\n\r\nReplaces Black Mid Top Shoe in game.",
+      "Description": "Condition: Used\r\nBrand: eS\r\nModel: Contract Ronny Creager\r\nSize: Any\r\nColor: Black/White\r\nVersion: 2\r\n\r\nIMPORTANT\r\n\r\nPlease install [Shoes] Low Top Skate Shoe Mesh in the meshes section for the proper look.\r\n\r\nReplaces Black Mid Top Shoe in game.\r\n\r\nFor my latest releases: https://github.com/WattieSession/SessionMods/releases",
       "Version": 1.0,
       "Author": "Wattie",
       "DownloadLink": "rsmm://Url/https$github.com/WattieSession/SessionMods/releases/download/r1/es-rc-v2.zip",
@@ -48,7 +48,7 @@
     {
       "ID": "es-koston1-blkgld.zip",
       "Name": "eS - Koston1 - Blk/Gld/Purp",
-      "Description": "Condition: Used\r\nBrand: eS\r\nModel: Koston 1\r\nSize: Any\r\nColor: Black/Gold/Purple\r\nVersion: 1\r\n\r\nIMPORTANT\r\n\r\nPlease install [Shoes] Low Top Skate Shoe Mesh in the meshes section for the proper look.\r\n\r\nReplaces Black Mid Top Shoe in game.",
+      "Description": "Condition: Used\r\nBrand: eS\r\nModel: Koston 1\r\nSize: Any\r\nColor: Black/Gold/Purple\r\nVersion: 1\r\n\r\nIMPORTANT\r\n\r\nPlease install [Shoes] Low Top Skate Shoe Mesh in the meshes section for the proper look.\r\n\r\nReplaces Black Mid Top Shoe in game.\r\n\r\nFor my latest releases: https://github.com/WattieSession/SessionMods/releases",
       "Version": 1.0,
       "Author": "Wattie",
       "DownloadLink": "rsmm://Url/https$github.com/WattieSession/SessionMods/releases/download/s2/es-koston1-blkgld.zip",
@@ -59,7 +59,7 @@
     {
       "ID": "es-koston1-blkgum.zip",
       "Name": "eS - Koston1 - Blk/Gum",
-      "Description": "Condition: Used\r\nBrand: eS\r\nModel: Koston 1\r\nSize: Any\r\nColor: Black/Gum\r\nVersion: 1\r\n\r\nIMPORTANT\r\n\r\nPlease install [Shoes] Low Top Skate Shoe Mesh in the meshes section for the proper look.\r\n\r\nReplaces Black Mid Top Shoe in game.",
+      "Description": "Condition: Used\r\nBrand: eS\r\nModel: Koston 1\r\nSize: Any\r\nColor: Black/Gum\r\nVersion: 1\r\n\r\nIMPORTANT\r\n\r\nPlease install [Shoes] Low Top Skate Shoe Mesh in the meshes section for the proper look.\r\n\r\nReplaces Black Mid Top Shoe in game.\r\n\r\nFor my latest releases: https://github.com/WattieSession/SessionMods/releases",
       "Version": 1.0,
       "Author": "Wattie",
       "DownloadLink": "rsmm://Url/https$github.com/WattieSession/SessionMods/releases/download/s1/es-koston1-blkgum.zip",
@@ -70,7 +70,7 @@
     {
       "ID": "es-koston1-grnwht.zip",
       "Name": "eS - Koston1 - Grn/Wht",
-      "Description": "Condition: Used\r\nBrand: eS\r\nModel: Koston 1\r\nSize: Any\r\nColor: Green/White\r\nVersion: 1\r\n\r\nIMPORTANT\r\n\r\nPlease install [Shoes] Low Top Skate Shoe Mesh in the meshes section for the proper look.\r\n\r\nReplaces Black Mid Top Shoe in game.",
+      "Description": "Condition: Used\r\nBrand: eS\r\nModel: Koston 1\r\nSize: Any\r\nColor: Green/White\r\nVersion: 1\r\n\r\nIMPORTANT\r\n\r\nPlease install [Shoes] Low Top Skate Shoe Mesh in the meshes section for the proper look.\r\n\r\nReplaces Black Mid Top Shoe in game.\r\n\r\nFor my latest releases: https://github.com/WattieSession/SessionMods/releases",
       "Version": 1.0,
       "Author": "Wattie",
       "DownloadLink": "rsmm://Url/https$github.com/WattieSession/SessionMods/releases/download/s3/es-koston1-grnwht.zip",
@@ -81,7 +81,7 @@
     {
       "ID": "es-koston1-redblk.zip",
       "Name": "eS - Koston1 - Blk/Red",
-      "Description": "Condition: Used\r\nBrand: eS\r\nModel: Koston 1\r\nSize: Any\r\nColor: Black/Red\r\nVersion: 1\r\n\r\nIMPORTANT\r\n\r\nPlease install [Shoes] Low Top Skate Shoe Mesh in the meshes section for the proper look.\r\n\r\nReplaces Black Mid Top Shoe in game.",
+      "Description": "Condition: Used\r\nBrand: eS\r\nModel: Koston 1\r\nSize: Any\r\nColor: Black/Red\r\nVersion: 1\r\n\r\nIMPORTANT\r\n\r\nPlease install [Shoes] Low Top Skate Shoe Mesh in the meshes section for the proper look.\r\n\r\nReplaces Black Mid Top Shoe in game.\r\n\r\nFor my latest releases: https://github.com/WattieSession/SessionMods/releases",
       "Version": 1.0,
       "Author": "Wattie",
       "DownloadLink": "rsmm://Url/https$github.com/WattieSession/SessionMods/releases/download/s4/es-koston1-redblk.zip",
@@ -92,7 +92,7 @@
     {
       "ID": "es-koston1-whtgum.zip",
       "Name": "eS - Koston1 - Wht/Gum",
-      "Description": "Condition: Used\r\nBrand: eS\r\nModel: Koston 1\r\nSize: Any\r\nColor: Off White/White/Gum\r\nVersion: 1\r\n\r\nIMPORTANT\r\n\r\nPlease install [Shoes] Low Top Skate Shoe Mesh in the meshes section for the proper look.\r\n\r\nReplaces Black Mid Top Shoe in game.",
+      "Description": "Condition: Used\r\nBrand: eS\r\nModel: Koston 1\r\nSize: Any\r\nColor: Off White/White/Gum\r\nVersion: 1\r\n\r\nIMPORTANT\r\n\r\nPlease install [Shoes] Low Top Skate Shoe Mesh in the meshes section for the proper look.\r\n\r\nReplaces Black Mid Top Shoe in game.\r\n\r\nFor my latest releases: https://github.com/WattieSession/SessionMods/releases",
       "Version": 1.0,
       "Author": "Wattie",
       "DownloadLink": "rsmm://Url/https$github.com/WattieSession/SessionMods/releases/download/s5/es-koston1-whtgum.zip",
@@ -103,7 +103,7 @@
     {
       "ID": "duffs-gb2-blk-v3.zip",
       "Name": "Duffs - Gambler 2's - Blk/Gum",
-      "Description": "Condition: Used\r\nBrand: Duffs\r\nModel: Gambler 2\r\nSize: Any\r\nColor: Black/Gum\r\nVersion: 2\r\n\r\nIMPORTANT\r\n\r\nPlease install [Shoes] Low Top Skate Shoe Mesh in the meshes section for the proper look. Or you can use the normal Mid top shoe.\r\n\r\nReplaces Black Mid Top Shoe in game.",
+      "Description": "Condition: Used\r\nBrand: Duffs\r\nModel: Gambler 2\r\nSize: Any\r\nColor: Black/Gum\r\nVersion: 2\r\n\r\nIMPORTANT\r\n\r\nPlease install [Shoes] Low Top Skate Shoe Mesh in the meshes section for the proper look. Or you can use the normal Mid top shoe.\r\n\r\nReplaces Black Mid Top Shoe in game.\r\n\r\nFor my latest releases: https://github.com/WattieSession/SessionMods/releases",
       "Version": 2.0,
       "Author": "Wattie",
       "DownloadLink": "rsmm://Url/https$github.com/WattieSession/SessionMods/releases/download/s9/duffs-gb2-blk-v3.zip",
@@ -114,8 +114,8 @@
     {
       "ID": "duff-g2-grnwht.zip",
       "Name": "Duffs - Gambler 2's - Grn/Wht",
-      "Description": "Condition: Used\r\nBrand: Duffs\r\nModel: Gambler 2\r\nSize: Any\r\nColor: Green/White\r\nVersion: 2\r\n\r\nIMPORTANT\r\n\r\nPlease install [Shoes] Low Top Skate Shoe Mesh in the meshes section for the proper look. Or you can use the normal Mid top shoe.\r\n\r\nReplaces Black Mid Top Shoe in game.",
-      "Version": 1.0,
+      "Description": "Condition: Used\r\nBrand: Duffs\r\nModel: Gambler 2\r\nSize: Any\r\nColor: Green/White\r\nVersion: 2\r\n\r\nIMPORTANT\r\n\r\nPlease install [Shoes] Low Top Skate Shoe Mesh in the meshes section for the proper look. Or you can use the normal Mid top shoe.\r\n\r\nReplaces Black Mid Top Shoe in game.\r\n\r\nFor my latest releases: https://github.com/WattieSession/SessionMods/releases",
+      "Version": 2.0,
       "Author": "Wattie",
       "DownloadLink": "rsmm://Url/https$github.com/WattieSession/SessionMods/releases/download/s10/duff-g2-grnwht.zip",
       "PreviewImage": "https://user-images.githubusercontent.com/60822222/74125040-1d283b00-4b89-11ea-9670-5b5ff6519e79.png",
@@ -125,8 +125,8 @@
     {
       "ID": "duffs-gb2-red.zip",
       "Name": "Duffs - Gambler 2's - Red/Gum",
-      "Description": "Condition: Used\r\nBrand: Duffs\r\nModel: Gambler 2\r\nSize: Any\r\nColor: Green/White\r\nVersion: 2\r\n\r\nIMPORTANT\r\n\r\nPlease install [Shoes] Low Top Skate Shoe Mesh in the meshes section for the proper look. Or you can use the normal Mid top shoe.\r\n\r\nReplaces Black Mid Top Shoe in game.",
-      "Version": 1.0,
+      "Description": "Condition: Used\r\nBrand: Duffs\r\nModel: Gambler 2\r\nSize: Any\r\nColor: Green/White\r\nVersion: 2\r\n\r\nIMPORTANT\r\n\r\nPlease install [Shoes] Low Top Skate Shoe Mesh in the meshes section for the proper look. Or you can use the normal Mid top shoe.\r\n\r\nReplaces Black Mid Top Shoe in game.\r\n\r\nFor my latest releases: https://github.com/WattieSession/SessionMods/releases",
+      "Version": 2.0,
       "Author": "Wattie",
       "DownloadLink": "rsmm://Url/https$github.com/WattieSession/SessionMods/releases/download/s11/duffs-gb2-red.zip",
       "PreviewImage": "https://user-images.githubusercontent.com/60822222/74125154-4c3eac80-4b89-11ea-9380-6fcab3cccdf2.png",
