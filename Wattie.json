@@ -1,5 +1,5 @@
 {
-  "Name": "Wattie",
+  "Name": "",
   "Assets": [
     {
       "ID": "axion-kc-v2.zip",
@@ -10,7 +10,7 @@
       "DownloadLink": "rsmm://GDrive/1IHKmtxRhexxLanNgMEwHRjh0guu004d8",
       "PreviewImage": "https://i.imgur.com/USxMz6J.png",
       "Category": "session-shoes",
-      "UpdatedDate": "2020-02-09T08:00:00Z"
+      "UpdatedDate": "2020-02-09T00:00:00-08:00"
     },
     {
       "ID": "dc-kalis-vulc-red-v2.zip",
@@ -21,7 +21,7 @@
       "DownloadLink": "rsmm://GDrive/1IHKmtxRhexxLanNgMEwHRjh0guu004d8",
       "PreviewImage": "https://i.imgur.com/ZIAsAfa.png",
       "Category": "session-shoes",
-      "UpdatedDate": "2020-02-08T08:00:00Z"
+      "UpdatedDate": "2020-02-08T00:00:00-08:00"
     },
     {
       "ID": "dc-kalis-vulc-offwht-v2.zip",
@@ -32,7 +32,7 @@
       "DownloadLink": "rsmm://GDrive/1IHKmtxRhexxLanNgMEwHRjh0guu004d8",
       "PreviewImage": "https://i.imgur.com/96dLzts.png",
       "Category": "session-shoes",
-      "UpdatedDate": "2020-02-07T08:00:00Z"
+      "UpdatedDate": "2020-02-07T00:00:00-08:00"
     },
     {
       "ID": "es-rc-v2.zip",
@@ -43,7 +43,7 @@
       "DownloadLink": "rsmm://GDrive/1IHKmtxRhexxLanNgMEwHRjh0guu004d8",
       "PreviewImage": "https://i.imgur.com/j3MawwB.png",
       "Category": "session-shoes",
-      "UpdatedDate": "2020-02-06T08:00:00Z"
+      "UpdatedDate": "2020-02-06T00:00:00-08:00"
     },
     {
       "ID": "es-koston1-blkgld.zip",
@@ -54,7 +54,7 @@
       "DownloadLink": "rsmm://GDrive/1IHKmtxRhexxLanNgMEwHRjh0guu004d8",
       "PreviewImage": "https://i.imgur.com/DnQTf2E.png",
       "Category": "session-shoes",
-      "UpdatedDate": "2020-02-08T08:00:00Z"
+      "UpdatedDate": "2020-02-08T00:00:00-08:00"
     },
     {
       "ID": "es-koston1-blkgum.zip",
@@ -65,7 +65,7 @@
       "DownloadLink": "rsmm://GDrive/1IHKmtxRhexxLanNgMEwHRjh0guu004d8",
       "PreviewImage": "https://i.imgur.com/qCV6hVU.png",
       "Category": "session-shoes",
-      "UpdatedDate": "2020-02-07T08:00:00Z"
+      "UpdatedDate": "2020-02-07T00:00:00-08:00"
     },
     {
       "ID": "es-koston1-grnwht.zip",
@@ -76,7 +76,7 @@
       "DownloadLink": "rsmm://GDrive/1IHKmtxRhexxLanNgMEwHRjh0guu004d8",
       "PreviewImage": "https://i.imgur.com/Mmwt0te.png",
       "Category": "session-shoes",
-      "UpdatedDate": "2020-02-06T08:00:00Z"
+      "UpdatedDate": "2020-02-06T00:00:00-08:00"
     },
     {
       "ID": "es-koston1-redblk.zip",
@@ -92,11 +92,11 @@
     {
       "ID": "es-koston1-whtgum.zip",
       "Name": "eS - Koston1 - Wht/Gum",
-      "Description": "Condition: Used\r\nBrand: eS\r\nModel: Koston 1\r\nSize: Any\r\nColor: White/Gum\r\nVersion: 1\r\n\r\nIMPORTANT\r\n\r\nPlease install [Shoes] Low Top Skate Shoe Mesh in the meshes section for the proper look.\r\n\r\nReplaces Black Mid Top Shoe in game.",
+      "Description": "Condition: Used\r\nBrand: eS\r\nModel: Koston 1\r\nSize: Any\r\nColor: Off White/White/Gum\r\nVersion: 1\r\n\r\nIMPORTANT\r\n\r\nPlease install [Shoes] Low Top Skate Shoe Mesh in the meshes section for the proper look.\r\n\r\nReplaces Black Mid Top Shoe in game.",
       "Version": 1.0,
       "Author": "Wattie",
-      "DownloadLink": "rsmm://GDrive/1IHKmtxRhexxLanNgMEwHRjh0guu004d8",
-      "PreviewImage": "https://i.imgur.com/kHWfwmF.png",
+      "DownloadLink": "rsmm://Url/https$github.com/WattieSession/SessionMods/releases/download/s5/es-koston1-whtgum.zip",
+      "PreviewImage": "https://user-images.githubusercontent.com/60822222/74123821-d59fb000-4b84-11ea-8b04-5f6aca2f00d8.png",
       "Category": "session-shoes",
       "UpdatedDate": "2020-02-04T08:00:00Z"
     }
