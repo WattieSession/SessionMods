@@ -1,5 +1,5 @@
 {
-  "Name": "Wattie Mods",
+  "Name": "",
   "Assets": [
     {
       "ID": "axion-kc-v2.zip",
@@ -29,7 +29,7 @@
       "Description": "Condition: Used\r\nBrand: DC Shoes\r\nModel: Josh Kalis Vulc\r\nSize: Any\r\nColor: Off White/White\r\nVersion: 2\r\n\r\nIMPORTANT\r\n\r\nReplaces Vul A Shoe in game.",
       "Version": 1.0,
       "Author": "Wattie",
-      "DownloadLink": "rsmm:https://drive.google.com/open?id=1qOP4MSweHdMI2OUblLtEyu6bxxKJZoUU",
+      "DownloadLink": "rsmm://GDrive/1a6kt1YpDEMT-tc7kmE34Vcm34bmJWIW5",
       "PreviewImage": "https://i.imgur.com/96dLzts.png",
       "Category": "session-shoes",
       "UpdatedDate": "2020-02-07T08:00:00Z"
@@ -43,7 +43,7 @@
       "DownloadLink": "rsmm://GDrive/1a6kt1YpDEMT-tc7kmE34Vcm34bmJWIW5",
       "PreviewImage": "https://i.imgur.com/j3MawwB.png",
       "Category": "session-shoes",
-      "UpdatedDate": "2020-02-06T08:00:00Z"
+      "UpdatedDate": "2020-02-06T00:00:00-08:00"
     }
   ]
 }
