@@ -1,5 +1,5 @@
 {
-  "Name": "Wattie",
+  "Name": "",
   "Assets": [
     {
       "ID": "axion-kc-v2.zip",
@@ -7,10 +7,10 @@
       "Description": "Condition: Used\r\nBrand: Axion\r\nModel: Kareem Cambell KCK\r\nSize: Any\r\nColor: Black/Gum\r\nVersion: 2\r\n\r\nIMPORTANT\r\n\r\nPlease install [Shoes] Low Top Skate Shoe Mesh in the meshes section for the proper look.\r\n\r\nReplaces Black Mid Top Shoe in game.",
       "Version": 1.0,
       "Author": "Wattie",
-      "DownloadLink": "rsmm://GDrive/1IHKmtxRhexxLanNgMEwHRjh0guu004d8",
-      "PreviewImage": "https://i.imgur.com/USxMz6J.png",
+      "DownloadLink": "rsmm://Url/https$github.com/WattieSession/SessionMods/releases/download/s8/axion-kc-v2.zip",
+      "PreviewImage": "https://user-images.githubusercontent.com/60822222/74124808-6af07380-4b88-11ea-863f-1013620e02b9.png",
       "Category": "session-shoes",
-      "UpdatedDate": "2020-02-09T00:00:00-08:00"
+      "UpdatedDate": "2020-02-09T08:00:00Z"
     },
     {
       "ID": "dc-kalis-vulc-red-v2.zip",
@@ -18,10 +18,10 @@
       "Description": "Condition: Used\r\nBrand: DC Shoes\r\nModel: Josh Kalis Vulc\r\nSize: Any\r\nColor: Red/White\r\nVersion: 2\r\n\r\nIMPORTANT\r\n\r\nReplaces Vul A Shoe in game.",
       "Version": 1.0,
       "Author": "Wattie",
-      "DownloadLink": "rsmm://GDrive/1IHKmtxRhexxLanNgMEwHRjh0guu004d8",
-      "PreviewImage": "https://i.imgur.com/ZIAsAfa.png",
+      "DownloadLink": "rsmm://Url/https$github.com/WattieSession/SessionMods/releases/download/s6/dc-kalis-vulc-red-v2.zip",
+      "PreviewImage": "https://user-images.githubusercontent.com/60822222/74124566-90c94880-4b87-11ea-94fa-52275daae7f4.png",
       "Category": "session-shoes",
-      "UpdatedDate": "2020-02-08T00:00:00-08:00"
+      "UpdatedDate": "2020-02-08T08:00:00Z"
     },
     {
       "ID": "dc-kalis-vulc-offwht-v2.zip",
@@ -29,10 +29,10 @@
       "Description": "Condition: Used\r\nBrand: DC Shoes\r\nModel: Josh Kalis Vulc\r\nSize: Any\r\nColor: Off White/White\r\nVersion: 2\r\n\r\nIMPORTANT\r\n\r\nReplaces Vul A Shoe in game.",
       "Version": 1.0,
       "Author": "Wattie",
-      "DownloadLink": "rsmm://GDrive/1IHKmtxRhexxLanNgMEwHRjh0guu004d8",
-      "PreviewImage": "https://i.imgur.com/96dLzts.png",
+      "DownloadLink": "rsmm://Url/https$github.com/WattieSession/SessionMods/releases/download/s7/dc-kalis-vulc-offwht-v2.zip",
+      "PreviewImage": "https://user-images.githubusercontent.com/60822222/74124626-cb32e580-4b87-11ea-8290-85b531805338.png",
       "Category": "session-shoes",
-      "UpdatedDate": "2020-02-07T00:00:00-08:00"
+      "UpdatedDate": "2020-02-07T08:00:00Z"
     },
     {
       "ID": "es-rc-v2.zip",
@@ -40,10 +40,10 @@
       "Description": "Condition: Used\r\nBrand: eS\r\nModel: Contract Ronny Creager\r\nSize: Any\r\nColor: Black/White\r\nVersion: 2\r\n\r\nIMPORTANT\r\n\r\nPlease install [Shoes] Low Top Skate Shoe Mesh in the meshes section for the proper look.\r\n\r\nReplaces Black Mid Top Shoe in game.",
       "Version": 1.0,
       "Author": "Wattie",
-      "DownloadLink": "rsmm://GDrive/1IHKmtxRhexxLanNgMEwHRjh0guu004d8",
-      "PreviewImage": "https://i.imgur.com/j3MawwB.png",
+      "DownloadLink": "rsmm://Url/https$github.com/WattieSession/SessionMods/releases/download/r1/es-rc-v2.zip",
+      "PreviewImage": "https://user-images.githubusercontent.com/60822222/74124361-ea7d4300-4b86-11ea-8649-262d684efa7c.png",
       "Category": "session-shoes",
-      "UpdatedDate": "2020-02-06T00:00:00-08:00"
+      "UpdatedDate": "2020-02-06T08:00:00Z"
     },
     {
       "ID": "es-koston1-blkgld.zip",
@@ -51,10 +51,10 @@
       "Description": "Condition: Used\r\nBrand: eS\r\nModel: Koston 1\r\nSize: Any\r\nColor: Black/Gold/Purple\r\nVersion: 1\r\n\r\nIMPORTANT\r\n\r\nPlease install [Shoes] Low Top Skate Shoe Mesh in the meshes section for the proper look.\r\n\r\nReplaces Black Mid Top Shoe in game.",
       "Version": 1.0,
       "Author": "Wattie",
-      "DownloadLink": "rsmm://GDrive/1IHKmtxRhexxLanNgMEwHRjh0guu004d8",
-      "PreviewImage": "https://i.imgur.com/DnQTf2E.png",
+      "DownloadLink": "rsmm://Url/https$github.com/WattieSession/SessionMods/releases/download/s2/es-koston1-blkgld.zip",
+      "PreviewImage": "https://user-images.githubusercontent.com/60822222/74123367-670e2280-4b83-11ea-8516-4a740cde882c.png",
       "Category": "session-shoes",
-      "UpdatedDate": "2020-02-08T00:00:00-08:00"
+      "UpdatedDate": "2020-02-08T08:00:00Z"
     },
     {
       "ID": "es-koston1-blkgum.zip",
@@ -62,10 +62,10 @@
       "Description": "Condition: Used\r\nBrand: eS\r\nModel: Koston 1\r\nSize: Any\r\nColor: Black/Gum\r\nVersion: 1\r\n\r\nIMPORTANT\r\n\r\nPlease install [Shoes] Low Top Skate Shoe Mesh in the meshes section for the proper look.\r\n\r\nReplaces Black Mid Top Shoe in game.",
       "Version": 1.0,
       "Author": "Wattie",
-      "DownloadLink": "rsmm://GDrive/1IHKmtxRhexxLanNgMEwHRjh0guu004d8",
-      "PreviewImage": "https://i.imgur.com/qCV6hVU.png",
+      "DownloadLink": "rsmm://Url/https$github.com/WattieSession/SessionMods/releases/download/s1/es-koston1-blkgum.zip",
+      "PreviewImage": "https://user-images.githubusercontent.com/60822222/74123201-c15ab380-4b82-11ea-8358-26e1dee58ebe.png",
       "Category": "session-shoes",
-      "UpdatedDate": "2020-02-07T00:00:00-08:00"
+      "UpdatedDate": "2020-02-07T08:00:00Z"
     },
     {
       "ID": "es-koston1-grnwht.zip",
@@ -73,10 +73,10 @@
       "Description": "Condition: Used\r\nBrand: eS\r\nModel: Koston 1\r\nSize: Any\r\nColor: Green/White\r\nVersion: 1\r\n\r\nIMPORTANT\r\n\r\nPlease install [Shoes] Low Top Skate Shoe Mesh in the meshes section for the proper look.\r\n\r\nReplaces Black Mid Top Shoe in game.",
       "Version": 1.0,
       "Author": "Wattie",
-      "DownloadLink": "rsmm://GDrive/1IHKmtxRhexxLanNgMEwHRjh0guu004d8",
-      "PreviewImage": "https://i.imgur.com/Mmwt0te.png",
+      "DownloadLink": "rsmm://Url/https$github.com/WattieSession/SessionMods/releases/download/s3/es-koston1-grnwht.zip",
+      "PreviewImage": "https://user-images.githubusercontent.com/60822222/74123693-62963980-4b84-11ea-96a7-dbf405ac15ba.png",
       "Category": "session-shoes",
-      "UpdatedDate": "2020-02-06T00:00:00-08:00"
+      "UpdatedDate": "2020-02-06T08:00:00Z"
     },
     {
       "ID": "es-koston1-redblk.zip",
@@ -84,8 +84,8 @@
       "Description": "Condition: Used\r\nBrand: eS\r\nModel: Koston 1\r\nSize: Any\r\nColor: Black/Red\r\nVersion: 1\r\n\r\nIMPORTANT\r\n\r\nPlease install [Shoes] Low Top Skate Shoe Mesh in the meshes section for the proper look.\r\n\r\nReplaces Black Mid Top Shoe in game.",
       "Version": 1.0,
       "Author": "Wattie",
-      "DownloadLink": "rsmm://GDrive/1IHKmtxRhexxLanNgMEwHRjh0guu004d8",
-      "PreviewImage": "https://i.imgur.com/jxAsoxU.png",
+      "DownloadLink": "rsmm://Url/https$github.com/WattieSession/SessionMods/releases/download/s4/es-koston1-redblk.zip",
+      "PreviewImage": "https://user-images.githubusercontent.com/60822222/74123755-9ffac700-4b84-11ea-8837-3aa5bc7f4d53.png",
       "Category": "session-shoes",
       "UpdatedDate": "2020-02-05T08:00:00Z"
     },
@@ -99,6 +99,39 @@
       "PreviewImage": "https://user-images.githubusercontent.com/60822222/74123821-d59fb000-4b84-11ea-8b04-5f6aca2f00d8.png",
       "Category": "session-shoes",
       "UpdatedDate": "2020-02-04T08:00:00Z"
+    },
+    {
+      "ID": "duffs-gb2-blk-v3.zip",
+      "Name": "Duffs - Gambler 2's - Blk/Gum",
+      "Description": "Condition: Used\r\nBrand: Duffs\r\nModel: Gambler 2\r\nSize: Any\r\nColor: Black/Gum\r\nVersion: 2\r\n\r\nIMPORTANT\r\n\r\nPlease install [Shoes] Low Top Skate Shoe Mesh in the meshes section for the proper look. Or you can use the normal Mid top shoe.\r\n\r\nReplaces Black Mid Top Shoe in game.",
+      "Version": 2.0,
+      "Author": "Wattie",
+      "DownloadLink": "rsmm://Url/https$github.com/WattieSession/SessionMods/releases/download/s9/duffs-gb2-blk-v3.zip",
+      "PreviewImage": "https://user-images.githubusercontent.com/60822222/74124932-c7ec2980-4b88-11ea-894b-54c6b7735aaa.png",
+      "Category": "session-shoes",
+      "UpdatedDate": "2020-02-03T08:00:00Z"
+    },
+    {
+      "ID": "duff-g2-grnwht.zip",
+      "Name": "Duffs - Gambler 2's - Grn/Wht",
+      "Description": "Condition: Used\r\nBrand: Duffs\r\nModel: Gambler 2\r\nSize: Any\r\nColor: Green/White\r\nVersion: 2\r\n\r\nIMPORTANT\r\n\r\nPlease install [Shoes] Low Top Skate Shoe Mesh in the meshes section for the proper look. Or you can use the normal Mid top shoe.\r\n\r\nReplaces Black Mid Top Shoe in game.",
+      "Version": 1.0,
+      "Author": "Wattie",
+      "DownloadLink": "rsmm://Url/https$github.com/WattieSession/SessionMods/releases/download/s10/duff-g2-grnwht.zip",
+      "PreviewImage": "https://user-images.githubusercontent.com/60822222/74125040-1d283b00-4b89-11ea-9670-5b5ff6519e79.png",
+      "Category": "session-shoes",
+      "UpdatedDate": "2020-02-02T08:00:00Z"
+    },
+    {
+      "ID": "duffs-gb2-red.zip",
+      "Name": "Duffs - Gambler 2's - Red/Gum",
+      "Description": "Condition: Used\r\nBrand: Duffs\r\nModel: Gambler 2\r\nSize: Any\r\nColor: Green/White\r\nVersion: 2\r\n\r\nIMPORTANT\r\n\r\nPlease install [Shoes] Low Top Skate Shoe Mesh in the meshes section for the proper look. Or you can use the normal Mid top shoe.\r\n\r\nReplaces Black Mid Top Shoe in game.",
+      "Version": 1.0,
+      "Author": "Wattie",
+      "DownloadLink": "rsmm://Url/https$github.com/WattieSession/SessionMods/releases/download/s11/duffs-gb2-red.zip",
+      "PreviewImage": "https://user-images.githubusercontent.com/60822222/74125154-4c3eac80-4b89-11ea-9380-6fcab3cccdf2.png",
+      "Category": "session-shoes",
+      "UpdatedDate": "2020-02-01T08:00:00Z"
     }
   ]
 }
