@@ -1,5 +1,5 @@
 {
-  "Name": "Wattie",
+  "Name": "",
   "Assets": [
     {
       "ID": "axion-kc-v2.zip",
@@ -10,7 +10,7 @@
       "DownloadLink": "rsmm://Url/https$github.com/WattieSession/SessionMods/releases/download/s8/axion-kc-v2.zip",
       "PreviewImage": "https://user-images.githubusercontent.com/60822222/74124808-6af07380-4b88-11ea-863f-1013620e02b9.png",
       "Category": "session-shoes",
-      "UpdatedDate": "2020-02-09T08:00:00Z"
+      "UpdatedDate": "2020-02-09T00:00:00-08:00"
     },
     {
       "ID": "dc-kalis-vulc-red-v2.zip",
@@ -21,7 +21,7 @@
       "DownloadLink": "rsmm://Url/https$github.com/WattieSession/SessionMods/releases/download/s6/dc-kalis-vulc-red-v2.zip",
       "PreviewImage": "https://user-images.githubusercontent.com/60822222/74124566-90c94880-4b87-11ea-94fa-52275daae7f4.png",
       "Category": "session-shoes",
-      "UpdatedDate": "2020-02-08T08:00:00Z"
+      "UpdatedDate": "2020-02-08T00:00:00-08:00"
     },
     {
       "ID": "dc-kalis-vulc-offwht-v2.zip",
@@ -32,7 +32,7 @@
       "DownloadLink": "rsmm://Url/https$github.com/WattieSession/SessionMods/releases/download/s7/dc-kalis-vulc-offwht-v2.zip",
       "PreviewImage": "https://user-images.githubusercontent.com/60822222/74124626-cb32e580-4b87-11ea-8290-85b531805338.png",
       "Category": "session-shoes",
-      "UpdatedDate": "2020-02-07T08:00:00Z"
+      "UpdatedDate": "2020-02-07T00:00:00-08:00"
     },
     {
       "ID": "es-rc-v2.zip",
@@ -43,7 +43,7 @@
       "DownloadLink": "rsmm://Url/https$github.com/WattieSession/SessionMods/releases/download/r1/es-rc-v2.zip",
       "PreviewImage": "https://user-images.githubusercontent.com/60822222/74124361-ea7d4300-4b86-11ea-8649-262d684efa7c.png",
       "Category": "session-shoes",
-      "UpdatedDate": "2020-02-06T08:00:00Z"
+      "UpdatedDate": "2020-02-06T00:00:00-08:00"
     },
     {
       "ID": "es-koston1-blkgld.zip",
@@ -54,7 +54,7 @@
       "DownloadLink": "rsmm://Url/https$github.com/WattieSession/SessionMods/releases/download/s2/es-koston1-blkgld.zip",
       "PreviewImage": "https://user-images.githubusercontent.com/60822222/74123367-670e2280-4b83-11ea-8516-4a740cde882c.png",
       "Category": "session-shoes",
-      "UpdatedDate": "2020-02-08T08:00:00Z"
+      "UpdatedDate": "2020-02-08T00:00:00-08:00"
     },
     {
       "ID": "es-koston1-blkgum.zip",
@@ -65,7 +65,7 @@
       "DownloadLink": "rsmm://Url/https$github.com/WattieSession/SessionMods/releases/download/s1/es-koston1-blkgum.zip",
       "PreviewImage": "https://user-images.githubusercontent.com/60822222/74123201-c15ab380-4b82-11ea-8358-26e1dee58ebe.png",
       "Category": "session-shoes",
-      "UpdatedDate": "2020-02-07T08:00:00Z"
+      "UpdatedDate": "2020-02-07T00:00:00-08:00"
     },
     {
       "ID": "es-koston1-grnwht.zip",
@@ -76,7 +76,7 @@
       "DownloadLink": "rsmm://Url/https$github.com/WattieSession/SessionMods/releases/download/s3/es-koston1-grnwht.zip",
       "PreviewImage": "https://user-images.githubusercontent.com/60822222/74123693-62963980-4b84-11ea-96a7-dbf405ac15ba.png",
       "Category": "session-shoes",
-      "UpdatedDate": "2020-02-06T08:00:00Z"
+      "UpdatedDate": "2020-02-06T00:00:00-08:00"
     },
     {
       "ID": "es-koston1-redblk.zip",
@@ -87,7 +87,7 @@
       "DownloadLink": "rsmm://Url/https$github.com/WattieSession/SessionMods/releases/download/s4/es-koston1-redblk.zip",
       "PreviewImage": "https://user-images.githubusercontent.com/60822222/74123755-9ffac700-4b84-11ea-8837-3aa5bc7f4d53.png",
       "Category": "session-shoes",
-      "UpdatedDate": "2020-02-05T08:00:00Z"
+      "UpdatedDate": "2020-02-05T00:00:00-08:00"
     },
     {
       "ID": "es-koston1-whtgum.zip",
@@ -98,7 +98,7 @@
       "DownloadLink": "rsmm://Url/https$github.com/WattieSession/SessionMods/releases/download/s5/es-koston1-whtgum.zip",
       "PreviewImage": "https://user-images.githubusercontent.com/60822222/74123821-d59fb000-4b84-11ea-8b04-5f6aca2f00d8.png",
       "Category": "session-shoes",
-      "UpdatedDate": "2020-02-04T08:00:00Z"
+      "UpdatedDate": "2020-02-04T00:00:00-08:00"
     },
     {
       "ID": "duffs-gb2-blk-v3.zip",
@@ -109,7 +109,7 @@
       "DownloadLink": "rsmm://Url/https$github.com/WattieSession/SessionMods/releases/download/s9/duffs-gb2-blk-v3.zip",
       "PreviewImage": "https://user-images.githubusercontent.com/60822222/74124932-c7ec2980-4b88-11ea-894b-54c6b7735aaa.png",
       "Category": "session-shoes",
-      "UpdatedDate": "2020-02-03T08:00:00Z"
+      "UpdatedDate": "2020-02-03T00:00:00-08:00"
     },
     {
       "ID": "duff-g2-grnwht.zip",
@@ -120,7 +120,7 @@
       "DownloadLink": "rsmm://Url/https$github.com/WattieSession/SessionMods/releases/download/s10/duff-g2-grnwht.zip",
       "PreviewImage": "https://user-images.githubusercontent.com/60822222/74125040-1d283b00-4b89-11ea-9670-5b5ff6519e79.png",
       "Category": "session-shoes",
-      "UpdatedDate": "2020-02-02T08:00:00Z"
+      "UpdatedDate": "2020-02-02T00:00:00-08:00"
     },
     {
       "ID": "duffs-gb2-red.zip",
@@ -131,7 +131,480 @@
       "DownloadLink": "rsmm://Url/https$github.com/WattieSession/SessionMods/releases/download/s11/duffs-gb2-red.zip",
       "PreviewImage": "https://user-images.githubusercontent.com/60822222/74125154-4c3eac80-4b89-11ea-9380-6fcab3cccdf2.png",
       "Category": "session-shoes",
-      "UpdatedDate": "2020-02-01T08:00:00Z"
+      "UpdatedDate": "2020-02-01T00:00:00-08:00"
+    },
+    {
+      "ID": "101-gino-gza.zip",
+      "Name": "101 Gino Iannucci GZA",
+      "Description": "Type: Deck\r\nCondition: Used\r\nBrand: 101\r\nModel: Gino Gza Wu\r\n\r\nReplaces All Red 8.125",
+      "Version": 1.0,
+      "Author": "Wattie",
+      "DownloadLink": "rsmm://Url/https$github.com/WattieSession/SessionMods/releases/download/d44/101-gino-gza.zip",
+      "PreviewImage": "https://user-images.githubusercontent.com/60822222/74212682-3a710e00-4c4a-11ea-96cf-031eb29d34f7.png",
+      "Category": "session-decks",
+      "UpdatedDate": "2020-02-11T05:17:29.9542049Z"
+    },
+    {
+      "ID": "Almost-centerpiece-wht.zip",
+      "Name": "Almost Centerpiece White",
+      "Description": "Type: Deck\r\nCondition: Used\r\nBrand: Almost\r\nModel: Centerpiece\r\n\r\nReplaces Dog Balls 8.125",
+      "Version": 1.0,
+      "Author": "Wattie",
+      "DownloadLink": "rsmm://Url/https$github.com/WattieSession/SessionMods/releases/download/d43/Almost-centerpiece-wht.zip",
+      "PreviewImage": "https://user-images.githubusercontent.com/60822222/74212643-11e91400-4c4a-11ea-925f-1170930727d2.png",
+      "Category": "session-decks",
+      "UpdatedDate": "2020-02-09T08:00:00Z"
+    },
+    {
+      "ID": "Almost-haslam-tallship.zip",
+      "Name": "Almost Haslam Tall Ship",
+      "Description": "Type: Deck\r\nCondition: Used\r\nBrand: Almost\r\nModel: Haslam Tall Ship\r\n\r\nReplaces No Comply 8.5\r\n\r\n",
+      "Version": 1.0,
+      "Author": "Wattie",
+      "DownloadLink": "rsmm://Url/https$github.com/WattieSession/SessionMods/releases/download/d42/Almost-haslam-tallship.zip",
+      "PreviewImage": "https://user-images.githubusercontent.com/60822222/74212585-b4ed5e00-4c49-11ea-98a9-2ed9fd57946e.png",
+      "Category": "session-decks",
+      "UpdatedDate": "2020-02-08T08:00:00Z"
+    },
+    {
+      "ID": "dck-almost-lewisforever.zip",
+      "Name": "Almost Lewis Marnell Forever",
+      "Description": "Type: Deck\r\nCondition: Used\r\nBrand: Almost\r\nModel: Lewis Marnell Forever\r\n\r\nReplaces Half A Roger 8.125",
+      "Version": 1.0,
+      "Author": "Wattie",
+      "DownloadLink": "rsmm://Url/https$github.com/WattieSession/SessionMods/releases/download/d41/dck-almost-lewisforever.zip",
+      "PreviewImage": "https://user-images.githubusercontent.com/60822222/74212551-8e2f2780-4c49-11ea-92cb-5d6fb899f3b8.png",
+      "Category": "session-decks",
+      "UpdatedDate": "2020-02-08T00:00:00"
+    },
+    {
+      "ID": "Antihero-cardiel-watn.zip",
+      "Name": "Antihero Cardiel Burger",
+      "Description": "Type: Deck\r\nCondition: Used\r\nBrand: Anti Hero\r\nModel: Cardiel Burger\r\n\r\nReplaces Sword Swallower 8.25",
+      "Version": 1.0,
+      "Author": "Wattie",
+      "DownloadLink": "rsmm://Url/https$github.com/WattieSession/SessionMods/releases/download/d40/Antihero-cardiel-watn.zip",
+      "PreviewImage": "https://user-images.githubusercontent.com/60822222/74212493-51633080-4c49-11ea-8df0-63219d3c2198.png",
+      "Category": "session-decks",
+      "UpdatedDate": "2020-02-07T00:00:00"
+    },
+    {
+      "ID": "Antihero-Cardiel-Carbine.zip",
+      "Name": "Antihero Cardiel Carbine",
+      "Description": "Type: Deck\r\nCondition: Used\r\nBrand: Anti Hero\r\nModel: Cardiel Carbine\r\n\r\nReplaces Doodler 8.5",
+      "Version": 1.0,
+      "Author": "Wattie",
+      "DownloadLink": "rsmm://Url/https$github.com/WattieSession/SessionMods/releases/download/d39/Antihero-Cardiel-Carbine.zip",
+      "PreviewImage": "https://user-images.githubusercontent.com/60822222/74212435-08ab7780-4c49-11ea-8d1a-7c9d43791315.png",
+      "Category": "session-decks",
+      "UpdatedDate": "2020-02-06T00:00:00"
+    },
+    {
+      "ID": "Antihero-grant9-used.zip",
+      "Name": "Antihero Grant Taylor Amp 2019",
+      "Description": "Type: Deck\r\nCondition: Used\r\nBrand: Anti Hero\r\nModel: Grant Taylor Amp 2019\r\n\r\nReplaces No Comply Orange 8.5",
+      "Version": 1.0,
+      "Author": "Wattie",
+      "DownloadLink": "rsmm://Url/https$github.com/WattieSession/SessionMods/releases/download/d38/Antihero-grant9-used.zip",
+      "PreviewImage": "https://user-images.githubusercontent.com/60822222/74212403-db5ec980-4c48-11ea-9335-8bbbc413586a.png",
+      "Category": "session-decks",
+      "UpdatedDate": "2020-02-05T00:00:00"
+    },
+    {
+      "ID": "dck-blind-megapapa.zip",
+      "Name": "Blind Mega Papa",
+      "Description": "Type: Deck\r\nCondition: Used\r\nBrand: Blind\r\nModel: Mega Papa\r\n\r\nReplaces Sword Swalloer 8.25",
+      "Version": 1.0,
+      "Author": "Wattie",
+      "DownloadLink": "rsmm://Url/https$github.com/WattieSession/SessionMods/releases/download/d37/dck-blind-megapapa.zip",
+      "PreviewImage": "https://user-images.githubusercontent.com/60822222/74212339-9044b680-4c48-11ea-8749-c2929f0c967e.png",
+      "Category": "session-decks",
+      "UpdatedDate": "2020-02-04T00:00:00"
+    },
+    {
+      "ID": "blind-jl-american-icons.zip",
+      "Name": "Blind Jason Lee American Icons",
+      "Description": "Type: Deck\r\nCondition: Used\r\nBrand: Blind\r\nModel: Jason Lee American Icons\r\n\r\nReplaces Sword Swalloer 8.25",
+      "Version": 1.0,
+      "Author": "Wattie",
+      "DownloadLink": "rsmm://Url/https$github.com/WattieSession/SessionMods/releases/download/d36/blind-jl-american-icons.zip",
+      "PreviewImage": "https://user-images.githubusercontent.com/60822222/74212306-6a1f1680-4c48-11ea-8777-1c9ddad590dd.png",
+      "Category": "session-decks",
+      "UpdatedDate": "2020-02-03T00:00:00"
+    },
+    {
+      "ID": " dck-rc-dj.zip",
+      "Name": "Blind Ronny Creager DJ",
+      "Description": "Type: Deck\r\nCondition: Used\r\nBrand: Blind\r\nModel: Ronny Creager DJ\r\n\r\nReplaces Half A Roger 8.125",
+      "Version": 1.0,
+      "Author": "Wattie",
+      "DownloadLink": "rsmm://Url/https$github.com/WattieSession/SessionMods/releases/download/d35/dck-rc-dj.zip",
+      "PreviewImage": "https://user-images.githubusercontent.com/60822222/74212249-33490080-4c48-11ea-9550-b5c5170cccbf.png",
+      "Category": "session-decks",
+      "UpdatedDate": "2020-02-02T00:00:00"
+    },
+    {
+      "ID": "bloodwizard-future.zip",
+      "Name": "Blood Wizard Future Silver",
+      "Description": "Type: Deck\r\nCondition: Used\r\nBrand: Blood Wizard\r\nModel: Future Silver 2019\r\n\r\nReplaces Ghost with a Boner 8.25",
+      "Version": 1.0,
+      "Author": "Wattie",
+      "DownloadLink": "rsmm://Url/https$github.com/WattieSession/SessionMods/releases/download/d34/bloodwizard-future.zip",
+      "PreviewImage": "https://user-images.githubusercontent.com/60822222/74212211-0ac10680-4c48-11ea-833b-e2d98a43a51b.png",
+      "Category": "session-decks",
+      "UpdatedDate": "2020-02-01T00:00:00"
+    },
+    {
+      "ID": "bw-given.zip",
+      "Name": "Blood Wizard Given 2019",
+      "Description": "Type: Deck\r\nCondition: Used\r\nBrand: Blood Wizard\r\nModel: Given 2019\r\n\r\nReplaces Black Eye deck",
+      "Version": 1.0,
+      "Author": "Wattie",
+      "DownloadLink": "rsmm://Url/https$github.com/WattieSession/SessionMods/releases/download/d33/bw-given.zip",
+      "PreviewImage": "https://user-images.githubusercontent.com/60822222/74212167-ce8da600-4c47-11ea-921d-68a752907681.png",
+      "Category": "session-decks",
+      "UpdatedDate": "2020-02-11T05:38:07.3134421Z"
+    },
+    {
+      "ID": "bw-kowalski.zip",
+      "Name": "Blood Wizard Kowalski 2019",
+      "Description": "Type: Deck\r\nCondition: Used\r\nBrand: Blood Wizard\r\nModel: Kowalski 2019\r\n\r\nReplaces Black Eye deck",
+      "Version": 1.0,
+      "Author": "Wattie",
+      "DownloadLink": "rsmm://Url/https$github.com/WattieSession/SessionMods/releases/download/d32/bw-kowalski.zip",
+      "PreviewImage": "https://user-images.githubusercontent.com/60822222/74212142-ad2cba00-4c47-11ea-9e7d-001241c4b55f.png",
+      "Category": "session-decks",
+      "UpdatedDate": "2020-02-11T05:39:26.5263739Z"
+    },
+    {
+      "ID": "cliche-101-natas-devil-v1.zip",
+      "Name": "Cliche 101 Natas Devil",
+      "Description": "Type: Deck\r\nCondition: Used\r\nBrand: Cliche 101\r\nModel: Natas Devil\r\n\r\nReplaces Sword Swalloer 8.25",
+      "Version": 1.0,
+      "Author": "Wattie",
+      "DownloadLink": "rsmm://Url/https$github.com/WattieSession/SessionMods/releases/download/d31/cliche-101-natas-devil-v1.zip",
+      "PreviewImage": "https://user-images.githubusercontent.com/60822222/74212101-79ea2b00-4c47-11ea-84d3-f80902d871d2.png",
+      "Category": "session-decks",
+      "UpdatedDate": "2020-02-11T05:40:43.7594153Z"
+    },
+    {
+      "ID": "Creature-Bingaman-Cannabis.zip",
+      "Name": "Creature Bingaman Cannabis",
+      "Description": "Type: Deck\r\nCondition: Used\r\nBrand: Creature\r\nModel: Bingaman Cannabis\r\n\r\nReplaces Toxic Eyes 8",
+      "Version": 1.0,
+      "Author": "Wattie",
+      "DownloadLink": "rsmm://Url/https$github.com/WattieSession/SessionMods/releases/download/d30/Creature-Bingaman-Cannabis.zip",
+      "PreviewImage": "https://user-images.githubusercontent.com/60822222/74212035-3d1e3400-4c47-11ea-8fde-bd292b0884a1.png",
+      "Category": "session-decks",
+      "UpdatedDate": "2020-02-11T05:42:06.7311591Z"
+    },
+    {
+      "ID": "dck-deez-avo.zip",
+      "Name": "Deedz Avocado",
+      "Description": "Type: Deck\r\nCondition: Used\r\nBrand: Deedz\r\nModel: Avocado\r\n\r\nReplaces Required Reading",
+      "Version": 1.0,
+      "Author": "Wattie",
+      "DownloadLink": "rsmm://Url/https$github.com/WattieSession/SessionMods/releases/download/d29/dck-deez-avo.zip",
+      "PreviewImage": "https://user-images.githubusercontent.com/60822222/74211976-0811e180-4c47-11ea-86c3-87f1df222996.png",
+      "Category": "session-decks",
+      "UpdatedDate": "2020-02-10T08:00:00Z"
+    },
+    {
+      "ID": "element-bam-belfry.zip",
+      "Name": "Element Bam Margera Belfry",
+      "Description": "Type: Deck\r\nCondition: Used\r\nBrand: Element\r\nModel: Bam Margera Belfry\r\n\r\nReplaces Ghost with aboner 8.25",
+      "Version": 1.0,
+      "Author": "Wattie",
+      "DownloadLink": "rsmm://Url/https$github.com/WattieSession/SessionMods/releases/download/d28/element-bam-belfry.zip",
+      "PreviewImage": "https://github.com/WattieSession/SessionMods/releases/download/d28/element-bam-belfry.zip",
+      "Category": "session-decks",
+      "UpdatedDate": "2020-02-11T06:03:49.2845144Z"
+    },
+    {
+      "ID": "element-nh-calavera.zip",
+      "Name": "Element Nyjah Houston Calavera",
+      "Description": "Type: Deck\r\nCondition: Used\r\nBrand: Element\r\nModel: Nyjah Houston Calavera\r\n\r\nReplaces Toxic Eyes 8",
+      "Version": 1.0,
+      "Author": "Wattie",
+      "DownloadLink": "rsmm://Url/https$github.com/WattieSession/SessionMods/releases/download/d27/element-nh-calavera.zip",
+      "PreviewImage": "https://user-images.githubusercontent.com/60822222/74211882-ae111c00-4c46-11ea-8f85-953e9a6128fa.png",
+      "Category": "session-decks",
+      "UpdatedDate": "2020-02-11T06:05:23.774302Z"
+    },
+    {
+      "ID": "foundation-rc-trix.zip",
+      "Name": "Foundation Ronny Creager Trix",
+      "Description": "Type: Deck\r\nCondition: Used\r\nBrand: Foundation\r\nModel: Ronny Creager Trix\r\n\r\nReplaces Ghost with a boner 8.25",
+      "Version": 1.0,
+      "Author": "Wattie",
+      "DownloadLink": "rsmm://Url/https$github.com/WattieSession/SessionMods/releases/download/d26/foundation-rc-trix.zip",
+      "PreviewImage": "https://user-images.githubusercontent.com/60822222/74211824-7013f800-4c46-11ea-8e2b-d874ca891f8e.png",
+      "Category": "session-decks",
+      "UpdatedDate": "2020-02-11T06:06:34.999858Z"
+    },
+    {
+      "ID": "Girl-MC-dali.zip",
+      "Name": "Girl Mike Carroll Dali Skull",
+      "Description": "Type: Deck\r\nCondition: Used\r\nBrand: Girl\r\nModel: Mike Carrol Dali Skull\r\n\r\nReplaces Toxic Eyes 8",
+      "Version": 1.0,
+      "Author": "Wattie",
+      "DownloadLink": "rsmm://Url/https$github.com/WattieSession/SessionMods/releases/download/d25/Girl-MC-dali.zip",
+      "PreviewImage": "https://user-images.githubusercontent.com/60822222/74211786-43f87700-4c46-11ea-8167-612ce4647ba6.png",
+      "Category": "session-decks",
+      "UpdatedDate": "2020-02-11T06:08:16.8212457Z"
+    },
+    {
+      "ID": "Girl.x.Alife.-.Budwesier.zip",
+      "Name": "Girl x Alife Budweiser",
+      "Description": "Type: Deck\r\nCondition: Used\r\nBrand: Girl\r\nModel: Alife x Budweiser\r\n\r\nReplaces Sword Swallower 8.25",
+      "Version": 1.0,
+      "Author": "Wattie",
+      "DownloadLink": "rsmm://Url/https$github.com/WattieSession/SessionMods/releases/download/d24/Girl.x.Alife.-.Budwesier.zip",
+      "PreviewImage": "https://user-images.githubusercontent.com/60822222/74211734-114e7e80-4c46-11ea-9cb6-d6c3de15bd60.png",
+      "Category": "session-decks",
+      "UpdatedDate": "2020-02-11T06:09:32.5540485Z"
+    },
+    {
+      "ID": "dck-habitat-bob.zip",
+      "Name": "Habitat Bobs Burger",
+      "Description": "Type: Deck\r\nCondition: Used\r\nBrand: Habitat\r\nModel: Bob Burger\r\n\r\nReplaces Ghost with a boner 8.25",
+      "Version": 1.0,
+      "Author": "Wattie",
+      "DownloadLink": "rsmm://Url/https$github.com/WattieSession/SessionMods/releases/download/d22/dck-habitat-bob.zip",
+      "PreviewImage": "https://user-images.githubusercontent.com/60822222/74211683-dc422c00-4c45-11ea-9fb2-9da774da11f4.png",
+      "Category": "session-decks",
+      "UpdatedDate": "2020-02-10T00:00:00"
+    },
+    {
+      "ID": "dck-hockey-kadow-shatter.zip",
+      "Name": "Hockey Kadow Shatter",
+      "Description": "Type: Deck\r\nCondition: Used\r\nBrand: Hockey\r\nModel: Kadow Shatter\r\n\r\nReplaces Half Roger",
+      "Version": 1.0,
+      "Author": "Wattie",
+      "DownloadLink": "rsmm://Url/https$github.com/WattieSession/SessionMods/releases/download/d21/dck-hockey-kadow-shatter.zip",
+      "PreviewImage": "https://user-images.githubusercontent.com/60822222/74211640-af8e1480-4c45-11ea-89da-55eb1a5dbee2.png",
+      "Category": "session-decks",
+      "UpdatedDate": "2020-02-11T06:39:10.2053324Z"
+    },
+    {
+      "ID": "hookups-jetpilot.zip",
+      "Name": "Hookups Jet Pilot",
+      "Description": "Type: Deck\r\nCondition: Used\r\nBrand: Hook Ups\r\nModel: Jet Pilot\r\n\r\nReplaces Half a Roger 8.125",
+      "Version": 1.0,
+      "Author": "Wattie",
+      "DownloadLink": "rsmm://Url/https$github.com/WattieSession/SessionMods/releases/download/d20/hookups-jetpilot.zip",
+      "PreviewImage": "https://user-images.githubusercontent.com/60822222/74211608-7fdf0c80-4c45-11ea-86df-afed87926a6b.png",
+      "Category": "session-decks",
+      "UpdatedDate": "2020-02-11T06:38:58.5341427Z"
+    },
+    {
+      "ID": "dck-jart-splatter.zip",
+      "Name": "Jart Splatter",
+      "Description": "Type: Deck\r\nCondition: Used\r\nBrand: Jart\r\nModel: Splatter\r\n\r\nReplaces Required Reading deck",
+      "Version": 1.0,
+      "Author": "Wattie",
+      "DownloadLink": "rsmm://Url/https$github.com/WattieSession/SessionMods/releases/download/d19/dck-jart-splatter.zip",
+      "PreviewImage": "https://user-images.githubusercontent.com/60822222/74211569-47d7c980-4c45-11ea-9d64-334ac4499efa.png",
+      "Category": "session-decks",
+      "UpdatedDate": "2020-02-11T06:38:56.6109495Z"
+    },
+    {
+      "ID": "jk-tetsuo-mutation.zip",
+      "Name": "World Industries JK Tetsuo Mutation",
+      "Description": "Type: Deck\r\nCondition: Used\r\nBrand: World Industries (JK)\r\nModel: Tetsuo Mutation\r\n\r\nReplaces OG Graphic 8.5",
+      "Version": 1.0,
+      "Author": "Wattie",
+      "DownloadLink": "rsmm://Url/https$github.com/WattieSession/SessionMods/releases/download/d18/jk-tetsuo-mutation.zip",
+      "PreviewImage": "https://user-images.githubusercontent.com/60822222/74211534-1f4fcf80-4c45-11ea-911f-3ef6213622a2.png",
+      "Category": "session-decks",
+      "UpdatedDate": "2020-02-11T06:38:54.1729194Z"
+    },
+    {
+      "ID": "krooked-chicoguest-yel.zip",
+      "Name": "Krooked Chico Brenes Guest Yellow",
+      "Description": "Type: Deck\r\nCondition: Used\r\nBrand: Krooked\r\nModel: Chico Brenes Guest Board (Yellow)\r\n\r\nReplaces Anatomy of an egg deck",
+      "Version": 1.0,
+      "Author": "Wattie",
+      "DownloadLink": "rsmm://Url/https$github.com/WattieSession/SessionMods/releases/download/d17/krooked-chicoguest-yel.zip",
+      "PreviewImage": "https://user-images.githubusercontent.com/60822222/74211452-d435bc80-4c44-11ea-9017-e00574f27394.png",
+      "Category": "session-decks",
+      "UpdatedDate": "2020-02-11T06:38:51.9491596Z"
+    },
+    {
+      "ID": "krooked-zipzogger-green.zip",
+      "Name": "Krooked Zip Zogger",
+      "Description": "Type: Deck\r\nCondition: Used\r\nBrand: Krooked\r\nModel: Zip Zogger\r\n\r\nReplaces Very Big Egg deck",
+      "Version": 1.0,
+      "Author": "Wattie",
+      "DownloadLink": "rsmm://Url/https$github.com/WattieSession/SessionMods/releases/download/d16/krooked-zipzogger-green.zip",
+      "PreviewImage": "https://user-images.githubusercontent.com/60822222/74211402-a05a9700-4c44-11ea-9530-aa50eb11ccdc.png",
+      "Category": "session-decks",
+      "UpdatedDate": "2020-02-11T06:38:46.3714328Z"
+    },
+    {
+      "ID": "dck-nd-dannys-monkey.zip",
+      "Name": "New Deal Sargent Monkey Bomber",
+      "Description": "Type: Deck\r\nCondition: Used\r\nBrand: New Deal\r\nModel: Sargent Monkey Bomber\r\n\r\nReplaces Toxic Eyes deck",
+      "Version": 1.0,
+      "Author": "Wattie",
+      "DownloadLink": "rsmm://Url/https$github.com/WattieSession/SessionMods/releases/download/d15/dck-nd-dannys-monkey.zip",
+      "PreviewImage": "https://user-images.githubusercontent.com/60822222/74211358-72755280-4c44-11ea-9ae4-1492b2eb1a8f.png",
+      "Category": "session-decks",
+      "UpdatedDate": "2020-02-11T06:38:43.7934476Z"
+    },
+    {
+      "ID": "dck-planb-mullen-yoda-clean.zip",
+      "Name": "Plan B Mullen Yoda (clean)",
+      "Description": "Type: Deck\r\nCondition: New\r\nBrand: Plan B\r\nModel: Rodney Mullen - Yoda\r\n\r\nReplaces sword swallower 8.25",
+      "Version": 1.0,
+      "Author": "Wattie",
+      "DownloadLink": "rsmm://Url/https$github.com/WattieSession/SessionMods/releases/download/d14/dck-planb-mullen-yoda-clean.zip",
+      "PreviewImage": "https://user-images.githubusercontent.com/60822222/74211308-2e824d80-4c44-11ea-9b13-568c2fdd7b48.png",
+      "Category": "session-decks",
+      "UpdatedDate": "2020-02-11T06:38:41.6197944Z"
+    },
+    {
+      "ID": "pp-raybarbee-og-blue.zip",
+      "Name": "Powell Peralta Ray Barbee Ragdoll",
+      "Description": "Type: Deck\r\nCondition: Used\r\nBrand: Powell Peralta\r\nModel: Ray Barbee Ragdoll\r\n\r\nReplaces Toxic Eyes deck",
+      "Version": 1.0,
+      "Author": "Wattie",
+      "DownloadLink": "rsmm://Url/https$github.com/WattieSession/SessionMods/releases/download/d13/pp-raybarbee-og-blue.zip",
+      "PreviewImage": "https://user-images.githubusercontent.com/60822222/74211251-e6632b00-4c43-11ea-9eea-dd89561ca57d.png",
+      "Category": "session-decks",
+      "UpdatedDate": "2020-02-11T06:38:39.1256805Z"
+    },
+    {
+      "ID": "Prime.Wood.-.Jason.Lee.-.Bowie.zip",
+      "Name": "Prime Wood Jason Lee Bowie",
+      "Description": "Type: Deck\r\nCondition: Used\r\nBrand: Prime Wood\r\nModel: Jason Lee Bowie\r\n\r\nReplaces Weedcobra 8.125",
+      "Version": 1.0,
+      "Author": "Wattie",
+      "DownloadLink": "rsmm://Url/https$github.com/WattieSession/SessionMods/releases/download/d12/Prime.Wood.-.Jason.Lee.-.Bowie.zip",
+      "PreviewImage": "https://user-images.githubusercontent.com/60822222/74211184-9d12db80-4c43-11ea-91e9-5862eb771994.png",
+      "Category": "session-decks",
+      "UpdatedDate": "2020-02-11T06:38:36.6325Z"
+    },
+    {
+      "ID": "Real-kbird.zip",
+      "Name": "Real KBird",
+      "Description": "Type: Deck\r\nCondition: Used\r\nBrand: Real\r\nModel: KBird\r\n\r\nReplaces Ghost with a boner 8.25",
+      "Version": 1.0,
+      "Author": "Wattie",
+      "DownloadLink": "rsmm://Url/https$github.com/WattieSession/SessionMods/releases/download/d11/Real-kbird.zip",
+      "PreviewImage": "https://user-images.githubusercontent.com/60822222/74211140-6937b600-4c43-11ea-9484-d07e82843eaf.png",
+      "Category": "session-decks",
+      "UpdatedDate": "2020-02-11T06:38:33.7571528Z"
+    },
+    {
+      "ID": "sp-barnyard19.zip",
+      "Name": "Street Plant Barnyard 2019",
+      "Description": "Type: Deck\r\nCondition: Used\r\nBrand: Street Plant\r\nModel: Barnyard 2019\r\n\r\nReplaces Black Eye deck",
+      "Version": 1.0,
+      "Author": "Wattie",
+      "DownloadLink": "rsmm://Url/https$github.com/WattieSession/SessionMods/releases/download/d10/sp-barnyard19.zip",
+      "PreviewImage": "https://user-images.githubusercontent.com/60822222/74211076-2d9cec00-4c43-11ea-932f-338d4914a15c.png",
+      "Category": "session-decks",
+      "UpdatedDate": "2020-02-11T06:38:31.0893036Z"
+    },
+    {
+      "ID": "dck-vision-psychostick.zip",
+      "Name": "Vision Psycho Stick",
+      "Description": "Type: Deck\r\nCondition: Used\r\nBrand: Vision\r\nModel: Psycho Stick\r\n\r\nReplaces Toxic Eyes deck",
+      "Version": 1.0,
+      "Author": "Wattie",
+      "DownloadLink": "rsmm://Url/https$github.com/WattieSession/SessionMods/releases/download/d9/dck-vision-psychostick.zip",
+      "PreviewImage": "https://user-images.githubusercontent.com/60822222/74211022-f75f6c80-4c42-11ea-843f-92e895687ccb.png",
+      "Category": "session-decks",
+      "UpdatedDate": "2020-02-11T06:38:28.9812539Z"
+    },
+    {
+      "ID": "wi-jk-tetsuo-v1.zip",
+      "Name": "World Industries JK Tetsuo 1",
+      "Description": "Type: Deck\r\nCondition: Used\r\nBrand: World Industries (JK)\r\nModel: Tetsuo 1\r\n\r\nReplaces Weedcobra 8.125",
+      "Version": 1.0,
+      "Author": "Wattie",
+      "DownloadLink": "rsmm://Url/https$github.com/WattieSession/SessionMods/releases/download/d8/wi-jk-tetsuo-v1.zip",
+      "PreviewImage": "https://user-images.githubusercontent.com/60822222/74210965-b10a0d80-4c42-11ea-9807-8d96a4d47962.png",
+      "Category": "session-decks",
+      "UpdatedDate": "2020-02-11T06:38:26.797591Z"
+    },
+    {
+      "ID": "wi-jk-tetsuo2.zip",
+      "Name": "World Industries JK Tetsuo 2",
+      "Description": "Type: Deck\r\nCondition: Used\r\nBrand: World Industries (JK)\r\nModel: Tetsuo 2\r\n\r\nReplaces Weedcobra 8.125",
+      "Version": 1.0,
+      "Author": "Wattie",
+      "DownloadLink": "rsmm://Url/https$github.com/WattieSession/SessionMods/releases/download/d7/wi-jk-tetsuo2.zip",
+      "PreviewImage": "https://user-images.githubusercontent.com/60822222/74210925-84ee8c80-4c42-11ea-92c0-918ad7649b18.png",
+      "Category": "session-decks",
+      "UpdatedDate": "2020-02-11T06:38:24.0595419Z"
+    },
+    {
+      "ID": "wi-jk-tetsuo3.zip",
+      "Name": "World Industries JK Tetsuo 3",
+      "Description": "Type: Deck\r\nCondition: Used\r\nBrand: World Industries (JK)\r\nModel: Tetsuo 3\r\n\r\nReplaces Dog Balls 8.125",
+      "Version": 1.0,
+      "Author": "Wattie",
+      "DownloadLink": "rsmm://Url/https$github.com/WattieSession/SessionMods/releases/download/d6/wi-jk-tetsuo3.zip",
+      "PreviewImage": "https://user-images.githubusercontent.com/60822222/74210869-54a6ee00-4c42-11ea-93e4-4376afe66964.png",
+      "Category": "session-decks",
+      "UpdatedDate": "2020-02-11T06:38:21.8649353Z"
+    },
+    {
+      "ID": "dck-zero-allie-taxi.zip",
+      "Name": "Zero Allie Taxi Driver",
+      "Description": "Type: Deck\r\nCondition: Used\r\nBrand: Zero\r\nModel: Allie Taxi Driver\r\n\r\nReplaces Free the hand deck",
+      "Version": 1.0,
+      "Author": "Wattie",
+      "DownloadLink": "rsmm://Url/https$github.com/WattieSession/SessionMods/releases/download/d5/dck-zero-allie-taxi.zip",
+      "PreviewImage": "https://user-images.githubusercontent.com/60822222/74210806-17426080-4c42-11ea-8433-8028b5028cda.png",
+      "Category": "session-decks",
+      "UpdatedDate": "2020-02-11T06:38:19.6203718Z"
+    },
+    {
+      "ID": "dck-zero-bold.zip",
+      "Name": "Zero Bold",
+      "Description": "Type: Deck\r\nCondition: Used\r\nBrand: Zero\r\nModel: Bold\r\n\r\nReplaces Half a Roger 8.125",
+      "Version": 1.0,
+      "Author": "Wattie",
+      "DownloadLink": "rsmm://Url/https$github.com/WattieSession/SessionMods/releases/download/d4/dck-zero-bold.zip",
+      "PreviewImage": "https://user-images.githubusercontent.com/60822222/74210758-e7935880-4c41-11ea-86d0-db39706f9a8f.png",
+      "Category": "session-decks",
+      "UpdatedDate": "2020-02-11T06:38:17.7383515Z"
+    },
+    {
+      "ID": "dck-zero-misfits-ad.zip",
+      "Name": "Zero Misfits A.D.",
+      "Description": "Type: Deck\r\nCondition: Used\r\nBrand: Zero\r\nModel: Misfits A.D.\r\n\r\nReplaces First Place deck",
+      "Version": 1.0,
+      "Author": "Wattie",
+      "DownloadLink": "rsmm://Url/https$github.com/WattieSession/SessionMods/releases/download/d3/dck-zero-misfits-ad.zip",
+      "PreviewImage": "https://user-images.githubusercontent.com/60822222/74210718-a56a1700-4c41-11ea-8268-fac0c47d6017.png",
+      "Category": "session-decks",
+      "UpdatedDate": "2020-02-11T06:38:15.4653745Z"
+    },
+    {
+      "ID": "zooyork-tag-gld.zip",
+      "Name": "Zoo York Gold Tag",
+      "Description": "Type: Deck\r\nCondition: Used\r\nBrand: Zoo York\r\nModel: Gold Tag\r\n\r\nReplaces Weedcobra 8.125",
+      "Version": 1.0,
+      "Author": "Wattie",
+      "DownloadLink": "rsmm://Url/https$github.com/WattieSession/SessionMods/releases/download/d2/zooyork-tag-gld.zip",
+      "PreviewImage": "https://user-images.githubusercontent.com/60822222/74210658-6c31a700-4c41-11ea-9c37-f1c6a7d56172.png",
+      "Category": "session-decks",
+      "UpdatedDate": "2020-02-11T06:38:13.2387929Z"
+    },
+    {
+      "ID": "zooyorkxrime.zip",
+      "Name": "Zoo York x Rime",
+      "Description": "Type: Deck\r\nCondition: Used\r\nBrand: Zoo York\r\nModel: X Rime\r\n\r\nReplaces Doodlers 8.5",
+      "Version": 1.0,
+      "Author": "Wattie",
+      "DownloadLink": "rsmm://Url/https$github.com/WattieSession/SessionMods/releases/download/d1/zooyorkxrime.zip",
+      "PreviewImage": "https://user-images.githubusercontent.com/60822222/74210624-3f7d8f80-4c41-11ea-938f-2fa05994c4a2.png",
+      "Category": "session-decks",
+      "UpdatedDate": "2020-02-10T08:00:00Z"
     }
   ]
 }
