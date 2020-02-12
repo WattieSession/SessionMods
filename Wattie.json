@@ -1,5 +1,5 @@
 {
-  "Name": "Wattie",
+  "Name": "",
   "Assets": [
     {
       "ID": "axion-kc-v2.zip",
@@ -142,7 +142,7 @@
       "DownloadLink": "rsmm://Url/https$github.com/WattieSession/SessionMods/releases/download/d44/101-gino-gza.zip",
       "PreviewImage": "https://user-images.githubusercontent.com/60822222/74212682-3a710e00-4c4a-11ea-96cf-031eb29d34f7.png",
       "Category": "session-decks",
-      "UpdatedDate": "2020-02-11T05:17:29.9542049Z"
+      "UpdatedDate": "2020-02-10T21:17:29.9542049-08:00"
     },
     {
       "ID": "Almost-centerpiece-wht.zip",
@@ -153,7 +153,7 @@
       "DownloadLink": "rsmm://Url/https$github.com/WattieSession/SessionMods/releases/download/d43/Almost-centerpiece-wht.zip",
       "PreviewImage": "https://user-images.githubusercontent.com/60822222/74212643-11e91400-4c4a-11ea-925f-1170930727d2.png",
       "Category": "session-decks",
-      "UpdatedDate": "2020-02-09T08:00:00Z"
+      "UpdatedDate": "2020-02-09T00:00:00-08:00"
     },
     {
       "ID": "Almost-haslam-tallship.zip",
@@ -164,7 +164,7 @@
       "DownloadLink": "rsmm://Url/https$github.com/WattieSession/SessionMods/releases/download/d42/Almost-haslam-tallship.zip",
       "PreviewImage": "https://user-images.githubusercontent.com/60822222/74212585-b4ed5e00-4c49-11ea-98a9-2ed9fd57946e.png",
       "Category": "session-decks",
-      "UpdatedDate": "2020-02-08T08:00:00Z"
+      "UpdatedDate": "2020-02-08T00:00:00-08:00"
     },
     {
       "ID": "dck-almost-lewisforever.zip",
@@ -263,7 +263,7 @@
       "DownloadLink": "rsmm://Url/https$github.com/WattieSession/SessionMods/releases/download/d33/bw-given.zip",
       "PreviewImage": "https://user-images.githubusercontent.com/60822222/74212167-ce8da600-4c47-11ea-921d-68a752907681.png",
       "Category": "session-decks",
-      "UpdatedDate": "2020-02-11T05:38:07.3134421Z"
+      "UpdatedDate": "2020-02-10T21:38:07.3134421-08:00"
     },
     {
       "ID": "bw-kowalski.zip",
@@ -274,7 +274,7 @@
       "DownloadLink": "rsmm://Url/https$github.com/WattieSession/SessionMods/releases/download/d32/bw-kowalski.zip",
       "PreviewImage": "https://user-images.githubusercontent.com/60822222/74212142-ad2cba00-4c47-11ea-9e7d-001241c4b55f.png",
       "Category": "session-decks",
-      "UpdatedDate": "2020-02-11T05:39:26.5263739Z"
+      "UpdatedDate": "2020-02-10T21:39:26.5263739-08:00"
     },
     {
       "ID": "cliche-101-natas-devil-v1.zip",
@@ -285,7 +285,7 @@
       "DownloadLink": "rsmm://Url/https$github.com/WattieSession/SessionMods/releases/download/d31/cliche-101-natas-devil-v1.zip",
       "PreviewImage": "https://user-images.githubusercontent.com/60822222/74212101-79ea2b00-4c47-11ea-84d3-f80902d871d2.png",
       "Category": "session-decks",
-      "UpdatedDate": "2020-02-11T05:40:43.7594153Z"
+      "UpdatedDate": "2020-02-10T21:40:43.7594153-08:00"
     },
     {
       "ID": "Creature-Bingaman-Cannabis.zip",
@@ -296,7 +296,7 @@
       "DownloadLink": "rsmm://Url/https$github.com/WattieSession/SessionMods/releases/download/d30/Creature-Bingaman-Cannabis.zip",
       "PreviewImage": "https://user-images.githubusercontent.com/60822222/74212035-3d1e3400-4c47-11ea-8fde-bd292b0884a1.png",
       "Category": "session-decks",
-      "UpdatedDate": "2020-02-11T05:42:06.7311591Z"
+      "UpdatedDate": "2020-02-10T21:42:06.7311591-08:00"
     },
     {
       "ID": "dck-deez-avo.zip",
@@ -307,7 +307,7 @@
       "DownloadLink": "rsmm://Url/https$github.com/WattieSession/SessionMods/releases/download/d29/dck-deez-avo.zip",
       "PreviewImage": "https://user-images.githubusercontent.com/60822222/74211976-0811e180-4c47-11ea-86c3-87f1df222996.png",
       "Category": "session-decks",
-      "UpdatedDate": "2020-02-10T08:00:00Z"
+      "UpdatedDate": "2020-02-10T00:00:00-08:00"
     },
     {
       "ID": "element-bam-belfry.zip",
@@ -318,7 +318,7 @@
       "DownloadLink": "rsmm://Url/https$github.com/WattieSession/SessionMods/releases/download/d28/element-bam-belfry.zip",
       "PreviewImage": "https://github.com/WattieSession/SessionMods/releases/download/d28/element-bam-belfry.zip",
       "Category": "session-decks",
-      "UpdatedDate": "2020-02-11T06:03:49.2845144Z"
+      "UpdatedDate": "2020-02-10T22:03:49.2845144-08:00"
     },
     {
       "ID": "element-nh-calavera.zip",
@@ -329,7 +329,7 @@
       "DownloadLink": "rsmm://Url/https$github.com/WattieSession/SessionMods/releases/download/d27/element-nh-calavera.zip",
       "PreviewImage": "https://user-images.githubusercontent.com/60822222/74211882-ae111c00-4c46-11ea-8f85-953e9a6128fa.png",
       "Category": "session-decks",
-      "UpdatedDate": "2020-02-11T06:05:23.774302Z"
+      "UpdatedDate": "2020-02-10T22:05:23.774302-08:00"
     },
     {
       "ID": "foundation-rc-trix.zip",
@@ -340,7 +340,7 @@
       "DownloadLink": "rsmm://Url/https$github.com/WattieSession/SessionMods/releases/download/d26/foundation-rc-trix.zip",
       "PreviewImage": "https://user-images.githubusercontent.com/60822222/74211824-7013f800-4c46-11ea-8e2b-d874ca891f8e.png",
       "Category": "session-decks",
-      "UpdatedDate": "2020-02-11T06:06:34.999858Z"
+      "UpdatedDate": "2020-02-10T22:06:34.999858-08:00"
     },
     {
       "ID": "Girl-MC-dali.zip",
@@ -351,7 +351,7 @@
       "DownloadLink": "rsmm://Url/https$github.com/WattieSession/SessionMods/releases/download/d25/Girl-MC-dali.zip",
       "PreviewImage": "https://user-images.githubusercontent.com/60822222/74211786-43f87700-4c46-11ea-8167-612ce4647ba6.png",
       "Category": "session-decks",
-      "UpdatedDate": "2020-02-11T06:08:16.8212457Z"
+      "UpdatedDate": "2020-02-10T22:08:16.8212457-08:00"
     },
     {
       "ID": "Girl.x.Alife.-.Budwesier.zip",
@@ -362,7 +362,7 @@
       "DownloadLink": "rsmm://Url/https$github.com/WattieSession/SessionMods/releases/download/d24/Girl.x.Alife.-.Budwesier.zip",
       "PreviewImage": "https://user-images.githubusercontent.com/60822222/74211734-114e7e80-4c46-11ea-9cb6-d6c3de15bd60.png",
       "Category": "session-decks",
-      "UpdatedDate": "2020-02-11T06:09:32.5540485Z"
+      "UpdatedDate": "2020-02-10T22:09:32.5540485-08:00"
     },
     {
       "ID": "dck-habitat-bob.zip",
@@ -384,7 +384,7 @@
       "DownloadLink": "rsmm://Url/https$github.com/WattieSession/SessionMods/releases/download/d21/dck-hockey-kadow-shatter.zip",
       "PreviewImage": "https://user-images.githubusercontent.com/60822222/74211640-af8e1480-4c45-11ea-89da-55eb1a5dbee2.png",
       "Category": "session-decks",
-      "UpdatedDate": "2020-02-11T06:39:10.2053324Z"
+      "UpdatedDate": "2020-02-10T22:39:10.2053324-08:00"
     },
     {
       "ID": "hookups-jetpilot.zip",
@@ -395,7 +395,7 @@
       "DownloadLink": "rsmm://Url/https$github.com/WattieSession/SessionMods/releases/download/d20/hookups-jetpilot.zip",
       "PreviewImage": "https://user-images.githubusercontent.com/60822222/74211608-7fdf0c80-4c45-11ea-86df-afed87926a6b.png",
       "Category": "session-decks",
-      "UpdatedDate": "2020-02-11T06:38:58.5341427Z"
+      "UpdatedDate": "2020-02-10T22:38:58.5341427-08:00"
     },
     {
       "ID": "dck-jart-splatter.zip",
@@ -406,7 +406,7 @@
       "DownloadLink": "rsmm://Url/https$github.com/WattieSession/SessionMods/releases/download/d19/dck-jart-splatter.zip",
       "PreviewImage": "https://user-images.githubusercontent.com/60822222/74211569-47d7c980-4c45-11ea-9d64-334ac4499efa.png",
       "Category": "session-decks",
-      "UpdatedDate": "2020-02-11T06:38:56.6109495Z"
+      "UpdatedDate": "2020-02-10T22:38:56.6109495-08:00"
     },
     {
       "ID": "jk-tetsuo-mutation.zip",
@@ -417,7 +417,7 @@
       "DownloadLink": "rsmm://Url/https$github.com/WattieSession/SessionMods/releases/download/d18/jk-tetsuo-mutation.zip",
       "PreviewImage": "https://user-images.githubusercontent.com/60822222/74211534-1f4fcf80-4c45-11ea-911f-3ef6213622a2.png",
       "Category": "session-decks",
-      "UpdatedDate": "2020-02-11T06:38:54.1729194Z"
+      "UpdatedDate": "2020-02-10T22:38:54.1729194-08:00"
     },
     {
       "ID": "krooked-chicoguest-yel.zip",
@@ -428,7 +428,7 @@
       "DownloadLink": "rsmm://Url/https$github.com/WattieSession/SessionMods/releases/download/d17/krooked-chicoguest-yel.zip",
       "PreviewImage": "https://user-images.githubusercontent.com/60822222/74211452-d435bc80-4c44-11ea-9017-e00574f27394.png",
       "Category": "session-decks",
-      "UpdatedDate": "2020-02-11T06:38:51.9491596Z"
+      "UpdatedDate": "2020-02-10T22:38:51.9491596-08:00"
     },
     {
       "ID": "krooked-zipzogger-green.zip",
@@ -439,7 +439,7 @@
       "DownloadLink": "rsmm://Url/https$github.com/WattieSession/SessionMods/releases/download/d16/krooked-zipzogger-green.zip",
       "PreviewImage": "https://user-images.githubusercontent.com/60822222/74211402-a05a9700-4c44-11ea-9530-aa50eb11ccdc.png",
       "Category": "session-decks",
-      "UpdatedDate": "2020-02-11T06:38:46.3714328Z"
+      "UpdatedDate": "2020-02-10T22:38:46.3714328-08:00"
     },
     {
       "ID": "dck-nd-dannys-monkey.zip",
@@ -450,7 +450,7 @@
       "DownloadLink": "rsmm://Url/https$github.com/WattieSession/SessionMods/releases/download/d15/dck-nd-dannys-monkey.zip",
       "PreviewImage": "https://user-images.githubusercontent.com/60822222/74211358-72755280-4c44-11ea-9ae4-1492b2eb1a8f.png",
       "Category": "session-decks",
-      "UpdatedDate": "2020-02-11T06:38:43.7934476Z"
+      "UpdatedDate": "2020-02-10T22:38:43.7934476-08:00"
     },
     {
       "ID": "dck-planb-mullen-yoda-clean.zip",
@@ -461,7 +461,7 @@
       "DownloadLink": "rsmm://Url/https$github.com/WattieSession/SessionMods/releases/download/d14/dck-planb-mullen-yoda-clean.zip",
       "PreviewImage": "https://user-images.githubusercontent.com/60822222/74211308-2e824d80-4c44-11ea-9b13-568c2fdd7b48.png",
       "Category": "session-decks",
-      "UpdatedDate": "2020-02-11T06:38:41.6197944Z"
+      "UpdatedDate": "2020-02-10T22:38:41.6197944-08:00"
     },
     {
       "ID": "pp-raybarbee-og-blue.zip",
@@ -472,7 +472,7 @@
       "DownloadLink": "rsmm://Url/https$github.com/WattieSession/SessionMods/releases/download/d13/pp-raybarbee-og-blue.zip",
       "PreviewImage": "https://user-images.githubusercontent.com/60822222/74211251-e6632b00-4c43-11ea-9eea-dd89561ca57d.png",
       "Category": "session-decks",
-      "UpdatedDate": "2020-02-11T06:38:39.1256805Z"
+      "UpdatedDate": "2020-02-10T22:38:39.1256805-08:00"
     },
     {
       "ID": "Prime.Wood.-.Jason.Lee.-.Bowie.zip",
@@ -483,7 +483,7 @@
       "DownloadLink": "rsmm://Url/https$github.com/WattieSession/SessionMods/releases/download/d12/Prime.Wood.-.Jason.Lee.-.Bowie.zip",
       "PreviewImage": "https://user-images.githubusercontent.com/60822222/74211184-9d12db80-4c43-11ea-91e9-5862eb771994.png",
       "Category": "session-decks",
-      "UpdatedDate": "2020-02-11T06:38:36.6325Z"
+      "UpdatedDate": "2020-02-10T22:38:36.6325-08:00"
     },
     {
       "ID": "Real-kbird.zip",
@@ -494,7 +494,7 @@
       "DownloadLink": "rsmm://Url/https$github.com/WattieSession/SessionMods/releases/download/d11/Real-kbird.zip",
       "PreviewImage": "https://user-images.githubusercontent.com/60822222/74211140-6937b600-4c43-11ea-9484-d07e82843eaf.png",
       "Category": "session-decks",
-      "UpdatedDate": "2020-02-11T06:38:33.7571528Z"
+      "UpdatedDate": "2020-02-10T22:38:33.7571528-08:00"
     },
     {
       "ID": "sp-barnyard19.zip",
@@ -505,7 +505,7 @@
       "DownloadLink": "rsmm://Url/https$github.com/WattieSession/SessionMods/releases/download/d10/sp-barnyard19.zip",
       "PreviewImage": "https://user-images.githubusercontent.com/60822222/74211076-2d9cec00-4c43-11ea-932f-338d4914a15c.png",
       "Category": "session-decks",
-      "UpdatedDate": "2020-02-11T06:38:31.0893036Z"
+      "UpdatedDate": "2020-02-10T22:38:31.0893036-08:00"
     },
     {
       "ID": "dck-vision-psychostick.zip",
@@ -516,7 +516,7 @@
       "DownloadLink": "rsmm://Url/https$github.com/WattieSession/SessionMods/releases/download/d9/dck-vision-psychostick.zip",
       "PreviewImage": "https://user-images.githubusercontent.com/60822222/74211022-f75f6c80-4c42-11ea-843f-92e895687ccb.png",
       "Category": "session-decks",
-      "UpdatedDate": "2020-02-11T06:38:28.9812539Z"
+      "UpdatedDate": "2020-02-10T22:38:28.9812539-08:00"
     },
     {
       "ID": "wi-jk-tetsuo-v1.zip",
@@ -527,7 +527,7 @@
       "DownloadLink": "rsmm://Url/https$github.com/WattieSession/SessionMods/releases/download/d8/wi-jk-tetsuo-v1.zip",
       "PreviewImage": "https://user-images.githubusercontent.com/60822222/74210965-b10a0d80-4c42-11ea-9807-8d96a4d47962.png",
       "Category": "session-decks",
-      "UpdatedDate": "2020-02-11T06:38:26.797591Z"
+      "UpdatedDate": "2020-02-10T22:38:26.797591-08:00"
     },
     {
       "ID": "wi-jk-tetsuo2.zip",
@@ -538,7 +538,7 @@
       "DownloadLink": "rsmm://Url/https$github.com/WattieSession/SessionMods/releases/download/d7/wi-jk-tetsuo2.zip",
       "PreviewImage": "https://user-images.githubusercontent.com/60822222/74210925-84ee8c80-4c42-11ea-92c0-918ad7649b18.png",
       "Category": "session-decks",
-      "UpdatedDate": "2020-02-11T06:38:24.0595419Z"
+      "UpdatedDate": "2020-02-10T22:38:24.0595419-08:00"
     },
     {
       "ID": "wi-jk-tetsuo3.zip",
@@ -549,7 +549,7 @@
       "DownloadLink": "rsmm://Url/https$github.com/WattieSession/SessionMods/releases/download/d6/wi-jk-tetsuo3.zip",
       "PreviewImage": "https://user-images.githubusercontent.com/60822222/74210869-54a6ee00-4c42-11ea-93e4-4376afe66964.png",
       "Category": "session-decks",
-      "UpdatedDate": "2020-02-11T06:38:21.8649353Z"
+      "UpdatedDate": "2020-02-10T22:38:21.8649353-08:00"
     },
     {
       "ID": "dck-zero-allie-taxi.zip",
@@ -560,7 +560,7 @@
       "DownloadLink": "rsmm://Url/https$github.com/WattieSession/SessionMods/releases/download/d5/dck-zero-allie-taxi.zip",
       "PreviewImage": "https://user-images.githubusercontent.com/60822222/74210806-17426080-4c42-11ea-8433-8028b5028cda.png",
       "Category": "session-decks",
-      "UpdatedDate": "2020-02-11T06:38:19.6203718Z"
+      "UpdatedDate": "2020-02-10T22:38:19.6203718-08:00"
     },
     {
       "ID": "dck-zero-bold.zip",
@@ -571,7 +571,7 @@
       "DownloadLink": "rsmm://Url/https$github.com/WattieSession/SessionMods/releases/download/d4/dck-zero-bold.zip",
       "PreviewImage": "https://user-images.githubusercontent.com/60822222/74210758-e7935880-4c41-11ea-86d0-db39706f9a8f.png",
       "Category": "session-decks",
-      "UpdatedDate": "2020-02-11T06:38:17.7383515Z"
+      "UpdatedDate": "2020-02-10T22:38:17.7383515-08:00"
     },
     {
       "ID": "dck-zero-misfits-ad.zip",
@@ -582,7 +582,7 @@
       "DownloadLink": "rsmm://Url/https$github.com/WattieSession/SessionMods/releases/download/d3/dck-zero-misfits-ad.zip",
       "PreviewImage": "https://user-images.githubusercontent.com/60822222/74210718-a56a1700-4c41-11ea-8268-fac0c47d6017.png",
       "Category": "session-decks",
-      "UpdatedDate": "2020-02-11T06:38:15.4653745Z"
+      "UpdatedDate": "2020-02-10T22:38:15.4653745-08:00"
     },
     {
       "ID": "zooyork-tag-gld.zip",
@@ -593,7 +593,7 @@
       "DownloadLink": "rsmm://Url/https$github.com/WattieSession/SessionMods/releases/download/d2/zooyork-tag-gld.zip",
       "PreviewImage": "https://user-images.githubusercontent.com/60822222/74210658-6c31a700-4c41-11ea-9c37-f1c6a7d56172.png",
       "Category": "session-decks",
-      "UpdatedDate": "2020-02-11T06:38:13.2387929Z"
+      "UpdatedDate": "2020-02-10T22:38:13.2387929-08:00"
     },
     {
       "ID": "zooyorkxrime.zip",
@@ -604,7 +604,205 @@
       "DownloadLink": "rsmm://Url/https$github.com/WattieSession/SessionMods/releases/download/d1/zooyorkxrime.zip",
       "PreviewImage": "https://user-images.githubusercontent.com/60822222/74210624-3f7d8f80-4c41-11ea-938f-2fa05994c4a2.png",
       "Category": "session-decks",
-      "UpdatedDate": "2020-02-10T08:00:00Z"
+      "UpdatedDate": "2020-02-10T00:00:00-08:00"
+    },
+    {
+      "ID": "nike-sb-wutang-mids.zip",
+      "Name": "Nike SB - Mids - Wu-Tang",
+      "Description": "Condition: New\r\nBrand: Nike SB\r\nModel: Mids - Wu-Tang\r\nVersion: 1\r\n\r\nIMPORTANT\r\n\r\nReplaces Black Mid Top in game.\r\n\r\nFor my latest releases: https://github.com/WattieSession/SessionMods/releases",
+      "Version": 1.0,
+      "Author": "Wattie",
+      "DownloadLink": "rsmm://Url/https$github.com/WattieSession/SessionMods/releases/download/ns1/nike-sb-wutang-mids.zip",
+      "PreviewImage": "https://user-images.githubusercontent.com/60822222/74306520-95bd0200-4d17-11ea-913c-7794df29a38c.png",
+      "Category": "session-shoes",
+      "UpdatedDate": "2020-02-08T00:00:00"
+    },
+    {
+      "ID": "nike-sb-verdy-gdc-red.zip",
+      "Name": "Nike SB - Lows - Verdy GDC - Red",
+      "Description": "Condition: New\r\nBrand: Nike SB\r\nModel: Lows - Verdy GDC\r\nColor: Red\r\nVersion: 1\r\n\r\nIMPORTANT\r\n\r\nPlease install [Shoes] Low Top Skate Shoe Mesh in the meshes section for the proper look.\r\n\r\nReplaces Mid Top in game.\r\n\r\nFor my latest releases: https://github.com/WattieSession/SessionMods/releases",
+      "Version": 1.0,
+      "Author": "Wattie",
+      "DownloadLink": "rsmm://Url/https$github.com/WattieSession/SessionMods/releases/download/n17/nike-sb-verdy-gdc-red.zip",
+      "PreviewImage": "https://user-images.githubusercontent.com/60822222/74306036-3dd1cb80-4d16-11ea-86f3-8be4aaf35b52.png",
+      "Category": "session-shoes",
+      "UpdatedDate": "2020-02-07T00:00:00"
+    },
+    {
+      "ID": "nike-sb-verdy-gdc-cream.zip",
+      "Name": "Nike SB - Lows - Verdy GDC - Cream",
+      "Description": "Condition: New\r\nBrand: Nike SB\r\nModel: Lows - Verdy GDC\r\nColor: Cream\r\nVersion: 1\r\n\r\nIMPORTANT\r\n\r\nPlease install [Shoes] Low Top Skate Shoe Mesh in the meshes section for the proper look.\r\n\r\nReplaces Mid Top in game.\r\n\r\nFor my latest releases: https://github.com/WattieSession/SessionMods/releases",
+      "Version": 1.0,
+      "Author": "Wattie",
+      "DownloadLink": "rsmm://Url/https$github.com/WattieSession/SessionMods/releases/download/n16/nike-sb-verdy-gdc-cream.zip",
+      "PreviewImage": "https://user-images.githubusercontent.com/60822222/74305962-1549d180-4d16-11ea-9654-0b2e2a323fba.png",
+      "Category": "session-shoes",
+      "UpdatedDate": "2020-02-06T00:00:00"
+    },
+    {
+      "ID": "nike-sb-vapormids.zip",
+      "Name": "Nike SB - Mids - Vapor",
+      "Description": "Condition: New\r\nBrand: Nike SB\r\nModel: Mids - Vapor\r\nVersion: 1\r\n\r\nIMPORTANT\r\n\r\nReplaces Black Mid Top in game.\r\n\r\nFor my latest releases: https://github.com/WattieSession/SessionMods/releases",
+      "Version": 1.0,
+      "Author": "Wattie",
+      "DownloadLink": "rsmm://Url/https$github.com/WattieSession/SessionMods/releases/download/n15/nike-sb-vapormids.zip",
+      "PreviewImage": "https://user-images.githubusercontent.com/60822222/74305881-e29fd900-4d15-11ea-88b3-7513e48f76fa.png",
+      "Category": "session-shoes",
+      "UpdatedDate": "2020-02-05T00:00:00"
+    },
+    {
+      "ID": "nike-sb-spidermans.zip",
+      "Name": "Nike SB - Mids - Spiderman",
+      "Description": "Condition: New\r\nBrand: Nike SB\r\nModel: Mids - Spiderman\r\nVersion: 1\r\n\r\nIMPORTANT\r\n\r\nReplaces Black Mid Top in game.\r\n\r\nFor my latest releases: https://github.com/WattieSession/SessionMods/releases",
+      "Version": 1.0,
+      "Author": "Wattie",
+      "DownloadLink": "rsmm://Url/https$github.com/WattieSession/SessionMods/releases/download/n14/nike-sb-spidermans.zip",
+      "PreviewImage": "https://user-images.githubusercontent.com/60822222/74305824-c4d27400-4d15-11ea-890c-b323a454629a.png",
+      "Category": "session-shoes",
+      "UpdatedDate": "2020-02-04T00:00:00"
+    },
+    {
+      "ID": "nike-sb-parra-wht.zip",
+      "Name": "Nike SB - Mids - Parra White",
+      "Description": "Condition: New\r\nBrand: Nike SB\r\nModel: Mids - Parra White\r\nColor: White/Multi\r\nVersion: 1 (These should be lows I plan to rework)\r\n\r\nIMPORTANT\r\n\r\nReplaces Mid Top in game.\r\n\r\nFor my latest releases: https://github.com/WattieSession/SessionMods/releases",
+      "Version": 1.0,
+      "Author": "Wattie",
+      "DownloadLink": "rsmm://Url/https$github.com/WattieSession/SessionMods/releases/download/n13/nike-sb-parra-wht.zip",
+      "PreviewImage": "https://user-images.githubusercontent.com/60822222/74305754-a1a7c480-4d15-11ea-84ca-54d3c71fd63e.png",
+      "Category": "session-shoes",
+      "UpdatedDate": "2020-02-03T00:00:00"
+    },
+    {
+      "ID": "nike-sb-moneycatmids.zip",
+      "Name": "Nike SB - Mids - Money Cat",
+      "Description": "Condition: New\r\nBrand: Nike SB\r\nModel: Mids - Money Cat\r\nVersion: 1\r\n\r\nIMPORTANT\r\n\r\nReplaces Black Mid Top in game.\r\n\r\nFor my latest releases: https://github.com/WattieSession/SessionMods/releases",
+      "Version": 1.0,
+      "Author": "Wattie",
+      "DownloadLink": "rsmm://Url/https$github.com/WattieSession/SessionMods/releases/download/n12/nike-sb-moneycatmids.zip",
+      "PreviewImage": "https://user-images.githubusercontent.com/60822222/74305621-4f66a380-4d15-11ea-97dc-96acb84bd876.png",
+      "Category": "session-shoes",
+      "UpdatedDate": "2020-02-02T00:00:00"
+    },
+    {
+      "ID": "nike-sb-momfuku.zip",
+      "Name": "Nike SB - Lows - Momofuku's",
+      "Description": "Condition: New\r\nBrand: Nike SB\r\nModel: Mids - Money Cat\r\nVersion: 1\r\n\r\nCondition: New\r\nBrand: Nike SB\r\nModel: Lows - Momofuku's\r\nColor: Black\r\nVersion: 1\r\n\r\nIMPORTANT\r\n\r\nPlease install [Shoes] Low Top Skate Shoe Mesh in the meshes section for the proper look.\r\n\r\nReplaces Mid Top in game.\r\n\r\nFor my latest releases: https://github.com/WattieSession/SessionMods/releases",
+      "Version": 1.0,
+      "Author": "Wattie",
+      "DownloadLink": "rsmm://Url/https$github.com/WattieSession/SessionMods/releases/download/n11/nike-sb-momfuku.zip",
+      "PreviewImage": "https://user-images.githubusercontent.com/60822222/74305571-29410380-4d15-11ea-87f1-7e466d276411.png",
+      "Category": "session-shoes",
+      "UpdatedDate": "2020-01-31T08:00:00Z"
+    },
+    {
+      "ID": "nike-sb-marshall.zip",
+      "Name": "Nike SB - Lows - Marshall Amps",
+      "Description": "Condition: New\r\nBrand: Nike SB\r\nModel: Highs - Marshall Amps\r\nVersion: 1\r\n\r\nIMPORTANT\r\n\r\nReplaces Beige Mid Top in game.\r\n\r\nFor my latest releases: https://github.com/WattieSession/SessionMods/releases",
+      "Version": 1.0,
+      "Author": "Wattie",
+      "DownloadLink": "rsmm://Url/https$github.com/WattieSession/SessionMods/releases/download/n10/nike-sb-marshall.zip",
+      "PreviewImage": "https://user-images.githubusercontent.com/60822222/74305510-fe56af80-4d14-11ea-926b-e07c2f60a1aa.png",
+      "Category": "session-shoes",
+      "UpdatedDate": "2020-01-30T08:00:00Z"
+    },
+    {
+      "ID": "nike-sb-low-wolfgrey-worn.zip",
+      "Name": "Nike SB - Lows - Wolf Gray - Used",
+      "Description": "Condition: Used\r\nBrand: Nike SB\r\nModel: Lows - Wolf Gray\r\nVersion: 1\r\n\r\nIMPORTANT\r\n\r\nPlease install [Shoes] Low Top Skate Shoe Mesh in the meshes section for the proper look.\r\n\r\nReplaces Mid Top in game.\r\n\r\nFor my latest releases: https://github.com/WattieSession/SessionMods/releases",
+      "Version": 1.0,
+      "Author": "Wattie",
+      "DownloadLink": "rsmm://Url/https$github.com/WattieSession/SessionMods/releases/download/n9/nike-sb-low-wolfgrey-worn.zip",
+      "PreviewImage": "https://user-images.githubusercontent.com/60822222/74305452-cf403e00-4d14-11ea-872e-7823b47aa94a.png",
+      "Category": "session-shoes",
+      "UpdatedDate": "2020-01-30T00:00:00"
+    },
+    {
+      "ID": "nike-sb-lewis-v1.zip",
+      "Name": "Nike SB - Mids - Lewis Marnell",
+      "Description": "Condition: New\r\nBrand: Nike SB\r\nModel: Mids - Lewis Marnell\r\nColor: Wheat/Brown\r\n\r\nReplaces Black Mid Top in game.\r\n\r\nFor my latest releases: https://github.com/WattieSession/SessionMods/releases",
+      "Version": 1.0,
+      "Author": "Wattie",
+      "DownloadLink": "rsmm://Url/https$github.com/WattieSession/SessionMods/releases/download/n8/nike-sb-lewis-v1.zip",
+      "PreviewImage": "https://user-images.githubusercontent.com/60822222/74305357-87b9b200-4d14-11ea-96f0-2f321d225564.png",
+      "Category": "session-shoes",
+      "UpdatedDate": "2020-01-29T00:00:00"
+    },
+    {
+      "ID": "nike-sb-high-supa.zip",
+      "Name": "Nike SB - Highs - Supa",
+      "Description": "Condition: New\r\nBrand: Nike SB\r\nModel: Highs - Danny Supa\r\nVersion: 1\r\n\r\nReplaces Beige Mid Top in game.\r\n\r\nFor my latest releases: https://github.com/WattieSession/SessionMods/releases",
+      "Version": 1.0,
+      "Author": "Wattie",
+      "DownloadLink": "rsmm://Url/https$github.com/WattieSession/SessionMods/releases/download/n7/nike-sb-high-supa.zip",
+      "PreviewImage": "https://user-images.githubusercontent.com/60822222/74305172-fea27b00-4d13-11ea-8657-9ced5a26578d.png",
+      "Category": "session-shoes",
+      "UpdatedDate": "2020-01-28T00:00:00"
+    },
+    {
+      "ID": "nike-sb-low-rayguns-wht.zip",
+      "Name": "Nike SB - Lows - Rayguns - White",
+      "Description": "Condition: New\r\nBrand: Nike SB\r\nModel: Lows - Rayguns\r\nColor: White\r\nVersion: 1\r\n\r\nIMPORTANT\r\n\r\nPlease install [Shoes] Low Top Skate Shoe Mesh in the meshes section for the proper look.\r\n\r\nReplaces Mid Top in game.\r\n\r\nFor my latest releases: https://github.com/WattieSession/SessionMods/releases",
+      "Version": 1.0,
+      "Author": "Wattie",
+      "DownloadLink": "rsmm://Url/https$github.com/WattieSession/SessionMods/releases/download/n6/nike-sb-low-rayguns-wht.zip",
+      "PreviewImage": "https://user-images.githubusercontent.com/60822222/74305017-8b990480-4d13-11ea-82db-9a30da5b762e.png",
+      "Category": "session-shoes",
+      "UpdatedDate": "2020-01-26T08:00:00Z"
+    },
+    {
+      "ID": "nike-mfdoom.zip",
+      "Name": "Nike SB - Mids - MFDoom",
+      "Description": "Condition: New\r\nBrand: Nike SB\r\nModel: Mids - MFDoom\r\nVersion:1\r\n\r\nReplaces Beige Mid Top in game.\r\n\r\nFor my latest releases: https://github.com/WattieSession/SessionMods/releases",
+      "Version": 1.0,
+      "Author": "Wattie",
+      "DownloadLink": "rsmm://Url/https$github.com/WattieSession/SessionMods/releases/download/n5/nike-mfdoom.zip",
+      "PreviewImage": "https://user-images.githubusercontent.com/60822222/74304912-365cf300-4d13-11ea-8e16-4881be9b04f9.png",
+      "Category": "session-shoes",
+      "UpdatedDate": "2020-01-25T08:00:00Z"
+    },
+    {
+      "ID": "nike-maples.zip",
+      "Name": "Nike SB - Highs - Maples",
+      "Description": "Condition: New\r\nBrand: Nike SB\r\nModel: Highs - Maples\r\nColor: Maple\r\nVersion:1\r\n\r\nReplaces Beige Mid Top in game.\r\n\r\nFor my latest releases: https://github.com/WattieSession/SessionMods/releases",
+      "Version": 1.0,
+      "Author": "Wattie",
+      "DownloadLink": "rsmm://Url/https$github.com/WattieSession/SessionMods/releases/download/n4/nike-maples.zip",
+      "PreviewImage": "https://user-images.githubusercontent.com/60822222/74304827-fac22900-4d12-11ea-8dcd-101c3efd321f.png",
+      "Category": "session-shoes",
+      "UpdatedDate": "2020-01-25T00:00:00"
+    },
+    {
+      "ID": "nike-sb-freddy.zip",
+      "Name": "Nike SB - Lows - Freddy",
+      "Description": "Condition: New\r\nBrand: Nike\r\nModel: Lows - Freddy\r\nVersion:1\r\n\r\nIMPORTANT\r\n\r\nPlease install [Shoes] Low Top Skate Shoe Mesh in the meshes section for the proper look.\r\n\r\nReplaces Mid Top in game.\r\n\r\nFor my latest releases: https://github.com/WattieSession/SessionMods/releases",
+      "Version": 1.0,
+      "Author": "Wattie",
+      "DownloadLink": "rsmm://Url/https$github.com/WattieSession/SessionMods/releases/download/n3/nike-sb-freddy.zip",
+      "PreviewImage": "https://user-images.githubusercontent.com/60822222/74304710-adde5280-4d12-11ea-81c0-90a2d3ac7ab0.png",
+      "Category": "session-shoes",
+      "UpdatedDate": "2020-01-24T00:00:00"
+    },
+    {
+      "ID": "nike-sb-blackironwhite-mids.zip",
+      "Name": "Nike SB - Mids - Black Iron White",
+      "Description": "Condition: New\r\nBrand: Nike\r\nModel: Mids - Black Iron White\r\nColor: Black/white\r\nVersion:1\r\n\r\nIMPORTANT\r\n\r\nReplaces Black Mid Top in game.\r\n\r\nFor my latest releases: https://github.com/WattieSession/SessionMods/releases",
+      "Version": 1.0,
+      "Author": "Wattie",
+      "DownloadLink": "rsmm://Url/https$github.com/WattieSession/SessionMods/releases/download/n2/nike-sb-blackironwhite-mids.zip",
+      "PreviewImage": "https://user-images.githubusercontent.com/60822222/74304649-7a032d00-4d12-11ea-96a2-4dd446ca301a.png",
+      "Category": "session-shoes",
+      "UpdatedDate": "2020-01-23T00:00:00"
+    },
+    {
+      "ID": "nike-sb-3bears-mids.zip",
+      "Name": "Nike SB - Mids - 3bears",
+      "Description": "Condition: New\r\nBrand: Nike\r\nModel: Mids - 3bears\r\nColor: VA\r\nVersion: 1\r\n\r\nIMPORTANT\r\n\r\nReplaces Black Mid Top in game.\r\n\r\nFor my latest releases: https://github.com/WattieSession/SessionMods/releases",
+      "Version": 1.0,
+      "Author": "Wattie",
+      "DownloadLink": "rsmm://Url/https$github.com/WattieSession/SessionMods/releases/download/n2/nike-sb-blackironwhite-mids.zip",
+      "PreviewImage": "https://github.com/WattieSession/SessionMods/releases/download/n1/nike-sb-3bears-mids.zip",
+      "Category": "session-shoes",
+      "UpdatedDate": "2020-01-21T08:00:00Z"
     }
   ]
 }
