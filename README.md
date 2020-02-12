@@ -3,16 +3,8 @@ Mods for use with Session on PC.
 
 Current Projects:
 
-- Upload mods again to asset store:
-  - Decks (100%)
-  - Shoes (100%)
-  - Wheels
-  - Hats
-  - Shirts
-  - Hoodies
-  - Trucks
-  - Griptapes
-  - Pants
+	- More Shoes (Nike and old skate shoes)
+	- Secret Project
   
   Feel free to message me in discord for requests or edit to my current mods. 
   If requesting a mod provide a name of the mod PLEASE.
