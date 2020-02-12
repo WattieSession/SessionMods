@@ -1,5 +1,5 @@
 {
-  "Name": "Wattie",
+  "Name": "",
   "Assets": [
     {
       "ID": "axion-kc-v2.zip",
@@ -692,7 +692,7 @@
       "DownloadLink": "rsmm://Url/https$github.com/WattieSession/SessionMods/releases/download/n11/nike-sb-momfuku.zip",
       "PreviewImage": "https://user-images.githubusercontent.com/60822222/74305571-29410380-4d15-11ea-87f1-7e466d276411.png",
       "Category": "session-shoes",
-      "UpdatedDate": "2020-01-31T08:00:00Z"
+      "UpdatedDate": "2020-01-31T00:00:00-08:00"
     },
     {
       "ID": "nike-sb-marshall.zip",
@@ -703,7 +703,7 @@
       "DownloadLink": "rsmm://Url/https$github.com/WattieSession/SessionMods/releases/download/n10/nike-sb-marshall.zip",
       "PreviewImage": "https://user-images.githubusercontent.com/60822222/74305510-fe56af80-4d14-11ea-926b-e07c2f60a1aa.png",
       "Category": "session-shoes",
-      "UpdatedDate": "2020-01-30T08:00:00Z"
+      "UpdatedDate": "2020-01-30T00:00:00-08:00"
     },
     {
       "ID": "nike-sb-low-wolfgrey-worn.zip",
@@ -747,7 +747,7 @@
       "DownloadLink": "rsmm://Url/https$github.com/WattieSession/SessionMods/releases/download/n6/nike-sb-low-rayguns-wht.zip",
       "PreviewImage": "https://user-images.githubusercontent.com/60822222/74305017-8b990480-4d13-11ea-82db-9a30da5b762e.png",
       "Category": "session-shoes",
-      "UpdatedDate": "2020-01-26T08:00:00Z"
+      "UpdatedDate": "2020-01-26T00:00:00-08:00"
     },
     {
       "ID": "nike-mfdoom.zip",
@@ -758,7 +758,7 @@
       "DownloadLink": "rsmm://Url/https$github.com/WattieSession/SessionMods/releases/download/n5/nike-mfdoom.zip",
       "PreviewImage": "https://user-images.githubusercontent.com/60822222/74304912-365cf300-4d13-11ea-8e16-4881be9b04f9.png",
       "Category": "session-shoes",
-      "UpdatedDate": "2020-01-25T08:00:00Z"
+      "UpdatedDate": "2020-01-25T00:00:00-08:00"
     },
     {
       "ID": "nike-maples.zip",
@@ -802,7 +802,414 @@
       "DownloadLink": "rsmm://Url/https$github.com/WattieSession/SessionMods/releases/download/n2/nike-sb-blackironwhite-mids.zip",
       "PreviewImage": "https://github.com/WattieSession/SessionMods/releases/download/n1/nike-sb-3bears-mids.zip",
       "Category": "session-shoes",
-      "UpdatedDate": "2020-01-21T08:00:00Z"
+      "UpdatedDate": "2020-01-21T00:00:00-08:00"
+    },
+    {
+      "ID": "Spitfire-tablets-99d-normal.zip",
+      "Name": "Spitfire - Tablets",
+      "Description": "Condition: Used\r\nBrand: Spitfire\r\nModel: Tablets\r\nSize: Any\r\nColor: White\r\nVersion: 1",
+      "Version": 1.0,
+      "Author": "Wattie",
+      "DownloadLink": "rsmm://Url/https$github.com/WattieSession/SessionMods/releases/download/w10/Spitfire-tablets-99d-normal.zip",
+      "PreviewImage": "https://user-images.githubusercontent.com/60822222/74366789-8379ad00-4d85-11ea-8000-9d78404f453a.png",
+      "Category": "session-wheels",
+      "UpdatedDate": "2020-02-12T21:06:12.7706737Z"
+    },
+    {
+      "ID": "spitfire_tablets_99d_flipped.zip",
+      "Name": "Spitfire - Tablets - Flipped",
+      "Description": "Condition: Used\r\nBrand: Spitfire\r\nModel: Tablets - Flipped\r\nSize: Any\r\nColor: White\r\nVersion: 1",
+      "Version": 1.0,
+      "Author": "Wattie",
+      "DownloadLink": "rsmm://Url/https$github.com/WattieSession/SessionMods/releases/download/w9/spitfire_tablets_99d_flipped.zip",
+      "PreviewImage": "https://user-images.githubusercontent.com/60822222/74363471-7bb70a00-4d7f-11ea-8b91-97e32289503b.PNG",
+      "Category": "session-wheels",
+      "UpdatedDate": "2020-02-12T00:00:00"
+    },
+    {
+      "ID": "sf-lockins-normal.zip",
+      "Name": "Spitfire - Lock In's - Reds",
+      "Description": "Condition: Used\r\nBrand: Spitfire\r\nModel: Lock In's Blues\r\nSize: Any\r\nColor: White\r\nVersion: 1",
+      "Version": 1.0,
+      "Author": "Wattie",
+      "DownloadLink": "rsmm://Url/https$github.com/WattieSession/SessionMods/releases/download/w8/sf-lockins-normal.zip",
+      "PreviewImage": "https://user-images.githubusercontent.com/60822222/74363344-41e60380-4d7f-11ea-8b77-e99d5b0a0480.png",
+      "Category": "session-wheels",
+      "UpdatedDate": "2020-02-11T00:00:00"
+    },
+    {
+      "ID": "sf-cardiels-blk-flipped.zip",
+      "Name": "Spitfire - Cardiel's - Black - Flipped",
+      "Description": "Condition: Used\r\nBrand: Spitfire\r\nModel: Cardiel's\r\nSize: Any\r\nColor: Black\r\nVersion: 1",
+      "Version": 1.0,
+      "Author": "Wattie",
+      "DownloadLink": "rsmm://Url/https$github.com/WattieSession/SessionMods/releases/download/w7/sf-cardiels-blk-flipped.zip",
+      "PreviewImage": "https://user-images.githubusercontent.com/60822222/74363265-0f3c0b00-4d7f-11ea-9e12-0f38c8d304c7.png",
+      "Category": "session-wheels",
+      "UpdatedDate": "2020-02-10T00:00:00"
+    },
+    {
+      "ID": "sf-cardiel-blk-normal.zip",
+      "Name": "Spitfire - Cardiel's - Black",
+      "Description": "Condition: Used\r\nBrand: Spitfire\r\nModel: Cardiel's\r\nSize: Any\r\nColor: Black\r\nVersion: 1",
+      "Version": 1.0,
+      "Author": "Wattie",
+      "DownloadLink": "rsmm://Url/https$github.com/WattieSession/SessionMods/releases/download/w6/sf-cardiel-blk-normal.zip",
+      "PreviewImage": "https://user-images.githubusercontent.com/60822222/74363200-ef0c4c00-4d7e-11ea-9392-db36098cbb46.png",
+      "Category": "session-wheels",
+      "UpdatedDate": "2020-02-09T00:00:00"
+    },
+    {
+      "ID": "OJ-PlainJaneKeyframes.-.87a.zip",
+      "Name": "OJ - Plain Jane Keyframes",
+      "Description": "Condition: Used\r\nBrand: OJ\r\nModel: Plain Jane Keyframes\r\nSize: Any\r\nColor: White\r\nVersion: 1",
+      "Version": 1.0,
+      "Author": "Wattie",
+      "DownloadLink": "rsmm://Url/https$github.com/WattieSession/SessionMods/releases/download/w5/OJ-PlainJaneKeyframes.-.87a.zip",
+      "PreviewImage": "https://user-images.githubusercontent.com/60822222/74363067-abb1dd80-4d7e-11ea-9b66-e9b26aa564dd.png",
+      "Category": "session-wheels",
+      "UpdatedDate": "2020-02-08T00:00:00"
+    },
+    {
+      "ID": "OJ.-.Vampire.Bat.-Black.Purple-.97a.zip",
+      "Name": "OJ - Vampire Bat",
+      "Description": "Condition: Used\r\nBrand: OJ\r\nModel: Vampire Bat\r\nSize: Any\r\nColor: Purple swirl\r\nVersion: 1",
+      "Version": 1.0,
+      "Author": "Wattie",
+      "DownloadLink": "rsmm://Url/https$github.com/WattieSession/SessionMods/releases/download/w4/OJ.-.Vampire.Bat.-Black.Purple-.97a.zip",
+      "PreviewImage": "https://user-images.githubusercontent.com/60822222/74362963-75745e00-4d7e-11ea-851c-29b10e503a76.png",
+      "Category": "session-wheels",
+      "UpdatedDate": "2020-02-07T00:00:00"
+    },
+    {
+      "ID": "bones-meangreens-stf.zip",
+      "Name": "Bones - Meangreans STF",
+      "Description": "Condition: Used\r\nBrand: Bones\r\nModel: Meangreens\r\nSize: Any\r\nColor: Green\r\nVersion: 1",
+      "Version": 1.0,
+      "Author": "Wattie",
+      "DownloadLink": "rsmm://Url/https$github.com/WattieSession/SessionMods/releases/download/w3/bones-meangreens-stf.zip",
+      "PreviewImage": "https://user-images.githubusercontent.com/60822222/74362855-45c55600-4d7e-11ea-8a80-d654a086deed.png",
+      "Category": "session-wheels",
+      "UpdatedDate": "2020-02-06T00:00:00"
+    },
+    {
+      "ID": "bones-homeland.zip",
+      "Name": "Bones - Homeland",
+      "Description": "Condition: Used\r\nBrand: Bones\r\nModel: Homeland - Kowalski\r\nSize: Any\r\nColor: White\r\nVersion: 1",
+      "Version": 1.0,
+      "Author": "Wattie",
+      "DownloadLink": "rsmm://Url/https$github.com/WattieSession/SessionMods/releases/download/w2/bones-homeland.zip",
+      "PreviewImage": "https://user-images.githubusercontent.com/60822222/74361994-b4a1af80-4d7c-11ea-9423-58f2e5dd12c8.png",
+      "Category": "session-wheels",
+      "UpdatedDate": "2020-02-05T00:00:00"
+    },
+    {
+      "ID": "bones-booraps-stf-103a.zip",
+      "Name": "Bones - Boo Raps! STF",
+      "Description": "Condition: Used\r\nBrand: Bones\r\nModel: Boo Raps!\r\nSize: Any\r\nColor: White\r\nVersion: 1",
+      "Version": 1.0,
+      "Author": "Wattie",
+      "DownloadLink": "rsmm://Url/https$github.com/WattieSession/SessionMods/releases/download/w1/bones-booraps-stf-103a.zip",
+      "PreviewImage": "https://user-images.githubusercontent.com/60822222/74361806-655b7f00-4d7c-11ea-821f-a72317f48a8b.png",
+      "Category": "session-wheels",
+      "UpdatedDate": "2020-02-04T00:00:00"
+    },
+    {
+      "ID": "shirt-juglist-brwn.zip",
+      "Name": "Junglist Movement - Brown",
+      "Description": "Type: Tshirt - Male\r\nBrand: Junglist Movement\r\nSize: Any\r\nColor: Brown\r\nVersion: 1",
+      "Version": 1.0,
+      "Author": "Wattie",
+      "DownloadLink": "rsmm://Url/https$github.com/WattieSession/SessionMods/releases/download/ts7/shirt-juglist-brwn.zip",
+      "PreviewImage": "https://user-images.githubusercontent.com/60822222/74374960-4d8ff500-4d94-11ea-8184-75e7441bec93.png",
+      "Category": "session-shirts",
+      "UpdatedDate": "2020-02-03T00:00:00"
+    },
+    {
+      "ID": "primus-cheesy-tshirt.zip",
+      "Name": "Primus - Misc Debris - Blk",
+      "Description": "Type: Tshirt - Male\r\nBrand: Primus\r\nModel: Misc Debris\r\nSize: Any\r\nColor: Black\r\nVersion: 1",
+      "Version": 1.0,
+      "Author": "Wattie",
+      "DownloadLink": "rsmm://Url/https$github.com/WattieSession/SessionMods/releases/download/ts6/primus-cheesy-tshirt.zip",
+      "PreviewImage": "https://user-images.githubusercontent.com/60822222/74374807-ff7af180-4d93-11ea-96b2-2eb91f1fa756.png",
+      "Category": "session-shirts",
+      "UpdatedDate": "2020-02-02T00:00:00"
+    },
+    {
+      "ID": "primus-porksoda-tshirt.zip",
+      "Name": "Primus - Pork Soda - Blk",
+      "Description": "Type: Tshirt - Male\r\nBrand: Primus\r\nModel: Pork Soda\r\nSize: Any\r\nColor: Black\r\nVersion: 1",
+      "Version": 1.0,
+      "Author": "Wattie",
+      "DownloadLink": "rsmm://Url/https$github.com/WattieSession/SessionMods/releases/download/ts5/primus-porksoda-tshirt.zip",
+      "PreviewImage": "https://user-images.githubusercontent.com/60822222/74374637-a612c280-4d93-11ea-9cf6-650eb48be4ae.png",
+      "Category": "session-shirts",
+      "UpdatedDate": "2020-02-01T00:00:00"
+    },
+    {
+      "ID": "st-possessed-male-tshirt.zip",
+      "Name": "Suicidal Tendencies - Possessed ",
+      "Description": "Type: Tshirt - Male\r\nBrand: Suicidal Tendencies\r\nSize: Any\r\nColor: White\r\nVersion: 1",
+      "Version": 1.0,
+      "Author": "Wattie",
+      "DownloadLink": "rsmm://Url/https$github.com/WattieSession/SessionMods/releases/download/ts4/st-possessed-male-tshirt.zip",
+      "PreviewImage": "https://user-images.githubusercontent.com/60822222/74370503-0d2c7900-4d8c-11ea-9eeb-2be0422367b2.png",
+      "Category": "session-shirts",
+      "UpdatedDate": "2020-01-31T00:00:00"
+    },
+    {
+      "ID": "dipskate-white.zip",
+      "Name": "Dipskate - Logo- White",
+      "Description": "Type: Tshirt - Male\r\nBrand: Dipskate\r\nSize: Any\r\nColor: White\r\nVersion: 1",
+      "Version": 1.0,
+      "Author": "Wattie",
+      "DownloadLink": "rsmm://Url/https$github.com/WattieSession/SessionMods/releases/download/ts3/dipskate-white.zip",
+      "PreviewImage": "https://user-images.githubusercontent.com/60822222/74370361-cd659180-4d8b-11ea-81cd-a46cce748d97.png",
+      "Category": "session-shirts",
+      "UpdatedDate": "2020-01-30T00:00:00"
+    },
+    {
+      "ID": "bb-dc-tshirt-blk.zip",
+      "Name": "Bad Brains - Banned in DC - Black",
+      "Description": "Type: Tshirt - Male\r\nCondition: New\r\nBrand: Bad Brains\r\nModel: Banned in DC Bolt\r\nSize: Any\r\nColor: Black\r\nVersion: 1",
+      "Version": 1.0,
+      "Author": "Wattie",
+      "DownloadLink": "rsmm://Url/https$github.com/WattieSession/SessionMods/releases/download/ts2/bb-dc-tshirt-blk.zip",
+      "PreviewImage": "https://user-images.githubusercontent.com/60822222/74369097-a27a3e00-4d89-11ea-8bd4-8ac6ce968a17.PNG",
+      "Category": "session-shirts",
+      "UpdatedDate": "2020-01-29T00:00:00"
+    },
+    {
+      "ID": "afx-logo-white-v2.zip",
+      "Name": "Aphex Twin - Logo - Black - Female",
+      "Description": "Type: Tshirt - Female\r\nCondition: New\r\nBrand: Aphex Twin\r\nModel: Logo\r\nSize: Any\r\nColor: Black\r\nVersion: 1",
+      "Version": 1.0,
+      "Author": "Wattie",
+      "DownloadLink": "rsmm://Url/https$github.com/WattieSession/SessionMods/releases/download/ts1/afx-logo-white-v2.zip",
+      "PreviewImage": "https://user-images.githubusercontent.com/60822222/74368874-4adbd280-4d89-11ea-8b4f-4f6ddfb58126.png",
+      "Category": "session-shirts",
+      "UpdatedDate": "2020-01-28T00:00:00"
+    },
+    {
+      "ID": "Independent.Trucks.Used.zip",
+      "Name": "Independent Trucks - Used",
+      "Description": "Condition: Used\r\nBrand: Independent\r\nModel: Used\r\nSize: Any\r\nColor: Silver\r\nVersion: 1",
+      "Version": 1.0,
+      "Author": "Wattie",
+      "DownloadLink": "rsmm://Url/https$github.com/WattieSession/SessionMods/releases/download/t1/Independent.Trucks.Used.zip",
+      "PreviewImage": "https://user-images.githubusercontent.com/60822222/74367283-714c3e80-4d86-11ea-8d70-0f01d971db16.png",
+      "Category": "session-trucks",
+      "UpdatedDate": "2020-01-27T00:00:00"
+    },
+    {
+      "ID": "pants-camo-painters-v1.zip",
+      "Name": "Writers Series - Forest Camo",
+      "Description": "Type: Pants - Male\r\nModel: Forest Camo\r\nSize: Any\r\nVersion: 1",
+      "Version": 1.0,
+      "Author": "Wattie",
+      "DownloadLink": "rsmm://Url/https$github.com/WattieSession/SessionMods/releases/download/p3/pants-camo-painters-v1.zip",
+      "PreviewImage": "https://user-images.githubusercontent.com/60822222/74375425-2128a880-4d95-11ea-90a8-36e7b980c50b.png",
+      "Category": "session-pants",
+      "UpdatedDate": "2020-01-26T00:00:00"
+    },
+    {
+      "ID": "jeans-painters.zip",
+      "Name": "Jeans - Dirty & Paint",
+      "Description": "Type: Pants- Male\r\nModel: Dirty & Paint\r\nSize: Any\r\nVersion: 1",
+      "Version": 1.0,
+      "Author": "Wattie",
+      "DownloadLink": "rsmm://Url/https$github.com/WattieSession/SessionMods/releases/download/p2/jeans-painters.zip",
+      "PreviewImage": "https://user-images.githubusercontent.com/60822222/74375245-dad34980-4d94-11ea-9857-7247f4cd0a64.png",
+      "Category": "session-pants",
+      "UpdatedDate": "2020-01-25T00:00:00"
+    },
+    {
+      "ID": "desertcamo-v1.zip",
+      "Name": "Desert Camos",
+      "Description": "Type: Pants - Male\r\nModel: Desert Camo\r\nSize: Any\r\nColor: Camo\r\nVersion: 1",
+      "Version": 1.0,
+      "Author": "Wattie",
+      "DownloadLink": "rsmm://Url/https$github.com/WattieSession/SessionMods/releases/download/p1/desertcamo-v1.zip",
+      "PreviewImage": "https://user-images.githubusercontent.com/60822222/74375149-ae1f3200-4d94-11ea-8ec0-683741300417.png",
+      "Category": "session-pants",
+      "UpdatedDate": "2020-01-24T00:00:00"
+    },
+    {
+      "ID": "hoodie-hs-wulf.zip",
+      "Name": "Hoodie - Hollow Squad - King Alpha - Black",
+      "Description": "Type: Hoodie - Male\r\nBrand: Hollow Squad\r\nModel: King Alpha\r\nSize: Any\r\nColor: Black\r\nVersion: 1",
+      "Version": 1.0,
+      "Author": "Wattie",
+      "DownloadLink": "rsmm://Url/https$github.com/WattieSession/SessionMods/releases/download/h5/hoodie-hs-wulf.zip",
+      "PreviewImage": "https://user-images.githubusercontent.com/60822222/74368654-ef114980-4d88-11ea-8151-09cc82554b9c.PNG",
+      "Category": "session-shirts",
+      "UpdatedDate": "2020-01-23T00:00:00"
+    },
+    {
+      "ID": "vansxbaker-hoodie.zip",
+      "Name": "Hoodie - Vans x Baker - Sticker Bomb - Black",
+      "Description": "Type: Hoodie - Male\r\nBrand: Vans x Baker\r\nModel: Stickerbomb\r\nSize: Any\r\nColor: Black/White\r\nVersion: 1",
+      "Version": 1.0,
+      "Author": "Wattie",
+      "DownloadLink": "rsmm://Url/https$github.com/WattieSession/SessionMods/releases/download/h4/vansxbaker-hoodie.zip",
+      "PreviewImage": "https://user-images.githubusercontent.com/60822222/74368212-07cd2f80-4d88-11ea-8d85-90cc5e603888.png",
+      "Category": "session-shirts",
+      "UpdatedDate": "2020-01-22T00:00:00"
+    },
+    {
+      "ID": "hoodie-thrasher-sd-blk.zip",
+      "Name": "Hoodie - Thrasher - Skate & Destroy - Black",
+      "Description": "Type: Hoodie - Male\r\nBrand: Thrasher\r\nModel: Skate & Destroy\r\nSize: Any\r\nColor: Black/White\r\nVersion: 1",
+      "Version": 1.0,
+      "Author": "Wattie",
+      "DownloadLink": "rsmm://Url/https$github.com/WattieSession/SessionMods/releases/download/h3/hoodie-thrasher-sd-blk.zip",
+      "PreviewImage": "https://user-images.githubusercontent.com/60822222/74368036-b91f9580-4d87-11ea-9d85-69393242513a.png",
+      "Category": "session-shirts",
+      "UpdatedDate": "2020-01-21T00:00:00"
+    },
+    {
+      "ID": "hoodie-metallica-cross.zip",
+      "Name": "Hoodie - Metallica - Cross - Black",
+      "Description": "Request\r\nType: Hoodie - Male\r\nBrand: Metallica\r\nModel: Cross\r\nSize: Any\r\nColor: Black\r\nVersion: 1",
+      "Version": 1.0,
+      "Author": "Wattie",
+      "DownloadLink": "rsmm://Url/https$github.com/WattieSession/SessionMods/releases/download/h2/hoodie-metallica-cross.zip",
+      "PreviewImage": "https://user-images.githubusercontent.com/60822222/74367730-34cd1280-4d87-11ea-8296-d9e11efb2928.png",
+      "Category": "session-shirts",
+      "UpdatedDate": "2020-01-19T08:00:00Z"
+    },
+    {
+      "ID": "afx-hoodie.zip",
+      "Name": "Hoodie - Aphex Twin logo - Female - Black",
+      "Description": "Request\r\nType: Hoodie - Female\r\nBrand: Aphex Twin\r\nModel: Logo\r\nSize: Any\r\nColor: Black/White\r\nVersion: 1",
+      "Version": 1.0,
+      "Author": "Wattie",
+      "DownloadLink": "rsmm://Url/https$github.com/WattieSession/SessionMods/releases/download/h1/afx-hoodie.zip",
+      "PreviewImage": "https://user-images.githubusercontent.com/60822222/74367583-f5062b00-4d86-11ea-8aec-45fd0ca8ebe0.png",
+      "Category": "session-shirts",
+      "UpdatedDate": "2020-01-18T08:00:00Z"
+    },
+    {
+      "ID": "gt-pstone-red.zip",
+      "Name": "MOB - Pstone - Red",
+      "Description": "Brand: MOB\r\nModel: Pstone\r\nSize: Any\r\nColor: Red\r\nVersion: 1",
+      "Version": 1.0,
+      "Author": "Wattie",
+      "DownloadLink": "rsmm://Url/https$github.com/WattieSession/SessionMods/releases/download/gt9/gt-pstone-red.zip",
+      "PreviewImage": "https://user-images.githubusercontent.com/60822222/74377062-1885a180-4d98-11ea-945d-bc023a3009d9.png",
+      "Category": "session-griptapes",
+      "UpdatedDate": "2020-01-18T00:00:00"
+    },
+    {
+      "ID": "gt-powell-rb-fade.zip",
+      "Name": "Powell - Rat Bones - Rainbow",
+      "Description": "Brand: Powell\r\nModel: Rat Bones\r\nSize: Any\r\nColor: Rainbow\r\nVersion: 1",
+      "Version": 1.0,
+      "Author": "Wattie",
+      "DownloadLink": "rsmm://Url/https$github.com/WattieSession/SessionMods/releases/download/gt8/gt-powell-rb-fade.zip",
+      "PreviewImage": "https://user-images.githubusercontent.com/60822222/74376941-de1c0480-4d97-11ea-996b-be3a6aac4591.png",
+      "Category": "session-griptapes",
+      "UpdatedDate": "2020-01-17T00:00:00"
+    },
+    {
+      "ID": "gt-MOB-Mouse-homer.zip",
+      "Name": "MOB - Mouse - Double Dad",
+      "Description": "Brand: MOB\r\nModel: Mouse - Double Dad\r\nSize: Any\r\nColor: Black\r\nVersion: 1",
+      "Version": 1.0,
+      "Author": "Wattie",
+      "DownloadLink": "rsmm://Url/https$github.com/WattieSession/SessionMods/releases/download/gt7/gt-MOB-Mouse-homer.zip",
+      "PreviewImage": "https://user-images.githubusercontent.com/60822222/74376819-a8771b80-4d97-11ea-8712-ba38ec695cba.png",
+      "Category": "session-griptapes",
+      "UpdatedDate": "2020-01-16T00:00:00"
+    },
+    {
+      "ID": "gt-makeshit.zip",
+      "Name": "MOB - Make Shit",
+      "Description": "Brand: MOB\r\nModel: Make Shit\r\nSize: Any\r\nColor: Black\r\nVersion: 1",
+      "Version": 1.0,
+      "Author": "Wattie",
+      "DownloadLink": "rsmm://Url/https$github.com/WattieSession/SessionMods/releases/download/gt6/gt-makeshit.zip",
+      "PreviewImage": "https://user-images.githubusercontent.com/60822222/74376714-7e255e00-4d97-11ea-8e3a-548c6074d7f7.png",
+      "Category": "session-griptapes",
+      "UpdatedDate": "2020-01-15T00:00:00"
+    },
+    {
+      "ID": "gt-thrasherflame.zip",
+      "Name": "Thrasher - Flame",
+      "Description": "Brand: Thrasher\r\nModel: Flame\r\nSize: Any\r\nColor: Black\r\nVersion: 1",
+      "Version": 1.0,
+      "Author": "Wattie",
+      "DownloadLink": "rsmm://Url/https$github.com/WattieSession/SessionMods/releases/download/gt4/gt-thrasherflame.zip",
+      "PreviewImage": "https://user-images.githubusercontent.com/60822222/74376526-225ad500-4d97-11ea-9268-1e24934e45fb.png",
+      "Category": "session-griptapes",
+      "UpdatedDate": "2020-01-14T00:00:00"
+    },
+    {
+      "ID": "gt-destroy.zip",
+      "Name": "Thrasher - Destroy",
+      "Description": "Brand: Thrasher\r\nModel: Destroy\r\nSize: Any\r\nColor: Black\r\nVersion: 1",
+      "Version": 1.0,
+      "Author": "Wattie",
+      "DownloadLink": "rsmm://Url/https$github.com/WattieSession/SessionMods/releases/download/gt3/gt-destroy.zip",
+      "PreviewImage": "https://user-images.githubusercontent.com/60822222/74376411-ecb5ec00-4d96-11ea-9ca6-32be27998a95.png",
+      "Category": "session-griptapes",
+      "UpdatedDate": "2020-01-13T00:00:00"
+    },
+    {
+      "ID": "gt-custom-akira.zip",
+      "Name": "Custom - Akira",
+      "Description": "Request\r\nModel: Akira\r\nSize: Any\r\nColor: Black\r\nVersion: 1",
+      "Version": 1.0,
+      "Author": "Wattie",
+      "DownloadLink": "rsmm://Url/https$github.com/WattieSession/SessionMods/releases/download/gt2/gt-custom-akira.zip",
+      "PreviewImage": "https://user-images.githubusercontent.com/60822222/74376106-63061e80-4d96-11ea-87b1-b3bce44a0f8e.png",
+      "Category": "session-griptapes",
+      "UpdatedDate": "2020-01-12T00:00:00"
+    },
+    {
+      "ID": "gt-christmas.dog.zip",
+      "Name": "MOB - Mouse - Christmas Dog",
+      "Description": "Brand: MOB\r\nModel: Christmas Dog\r\nSize: Any\r\nColor: Black\r\nVersion: 1",
+      "Version": 1.0,
+      "Author": "Wattie",
+      "DownloadLink": "rsmm://Url/https$github.com/WattieSession/SessionMods/releases/download/gt1/gt-christmas.dog.zip",
+      "PreviewImage": "https://user-images.githubusercontent.com/60822222/74376000-32be8000-4d96-11ea-90ed-b528d485864c.png",
+      "Category": "session-griptapes",
+      "UpdatedDate": "2020-01-11T00:00:00"
+    },
+    {
+      "ID": "gt-bb-pma.zip",
+      "Name": "Bad Brains - PMA",
+      "Description": "Brand: na\r\nModel: PMA\r\nSize: Any\r\nColor: Black\r\nVersion: 1",
+      "Version": 1.0,
+      "Author": "Wattie",
+      "DownloadLink": "rsmm://Url/https$github.com/WattieSession/SessionMods/releases/download/gt/gt-bb-pma.zip",
+      "PreviewImage": "https://user-images.githubusercontent.com/60822222/74375822-e2dfb900-4d95-11ea-8e93-a7cd7bd823f3.png",
+      "Category": "session-griptapes",
+      "UpdatedDate": "2020-01-10T00:00:00"
+    },
+    {
+      "ID": "beanie-indyxthraser.zip",
+      "Name": "Independent x Thrasher - Pentask8 - Charcoal",
+      "Description": "Type: Hat - Male\r\nBrand: Independent x Thrasher\r\nModel: Pentask8\r\nSize: Any\r\nColor: Charcoal\r\nVersion: 1",
+      "Version": 1.0,
+      "Author": "Wattie",
+      "DownloadLink": "rsmm://Url/https$github.com/WattieSession/SessionMods/releases/download/c2/beanie-indyxthraser.zip",
+      "PreviewImage": "https://user-images.githubusercontent.com/60822222/74375686-a2803b00-4d95-11ea-8d7b-626e6e9a35fe.png",
+      "Category": "session-hats",
+      "UpdatedDate": "2020-01-09T00:00:00"
+    },
+    {
+      "ID": "beanie-bb-bolt-v2.zip",
+      "Name": "Bad Brains - Bolt - Black",
+      "Description": "Type: Hat - Male\r\nBrand: Bad Brains\r\nModel: Bolt\r\nSize: Any\r\nColor: Black\r\nVersion: 2",
+      "Version": 1.0,
+      "Author": "Wattie",
+      "DownloadLink": "rsmm://Url/https$github.com/WattieSession/SessionMods/releases/download/c1/beanie-bb-bolt-v2.zip",
+      "PreviewImage": "https://user-images.githubusercontent.com/60822222/74375557-62b95380-4d95-11ea-978b-f6297e1c0790.png",
+      "Category": "session-hats",
+      "UpdatedDate": "2020-01-07T08:00:00Z"
     }
   ]
 }
