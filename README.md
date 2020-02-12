@@ -1,5 +1,5 @@
-# SessionMods
-Mods for use with Session
+# Wattie's Session Mods
+Mods for use with Session on PC.
 
 Current Projects:
 
