@@ -1,5 +1,5 @@
 {
-  "Name": "Wattie",
+  "Name": "",
   "Assets": [
     {
       "ID": "axion-kc-v2.zip",
@@ -582,7 +582,7 @@
       "DownloadLink": "rsmm://Url/https$github.com/WattieSession/SessionMods/releases/download/d3/dck-zero-misfits-ad.zip",
       "PreviewImage": "https://user-images.githubusercontent.com/60822222/74210718-a56a1700-4c41-11ea-8268-fac0c47d6017.png",
       "Category": "session-decks",
-      "UpdatedDate": "2020-02-10T22:38:15.4653745-08:00"
+      "UpdatedDate": "2020-02-10T08:00:00Z"
     },
     {
       "ID": "zooyork-tag-gld.zip",
@@ -813,7 +813,7 @@
       "DownloadLink": "rsmm://Url/https$github.com/WattieSession/SessionMods/releases/download/w10/Spitfire-tablets-99d-normal.zip",
       "PreviewImage": "https://user-images.githubusercontent.com/60822222/74366789-8379ad00-4d85-11ea-8000-9d78404f453a.png",
       "Category": "session-wheels",
-      "UpdatedDate": "2020-02-12T21:06:12.7706737Z"
+      "UpdatedDate": "2020-02-12T13:06:12.7706737-08:00"
     },
     {
       "ID": "spitfire_tablets_99d_flipped.zip",
@@ -1077,7 +1077,7 @@
       "DownloadLink": "rsmm://Url/https$github.com/WattieSession/SessionMods/releases/download/h2/hoodie-metallica-cross.zip",
       "PreviewImage": "https://user-images.githubusercontent.com/60822222/74367730-34cd1280-4d87-11ea-8296-d9e11efb2928.png",
       "Category": "session-shirts",
-      "UpdatedDate": "2020-01-19T08:00:00Z"
+      "UpdatedDate": "2020-01-19T00:00:00-08:00"
     },
     {
       "ID": "afx-hoodie.zip",
@@ -1088,7 +1088,7 @@
       "DownloadLink": "rsmm://Url/https$github.com/WattieSession/SessionMods/releases/download/h1/afx-hoodie.zip",
       "PreviewImage": "https://user-images.githubusercontent.com/60822222/74367583-f5062b00-4d86-11ea-8aec-45fd0ca8ebe0.png",
       "Category": "session-shirts",
-      "UpdatedDate": "2020-01-18T08:00:00Z"
+      "UpdatedDate": "2020-01-18T00:00:00-08:00"
     },
     {
       "ID": "gt-pstone-red.zip",
@@ -1209,7 +1209,18 @@
       "DownloadLink": "rsmm://Url/https$github.com/WattieSession/SessionMods/releases/download/c1/beanie-bb-bolt-v2.zip",
       "PreviewImage": "https://user-images.githubusercontent.com/60822222/74375557-62b95380-4d95-11ea-978b-f6297e1c0790.png",
       "Category": "session-hats",
-      "UpdatedDate": "2020-01-07T08:00:00Z"
+      "UpdatedDate": "2020-01-07T00:00:00-08:00"
+    },
+    {
+      "ID": "dck-zero-bold-clean.zip",
+      "Name": "Zero Bold - Clean",
+      "Description": "Condition: New\r\nBrand: Zero\r\nModel: Bold\r\nColor: Black/Red\r\nVersion: 1\r\n\r\nReplaces Half a Roger 8.125 deck",
+      "Version": 1.0,
+      "Author": "Wattie",
+      "DownloadLink": "rsmm://Url/https$github.com/WattieSession/SessionMods/releases/download/d45/dck-zero-bold-clean.zip",
+      "PreviewImage": "https://user-images.githubusercontent.com/60822222/74554717-07ab6c00-4f0f-11ea-979b-6a7fb3b9070b.png",
+      "Category": "session-decks",
+      "UpdatedDate": "2020-02-09T08:00:00Z"
     }
   ]
 }
