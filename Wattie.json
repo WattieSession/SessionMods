@@ -1,5 +1,5 @@
 {
-  "Name": "Wattie",
+  "Name": "",
   "Assets": [
     {
       "ID": "axion-kc-v2.zip",
@@ -582,7 +582,7 @@
       "DownloadLink": "rsmm://Url/https$github.com/WattieSession/SessionMods/releases/download/d3/dck-zero-misfits-ad.zip",
       "PreviewImage": "https://user-images.githubusercontent.com/60822222/74210718-a56a1700-4c41-11ea-8268-fac0c47d6017.png",
       "Category": "session-decks",
-      "UpdatedDate": "2020-02-10T08:00:00Z"
+      "UpdatedDate": "2020-02-10T00:00:00-08:00"
     },
     {
       "ID": "zooyork-tag-gld.zip",
@@ -1221,6 +1221,17 @@
       "PreviewImage": "https://user-images.githubusercontent.com/60822222/74554717-07ab6c00-4f0f-11ea-979b-6a7fb3b9070b.png",
       "Category": "session-decks",
       "UpdatedDate": "2020-02-09T08:00:00Z"
+    },
+    {
+      "ID": " NikeSB-Chron-solarsofts.zip",
+      "Name": "Nike SB - Chron - Solarsofts",
+      "Description": "Request\r\nCondition: Used\r\nBrand: Nike SB\r\nModel: Chron - Solarsofts\r\nColor: Black\r\nVersion: 1\r\n\r\nReplaces Vul A shoe\r\n\r\nFor my latest releases: https://github.com/WattieSession/SessionMods/releases",
+      "Version": 1.0,
+      "Author": "Wattie",
+      "DownloadLink": "rsmm://Url/https$github.com/WattieSession/SessionMods/releases/download/v0.1b/NikeSB-Chron-solarsofts.zip",
+      "PreviewImage": "https://user-images.githubusercontent.com/60822222/74599399-f1e49680-5035-11ea-8272-27d49ba61eb3.png",
+      "Category": "session-shoes",
+      "UpdatedDate": "2020-01-23T08:00:00Z"
     }
   ]
 }
