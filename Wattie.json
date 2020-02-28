@@ -1,5 +1,5 @@
 {
-  "Name": "Wattie",
+  "Name": "",
   "Assets": [
     {
       "ID": "axion-kc-v2.zip",
@@ -73,10 +73,10 @@
       "Description": "Condition: Used\r\nBrand: eS\r\nModel: Koston 1\r\nSize: Any\r\nColor: Green/White\r\nVersion: 1\r\n\r\nIMPORTANT\r\n\r\nPlease install [Shoes] Low Top Skate Shoe Mesh in the meshes section for the proper look.\r\n\r\nReplaces Black Mid Top Shoe in game.\r\n\r\nFor my latest releases: https://github.com/WattieSession/SessionMods/releases",
       "Version": 1.0,
       "Author": "Wattie",
-      "DownloadLink": "rsmm://Url/https$github.com/WattieSession/SessionMods/releases/download/s3/es-koston1-grnwht.zip",
+      "DownloadLink": "rsmm://Url/https$github.com/WattieSession/SessionMods/releases/download/s12/es-koston1-grnwht.zip",
       "PreviewImage": "https://user-images.githubusercontent.com/60822222/74123693-62963980-4b84-11ea-96a7-dbf405ac15ba.png",
       "Category": "session-shoes",
-      "UpdatedDate": "2020-02-06T00:00:00-08:00"
+      "UpdatedDate": "2020-02-06T08:00:00Z"
     },
     {
       "ID": "es-koston1-redblk.zip",
@@ -87,7 +87,7 @@
       "DownloadLink": "rsmm://Url/https$github.com/WattieSession/SessionMods/releases/download/s4/es-koston1-redblk.zip",
       "PreviewImage": "https://user-images.githubusercontent.com/60822222/74123755-9ffac700-4b84-11ea-8837-3aa5bc7f4d53.png",
       "Category": "session-shoes",
-      "UpdatedDate": "2020-02-05T00:00:00-08:00"
+      "UpdatedDate": "2020-02-05T08:00:00Z"
     },
     {
       "ID": "es-koston1-whtgum.zip",
@@ -1220,7 +1220,7 @@
       "DownloadLink": "rsmm://Url/https$github.com/WattieSession/SessionMods/releases/download/d45/dck-zero-bold-clean.zip",
       "PreviewImage": "https://user-images.githubusercontent.com/60822222/74554717-07ab6c00-4f0f-11ea-979b-6a7fb3b9070b.png",
       "Category": "session-decks",
-      "UpdatedDate": "2020-02-09T08:00:00Z"
+      "UpdatedDate": "2020-02-09T00:00:00-08:00"
     },
     {
       "ID": " NikeSB-Chron-solarsofts.zip",
@@ -1231,7 +1231,7 @@
       "DownloadLink": "rsmm://Url/https$github.com/WattieSession/SessionMods/releases/download/v0.1b/NikeSB-Chron-solarsofts.zip",
       "PreviewImage": "https://user-images.githubusercontent.com/60822222/74599399-f1e49680-5035-11ea-8272-27d49ba61eb3.png",
       "Category": "session-shoes",
-      "UpdatedDate": "2020-01-23T08:00:00Z"
+      "UpdatedDate": "2020-01-23T00:00:00-08:00"
     }
   ]
 }
