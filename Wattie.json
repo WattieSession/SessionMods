@@ -1,5 +1,5 @@
 {
-  "Name": "Wattie",
+  "Name": "",
   "Assets": [
     {
       "ID": "axion-kc-v2.zip",
@@ -76,7 +76,7 @@
       "DownloadLink": "rsmm://Url/https$github.com/WattieSession/SessionMods/releases/download/s12/es-koston1-grnwht.zip",
       "PreviewImage": "https://user-images.githubusercontent.com/60822222/74123693-62963980-4b84-11ea-96a7-dbf405ac15ba.png",
       "Category": "session-shoes",
-      "UpdatedDate": "2020-02-06T08:00:00Z"
+      "UpdatedDate": "2020-02-06T00:00:00-08:00"
     },
     {
       "ID": "es-koston1-redblk.zip",
@@ -87,7 +87,7 @@
       "DownloadLink": "rsmm://Url/https$github.com/WattieSession/SessionMods/releases/download/s4/es-koston1-redblk.zip",
       "PreviewImage": "https://user-images.githubusercontent.com/60822222/74123755-9ffac700-4b84-11ea-8837-3aa5bc7f4d53.png",
       "Category": "session-shoes",
-      "UpdatedDate": "2020-02-05T08:00:00Z"
+      "UpdatedDate": "2020-02-05T00:00:00-08:00"
     },
     {
       "ID": "es-koston1-whtgum.zip",
@@ -686,13 +686,13 @@
     {
       "ID": "nike-sb-momfuku.zip",
       "Name": "Nike SB - Lows - Momofuku's",
-      "Description": "Condition: New\r\nBrand: Nike SB\r\nModel: Mids - Money Cat\r\nVersion: 1\r\n\r\nCondition: New\r\nBrand: Nike SB\r\nModel: Lows - Momofuku's\r\nColor: Black\r\nVersion: 1\r\n\r\nIMPORTANT\r\n\r\nPlease install [Shoes] Low Top Skate Shoe Mesh in the meshes section for the proper look.\r\n\r\nReplaces Mid Top in game.\r\n\r\nFor my latest releases: https://github.com/WattieSession/SessionMods/releases",
+      "Description": "Condition: New\r\nBrand: Nike SB\r\nModel: Lows - Momofuku's\r\nColor: Black\r\nVersion: 1\r\n\r\nIMPORTANT\r\n\r\nPlease install [Shoes] Low Top Skate Shoe Mesh in the meshes section for the proper look.\r\n\r\nReplaces Mid Top in game.\r\n\r\nFor my latest releases: https://github.com/WattieSession/SessionMods/releases",
       "Version": 1.0,
       "Author": "Wattie",
       "DownloadLink": "rsmm://Url/https$github.com/WattieSession/SessionMods/releases/download/n11/nike-sb-momfuku.zip",
       "PreviewImage": "https://user-images.githubusercontent.com/60822222/74305571-29410380-4d15-11ea-87f1-7e466d276411.png",
       "Category": "session-shoes",
-      "UpdatedDate": "2020-01-31T00:00:00-08:00"
+      "UpdatedDate": "2020-01-31T08:00:00Z"
     },
     {
       "ID": "nike-sb-marshall.zip",
@@ -1066,7 +1066,7 @@
       "DownloadLink": "rsmm://Url/https$github.com/WattieSession/SessionMods/releases/download/h3/hoodie-thrasher-sd-blk.zip",
       "PreviewImage": "https://user-images.githubusercontent.com/60822222/74368036-b91f9580-4d87-11ea-9d85-69393242513a.png",
       "Category": "session-shirts",
-      "UpdatedDate": "2020-01-21T00:00:00"
+      "UpdatedDate": "2020-01-20T08:00:00Z"
     },
     {
       "ID": "hoodie-metallica-cross.zip",
@@ -1232,6 +1232,61 @@
       "PreviewImage": "https://user-images.githubusercontent.com/60822222/74599399-f1e49680-5035-11ea-8272-27d49ba61eb3.png",
       "Category": "session-shoes",
       "UpdatedDate": "2020-01-23T00:00:00-08:00"
+    },
+    {
+      "ID": "Hat-thrash-suicidal-blk.zip",
+      "Name": "Suicidal Tendencies OG Possessed Flip Mesh Trucker Hat - Black ",
+      "Description": "Color: Black\r\n\r\nYou need Redgouf's [MESH] Thrash hat in order to get the proper look. Replaces \"Red Cap\" in game.",
+      "Version": 1.0,
+      "Author": "Wattie",
+      "DownloadLink": "rsmm://Url/https$github.com/WattieSession/SessionMods/releases/download/ht1/Hat-thrash-suicidal-blk.zip",
+      "PreviewImage": "https://user-images.githubusercontent.com/60822222/76720214-6542fc00-66f9-11ea-8a99-0a2618206220.png",
+      "Category": "session-hats",
+      "UpdatedDate": "2020-01-22T08:00:00Z"
+    },
+    {
+      "ID": " Hat-thrash-suicidal-blue.zip",
+      "Name": "Suicidal Tendencies OG Possessed Flip Mesh Trucker Hat - Blue",
+      "Description": "Color: Blue\r\n\r\nYou need Redgouf's [MESH] Thrash hat in order to get the proper look. Replaces \"Red Cap\" in game.\r\n\r\nFor my latest releases: https://github.com/WattieSession/SessionMods/releases",
+      "Version": 1.0,
+      "Author": "Wattie",
+      "DownloadLink": "rsmm://Url/https$github.com/WattieSession/SessionMods/releases/download/ht1/Hat-thrash-suicidal-blue.zip",
+      "PreviewImage": "https://user-images.githubusercontent.com/60822222/76720212-6411cf00-66f9-11ea-858b-72124fc29a3b.png",
+      "Category": "session-hats",
+      "UpdatedDate": "2020-01-22T00:00:00"
+    },
+    {
+      "ID": "Hat-thrash-suicidal-brown.zip",
+      "Name": "Suicidal Tendencies OG Possessed Flip Mesh Trucker Hat - Brown",
+      "Description": "Color: Brown\r\n\r\nYou need Redgouf's [MESH] Thrash hat in order to get the proper look. Replaces \"Red Cap\" in game.\r\n\r\nFor my latest releases: https://github.com/WattieSession/SessionMods/releases",
+      "Version": 1.0,
+      "Author": "Wattie",
+      "DownloadLink": "rsmm://Url/https$github.com/WattieSession/SessionMods/releases/download/ht1/Hat-thrash-suicidal-brown.zip",
+      "PreviewImage": "https://user-images.githubusercontent.com/60822222/76720213-64aa6580-66f9-11ea-9972-71747f8889f7.png",
+      "Category": "session-hats",
+      "UpdatedDate": "2020-01-20T08:00:00Z"
+    },
+    {
+      "ID": "Hat-thrash-suicidal-white.zip",
+      "Name": "Suicidal Tendencies OG Possessed Flip Mesh Trucker Hat - White",
+      "Description": "Color: White\r\n\r\nYou need Redgouf's [MESH] Thrash hat in order to get the proper look. Replaces \"Red Cap\" in game.\r\n\r\nFor my latest releases: https://github.com/WattieSession/SessionMods/releases",
+      "Version": 1.0,
+      "Author": "Wattie",
+      "DownloadLink": "rsmm://Url/https$github.com/WattieSession/SessionMods/releases/download/ht1/Hat-thrash-suicidal-white.zip",
+      "PreviewImage": "https://user-images.githubusercontent.com/60822222/76720214-6542fc00-66f9-11ea-8a99-0a2618206220.png",
+      "Category": "session-hats",
+      "UpdatedDate": "2020-01-19T08:00:00Z"
+    },
+    {
+      "ID": "Hat-thrash-suicidal-yello.zip",
+      "Name": "Suicidal Tendencies OG Possessed Flip Mesh Trucker Hat - Yellow",
+      "Description": "Color: Yellow\r\n\r\nYou need Redgouf's [MESH] Thrash hat in order to get the proper look. Replaces \"Red Cap\" in game.\r\n\r\nFor my latest releases: https://github.com/WattieSession/SessionMods/releases",
+      "Version": 1.0,
+      "Author": "Wattie",
+      "DownloadLink": "rsmm://Url/https$github.com/WattieSession/SessionMods/releases/download/ht1/Hat-thrash-suicidal-yello.zip",
+      "PreviewImage": "https://user-images.githubusercontent.com/60822222/76720207-6116de80-66f9-11ea-8746-bb19af4921d3.png",
+      "Category": "session-hats",
+      "UpdatedDate": "2020-01-18T08:00:00Z"
     }
   ]
 }
