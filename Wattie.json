@@ -1,8 +1,9 @@
 {
-  "Name": "Wattie",
+  "Name": "",
   "Assets": [
     {
       "ID": "axion-kc-v2.zip",
+      "IDWithoutExtension": "axion-kc-v2",
       "Name": "Axion - Kareem Cambell - Blk/Gum",
       "Description": "Condition: Used\r\nBrand: Axion\r\nModel: Kareem Cambell KCK\r\nSize: Any\r\nColor: Black/Gum\r\nVersion: 2\r\n\r\nIMPORTANT\r\n\r\nPlease install [Shoes] Low Top Skate Shoe Mesh in the meshes section for the proper look.\r\n\r\nReplaces Black Mid Top Shoe in game.\r\n\r\nFor my latest releases: https://github.com/WattieSession/SessionMods/releases",
       "Version": 1.0,
@@ -14,6 +15,7 @@
     },
     {
       "ID": "dc-kalis-vulc-red-v2.zip",
+      "IDWithoutExtension": "dc-kalis-vulc-red-v2",
       "Name": "DC Shoes - Kalis Vulc - Red/Wht",
       "Description": "Condition: Used\r\nBrand: DC Shoes\r\nModel: Josh Kalis Vulc\r\nSize: Any\r\nColor: Red/White\r\nVersion: 2\r\n\r\nIMPORTANT\r\n\r\nReplaces Vul A Shoe in game.\r\n\r\nFor my latest releases: https://github.com/WattieSession/SessionMods/releases",
       "Version": 1.0,
@@ -25,6 +27,7 @@
     },
     {
       "ID": "dc-kalis-vulc-offwht-v2.zip",
+      "IDWithoutExtension": "dc-kalis-vulc-offwht-v2",
       "Name": "DC Shoes - Kalis Vulc - Off White",
       "Description": "Condition: Used\r\nBrand: DC Shoes\r\nModel: Josh Kalis Vulc\r\nSize: Any\r\nColor: Off White/White\r\nVersion: 2\r\n\r\nIMPORTANT\r\n\r\nReplaces Vul A Shoe in game.\r\n\r\nFor my latest releases: https://github.com/WattieSession/SessionMods/releases",
       "Version": 1.0,
@@ -36,6 +39,7 @@
     },
     {
       "ID": "es-rc-v2.zip",
+      "IDWithoutExtension": "es-rc-v2",
       "Name": "eS - Contract - Ronny Creager",
       "Description": "Condition: Used\r\nBrand: eS\r\nModel: Contract Ronny Creager\r\nSize: Any\r\nColor: Black/White\r\nVersion: 2\r\n\r\nIMPORTANT\r\n\r\nPlease install [Shoes] Low Top Skate Shoe Mesh in the meshes section for the proper look.\r\n\r\nReplaces Black Mid Top Shoe in game.\r\n\r\nFor my latest releases: https://github.com/WattieSession/SessionMods/releases",
       "Version": 1.0,
@@ -47,6 +51,7 @@
     },
     {
       "ID": "es-koston1-blkgld.zip",
+      "IDWithoutExtension": "es-koston1-blkgld",
       "Name": "eS - Koston1 - Blk/Gld/Purp",
       "Description": "Condition: Used\r\nBrand: eS\r\nModel: Koston 1\r\nSize: Any\r\nColor: Black/Gold/Purple\r\nVersion: 1\r\n\r\nIMPORTANT\r\n\r\nPlease install [Shoes] Low Top Skate Shoe Mesh in the meshes section for the proper look.\r\n\r\nReplaces Black Mid Top Shoe in game.\r\n\r\nFor my latest releases: https://github.com/WattieSession/SessionMods/releases",
       "Version": 1.0,
@@ -58,6 +63,7 @@
     },
     {
       "ID": "es-koston1-blkgum.zip",
+      "IDWithoutExtension": "es-koston1-blkgum",
       "Name": "eS - Koston1 - Blk/Gum",
       "Description": "Condition: Used\r\nBrand: eS\r\nModel: Koston 1\r\nSize: Any\r\nColor: Black/Gum\r\nVersion: 1\r\n\r\nIMPORTANT\r\n\r\nPlease install [Shoes] Low Top Skate Shoe Mesh in the meshes section for the proper look.\r\n\r\nReplaces Black Mid Top Shoe in game.\r\n\r\nFor my latest releases: https://github.com/WattieSession/SessionMods/releases",
       "Version": 1.0,
@@ -69,6 +75,7 @@
     },
     {
       "ID": "es-koston1-grnwht.zip",
+      "IDWithoutExtension": "es-koston1-grnwht",
       "Name": "eS - Koston1 - Grn/Wht",
       "Description": "Condition: Used\r\nBrand: eS\r\nModel: Koston 1\r\nSize: Any\r\nColor: Green/White\r\nVersion: 1\r\n\r\nIMPORTANT\r\n\r\nPlease install [Shoes] Low Top Skate Shoe Mesh in the meshes section for the proper look.\r\n\r\nReplaces Black Mid Top Shoe in game.\r\n\r\nFor my latest releases: https://github.com/WattieSession/SessionMods/releases",
       "Version": 1.0,
@@ -80,6 +87,7 @@
     },
     {
       "ID": "es-koston1-redblk.zip",
+      "IDWithoutExtension": "es-koston1-redblk",
       "Name": "eS - Koston1 - Blk/Red",
       "Description": "Condition: Used\r\nBrand: eS\r\nModel: Koston 1\r\nSize: Any\r\nColor: Black/Red\r\nVersion: 1\r\n\r\nIMPORTANT\r\n\r\nPlease install [Shoes] Low Top Skate Shoe Mesh in the meshes section for the proper look.\r\n\r\nReplaces Black Mid Top Shoe in game.\r\n\r\nFor my latest releases: https://github.com/WattieSession/SessionMods/releases",
       "Version": 1.0,
@@ -91,6 +99,7 @@
     },
     {
       "ID": "es-koston1-whtgum.zip",
+      "IDWithoutExtension": "es-koston1-whtgum",
       "Name": "eS - Koston1 - Wht/Gum",
       "Description": "Condition: Used\r\nBrand: eS\r\nModel: Koston 1\r\nSize: Any\r\nColor: Off White/White/Gum\r\nVersion: 1\r\n\r\nIMPORTANT\r\n\r\nPlease install [Shoes] Low Top Skate Shoe Mesh in the meshes section for the proper look.\r\n\r\nReplaces Black Mid Top Shoe in game.\r\n\r\nFor my latest releases: https://github.com/WattieSession/SessionMods/releases",
       "Version": 1.0,
@@ -102,6 +111,7 @@
     },
     {
       "ID": "duffs-gb2-blk-v3.zip",
+      "IDWithoutExtension": "duffs-gb2-blk-v3",
       "Name": "Duffs - Gambler 2's - Blk/Gum",
       "Description": "Condition: Used\r\nBrand: Duffs\r\nModel: Gambler 2\r\nSize: Any\r\nColor: Black/Gum\r\nVersion: 2\r\n\r\nIMPORTANT\r\n\r\nPlease install [Shoes] Low Top Skate Shoe Mesh in the meshes section for the proper look. Or you can use the normal Mid top shoe.\r\n\r\nReplaces Black Mid Top Shoe in game.\r\n\r\nFor my latest releases: https://github.com/WattieSession/SessionMods/releases",
       "Version": 2.0,
@@ -113,6 +123,7 @@
     },
     {
       "ID": "duff-g2-grnwht.zip",
+      "IDWithoutExtension": "duff-g2-grnwht",
       "Name": "Duffs - Gambler 2's - Grn/Wht",
       "Description": "Condition: Used\r\nBrand: Duffs\r\nModel: Gambler 2\r\nSize: Any\r\nColor: Green/White\r\nVersion: 2\r\n\r\nIMPORTANT\r\n\r\nPlease install [Shoes] Low Top Skate Shoe Mesh in the meshes section for the proper look. Or you can use the normal Mid top shoe.\r\n\r\nReplaces Black Mid Top Shoe in game.\r\n\r\nFor my latest releases: https://github.com/WattieSession/SessionMods/releases",
       "Version": 2.0,
@@ -124,6 +135,7 @@
     },
     {
       "ID": "duffs-gb2-red.zip",
+      "IDWithoutExtension": "duffs-gb2-red",
       "Name": "Duffs - Gambler 2's - Red/Gum",
       "Description": "Condition: Used\r\nBrand: Duffs\r\nModel: Gambler 2\r\nSize: Any\r\nColor: Green/White\r\nVersion: 2\r\n\r\nIMPORTANT\r\n\r\nPlease install [Shoes] Low Top Skate Shoe Mesh in the meshes section for the proper look. Or you can use the normal Mid top shoe.\r\n\r\nReplaces Black Mid Top Shoe in game.\r\n\r\nFor my latest releases: https://github.com/WattieSession/SessionMods/releases",
       "Version": 2.0,
@@ -135,6 +147,7 @@
     },
     {
       "ID": "101-gino-gza.zip",
+      "IDWithoutExtension": "101-gino-gza",
       "Name": "101 Gino Iannucci GZA",
       "Description": "Type: Deck\r\nCondition: Used\r\nBrand: 101\r\nModel: Gino Gza Wu\r\n\r\nReplaces All Red 8.125",
       "Version": 1.0,
@@ -146,6 +159,7 @@
     },
     {
       "ID": "Almost-centerpiece-wht.zip",
+      "IDWithoutExtension": "Almost-centerpiece-wht",
       "Name": "Almost Centerpiece White",
       "Description": "Type: Deck\r\nCondition: Used\r\nBrand: Almost\r\nModel: Centerpiece\r\n\r\nReplaces Dog Balls 8.125",
       "Version": 1.0,
@@ -157,6 +171,7 @@
     },
     {
       "ID": "Almost-haslam-tallship.zip",
+      "IDWithoutExtension": "Almost-haslam-tallship",
       "Name": "Almost Haslam Tall Ship",
       "Description": "Type: Deck\r\nCondition: Used\r\nBrand: Almost\r\nModel: Haslam Tall Ship\r\n\r\nReplaces No Comply 8.5\r\n\r\n",
       "Version": 1.0,
@@ -168,6 +183,7 @@
     },
     {
       "ID": "dck-almost-lewisforever.zip",
+      "IDWithoutExtension": "dck-almost-lewisforever",
       "Name": "Almost Lewis Marnell Forever",
       "Description": "Type: Deck\r\nCondition: Used\r\nBrand: Almost\r\nModel: Lewis Marnell Forever\r\n\r\nReplaces Half A Roger 8.125",
       "Version": 1.0,
@@ -179,6 +195,7 @@
     },
     {
       "ID": "Antihero-cardiel-watn.zip",
+      "IDWithoutExtension": "Antihero-cardiel-watn",
       "Name": "Antihero Cardiel Burger",
       "Description": "Type: Deck\r\nCondition: Used\r\nBrand: Anti Hero\r\nModel: Cardiel Burger\r\n\r\nReplaces Sword Swallower 8.25",
       "Version": 1.0,
@@ -190,6 +207,7 @@
     },
     {
       "ID": "Antihero-Cardiel-Carbine.zip",
+      "IDWithoutExtension": "Antihero-Cardiel-Carbine",
       "Name": "Antihero Cardiel Carbine",
       "Description": "Type: Deck\r\nCondition: Used\r\nBrand: Anti Hero\r\nModel: Cardiel Carbine\r\n\r\nReplaces Doodler 8.5",
       "Version": 1.0,
@@ -201,6 +219,7 @@
     },
     {
       "ID": "Antihero-grant9-used.zip",
+      "IDWithoutExtension": "Antihero-grant9-used",
       "Name": "Antihero Grant Taylor Amp 2019",
       "Description": "Type: Deck\r\nCondition: Used\r\nBrand: Anti Hero\r\nModel: Grant Taylor Amp 2019\r\n\r\nReplaces No Comply Orange 8.5",
       "Version": 1.0,
@@ -212,6 +231,7 @@
     },
     {
       "ID": "dck-blind-megapapa.zip",
+      "IDWithoutExtension": "dck-blind-megapapa",
       "Name": "Blind Mega Papa",
       "Description": "Type: Deck\r\nCondition: Used\r\nBrand: Blind\r\nModel: Mega Papa\r\n\r\nReplaces Sword Swalloer 8.25",
       "Version": 1.0,
@@ -223,6 +243,7 @@
     },
     {
       "ID": "blind-jl-american-icons.zip",
+      "IDWithoutExtension": "blind-jl-american-icons",
       "Name": "Blind Jason Lee American Icons",
       "Description": "Type: Deck\r\nCondition: Used\r\nBrand: Blind\r\nModel: Jason Lee American Icons\r\n\r\nReplaces Sword Swalloer 8.25",
       "Version": 1.0,
@@ -234,6 +255,7 @@
     },
     {
       "ID": " dck-rc-dj.zip",
+      "IDWithoutExtension": " dck-rc-dj",
       "Name": "Blind Ronny Creager DJ",
       "Description": "Type: Deck\r\nCondition: Used\r\nBrand: Blind\r\nModel: Ronny Creager DJ\r\n\r\nReplaces Half A Roger 8.125",
       "Version": 1.0,
@@ -245,6 +267,7 @@
     },
     {
       "ID": "bloodwizard-future.zip",
+      "IDWithoutExtension": "bloodwizard-future",
       "Name": "Blood Wizard Future Silver",
       "Description": "Type: Deck\r\nCondition: Used\r\nBrand: Blood Wizard\r\nModel: Future Silver 2019\r\n\r\nReplaces Ghost with a Boner 8.25",
       "Version": 1.0,
@@ -256,6 +279,7 @@
     },
     {
       "ID": "bw-given.zip",
+      "IDWithoutExtension": "bw-given",
       "Name": "Blood Wizard Given 2019",
       "Description": "Type: Deck\r\nCondition: Used\r\nBrand: Blood Wizard\r\nModel: Given 2019\r\n\r\nReplaces Black Eye deck",
       "Version": 1.0,
@@ -267,6 +291,7 @@
     },
     {
       "ID": "bw-kowalski.zip",
+      "IDWithoutExtension": "bw-kowalski",
       "Name": "Blood Wizard Kowalski 2019",
       "Description": "Type: Deck\r\nCondition: Used\r\nBrand: Blood Wizard\r\nModel: Kowalski 2019\r\n\r\nReplaces Black Eye deck",
       "Version": 1.0,
@@ -278,6 +303,7 @@
     },
     {
       "ID": "cliche-101-natas-devil-v1.zip",
+      "IDWithoutExtension": "cliche-101-natas-devil-v1",
       "Name": "Cliche 101 Natas Devil",
       "Description": "Type: Deck\r\nCondition: Used\r\nBrand: Cliche 101\r\nModel: Natas Devil\r\n\r\nReplaces Sword Swalloer 8.25",
       "Version": 1.0,
@@ -289,6 +315,7 @@
     },
     {
       "ID": "Creature-Bingaman-Cannabis.zip",
+      "IDWithoutExtension": "Creature-Bingaman-Cannabis",
       "Name": "Creature Bingaman Cannabis",
       "Description": "Type: Deck\r\nCondition: Used\r\nBrand: Creature\r\nModel: Bingaman Cannabis\r\n\r\nReplaces Toxic Eyes 8",
       "Version": 1.0,
@@ -300,6 +327,7 @@
     },
     {
       "ID": "dck-deez-avo.zip",
+      "IDWithoutExtension": "dck-deez-avo",
       "Name": "Deedz Avocado",
       "Description": "Type: Deck\r\nCondition: Used\r\nBrand: Deedz\r\nModel: Avocado\r\n\r\nReplaces Required Reading",
       "Version": 1.0,
@@ -311,6 +339,7 @@
     },
     {
       "ID": "element-bam-belfry.zip",
+      "IDWithoutExtension": "element-bam-belfry",
       "Name": "Element Bam Margera Belfry",
       "Description": "Type: Deck\r\nCondition: Used\r\nBrand: Element\r\nModel: Bam Margera Belfry\r\n\r\nReplaces Ghost with aboner 8.25",
       "Version": 1.0,
@@ -322,6 +351,7 @@
     },
     {
       "ID": "element-nh-calavera.zip",
+      "IDWithoutExtension": "element-nh-calavera",
       "Name": "Element Nyjah Houston Calavera",
       "Description": "Type: Deck\r\nCondition: Used\r\nBrand: Element\r\nModel: Nyjah Houston Calavera\r\n\r\nReplaces Toxic Eyes 8",
       "Version": 1.0,
@@ -333,6 +363,7 @@
     },
     {
       "ID": "foundation-rc-trix.zip",
+      "IDWithoutExtension": "foundation-rc-trix",
       "Name": "Foundation Ronny Creager Trix",
       "Description": "Type: Deck\r\nCondition: Used\r\nBrand: Foundation\r\nModel: Ronny Creager Trix\r\n\r\nReplaces Ghost with a boner 8.25",
       "Version": 1.0,
@@ -344,6 +375,7 @@
     },
     {
       "ID": "Girl-MC-dali.zip",
+      "IDWithoutExtension": "Girl-MC-dali",
       "Name": "Girl Mike Carroll Dali Skull",
       "Description": "Type: Deck\r\nCondition: Used\r\nBrand: Girl\r\nModel: Mike Carrol Dali Skull\r\n\r\nReplaces Toxic Eyes 8",
       "Version": 1.0,
@@ -355,6 +387,7 @@
     },
     {
       "ID": "Girl.x.Alife.-.Budwesier.zip",
+      "IDWithoutExtension": "Girl.x.Alife.-.Budwesier",
       "Name": "Girl x Alife Budweiser",
       "Description": "Type: Deck\r\nCondition: Used\r\nBrand: Girl\r\nModel: Alife x Budweiser\r\n\r\nReplaces Sword Swallower 8.25",
       "Version": 1.0,
@@ -366,6 +399,7 @@
     },
     {
       "ID": "dck-habitat-bob.zip",
+      "IDWithoutExtension": "dck-habitat-bob",
       "Name": "Habitat Bobs Burger",
       "Description": "Type: Deck\r\nCondition: Used\r\nBrand: Habitat\r\nModel: Bob Burger\r\n\r\nReplaces Ghost with a boner 8.25",
       "Version": 1.0,
@@ -377,6 +411,7 @@
     },
     {
       "ID": "dck-hockey-kadow-shatter.zip",
+      "IDWithoutExtension": "dck-hockey-kadow-shatter",
       "Name": "Hockey Kadow Shatter",
       "Description": "Type: Deck\r\nCondition: Used\r\nBrand: Hockey\r\nModel: Kadow Shatter\r\n\r\nReplaces Half Roger",
       "Version": 1.0,
@@ -388,6 +423,7 @@
     },
     {
       "ID": "hookups-jetpilot.zip",
+      "IDWithoutExtension": "hookups-jetpilot",
       "Name": "Hookups Jet Pilot",
       "Description": "Type: Deck\r\nCondition: Used\r\nBrand: Hook Ups\r\nModel: Jet Pilot\r\n\r\nReplaces Half a Roger 8.125",
       "Version": 1.0,
@@ -399,6 +435,7 @@
     },
     {
       "ID": "dck-jart-splatter.zip",
+      "IDWithoutExtension": "dck-jart-splatter",
       "Name": "Jart Splatter",
       "Description": "Type: Deck\r\nCondition: Used\r\nBrand: Jart\r\nModel: Splatter\r\n\r\nReplaces Required Reading deck",
       "Version": 1.0,
@@ -410,6 +447,7 @@
     },
     {
       "ID": "jk-tetsuo-mutation.zip",
+      "IDWithoutExtension": "jk-tetsuo-mutation",
       "Name": "World Industries JK Tetsuo Mutation",
       "Description": "Type: Deck\r\nCondition: Used\r\nBrand: World Industries (JK)\r\nModel: Tetsuo Mutation\r\n\r\nReplaces OG Graphic 8.5",
       "Version": 1.0,
@@ -421,6 +459,7 @@
     },
     {
       "ID": "krooked-chicoguest-yel.zip",
+      "IDWithoutExtension": "krooked-chicoguest-yel",
       "Name": "Krooked Chico Brenes Guest Yellow",
       "Description": "Type: Deck\r\nCondition: Used\r\nBrand: Krooked\r\nModel: Chico Brenes Guest Board (Yellow)\r\n\r\nReplaces Anatomy of an egg deck",
       "Version": 1.0,
@@ -432,6 +471,7 @@
     },
     {
       "ID": "krooked-zipzogger-green.zip",
+      "IDWithoutExtension": "krooked-zipzogger-green",
       "Name": "Krooked Zip Zogger",
       "Description": "Type: Deck\r\nCondition: Used\r\nBrand: Krooked\r\nModel: Zip Zogger\r\n\r\nReplaces Very Big Egg deck",
       "Version": 1.0,
@@ -443,6 +483,7 @@
     },
     {
       "ID": "dck-nd-dannys-monkey.zip",
+      "IDWithoutExtension": "dck-nd-dannys-monkey",
       "Name": "New Deal Sargent Monkey Bomber",
       "Description": "Type: Deck\r\nCondition: Used\r\nBrand: New Deal\r\nModel: Sargent Monkey Bomber\r\n\r\nReplaces Toxic Eyes deck",
       "Version": 1.0,
@@ -454,6 +495,7 @@
     },
     {
       "ID": "dck-planb-mullen-yoda-clean.zip",
+      "IDWithoutExtension": "dck-planb-mullen-yoda-clean",
       "Name": "Plan B Mullen Yoda (clean)",
       "Description": "Type: Deck\r\nCondition: New\r\nBrand: Plan B\r\nModel: Rodney Mullen - Yoda\r\n\r\nReplaces sword swallower 8.25",
       "Version": 1.0,
@@ -465,6 +507,7 @@
     },
     {
       "ID": "pp-raybarbee-og-blue.zip",
+      "IDWithoutExtension": "pp-raybarbee-og-blue",
       "Name": "Powell Peralta Ray Barbee Ragdoll",
       "Description": "Type: Deck\r\nCondition: Used\r\nBrand: Powell Peralta\r\nModel: Ray Barbee Ragdoll\r\n\r\nReplaces Toxic Eyes deck",
       "Version": 1.0,
@@ -476,6 +519,7 @@
     },
     {
       "ID": "Prime.Wood.-.Jason.Lee.-.Bowie.zip",
+      "IDWithoutExtension": "Prime.Wood.-.Jason.Lee.-.Bowie",
       "Name": "Prime Wood Jason Lee Bowie",
       "Description": "Type: Deck\r\nCondition: Used\r\nBrand: Prime Wood\r\nModel: Jason Lee Bowie\r\n\r\nReplaces Weedcobra 8.125",
       "Version": 1.0,
@@ -487,6 +531,7 @@
     },
     {
       "ID": "Real-kbird.zip",
+      "IDWithoutExtension": "Real-kbird",
       "Name": "Real KBird",
       "Description": "Type: Deck\r\nCondition: Used\r\nBrand: Real\r\nModel: KBird\r\n\r\nReplaces Ghost with a boner 8.25",
       "Version": 1.0,
@@ -498,6 +543,7 @@
     },
     {
       "ID": "sp-barnyard19.zip",
+      "IDWithoutExtension": "sp-barnyard19",
       "Name": "Street Plant Barnyard 2019",
       "Description": "Type: Deck\r\nCondition: Used\r\nBrand: Street Plant\r\nModel: Barnyard 2019\r\n\r\nReplaces Black Eye deck",
       "Version": 1.0,
@@ -509,6 +555,7 @@
     },
     {
       "ID": "dck-vision-psychostick.zip",
+      "IDWithoutExtension": "dck-vision-psychostick",
       "Name": "Vision Psycho Stick",
       "Description": "Type: Deck\r\nCondition: Used\r\nBrand: Vision\r\nModel: Psycho Stick\r\n\r\nReplaces Toxic Eyes deck",
       "Version": 1.0,
@@ -520,6 +567,7 @@
     },
     {
       "ID": "wi-jk-tetsuo-v1.zip",
+      "IDWithoutExtension": "wi-jk-tetsuo-v1",
       "Name": "World Industries JK Tetsuo 1",
       "Description": "Type: Deck\r\nCondition: Used\r\nBrand: World Industries (JK)\r\nModel: Tetsuo 1\r\n\r\nReplaces Weedcobra 8.125",
       "Version": 1.0,
@@ -531,6 +579,7 @@
     },
     {
       "ID": "wi-jk-tetsuo2.zip",
+      "IDWithoutExtension": "wi-jk-tetsuo2",
       "Name": "World Industries JK Tetsuo 2",
       "Description": "Type: Deck\r\nCondition: Used\r\nBrand: World Industries (JK)\r\nModel: Tetsuo 2\r\n\r\nReplaces Weedcobra 8.125",
       "Version": 1.0,
@@ -542,6 +591,7 @@
     },
     {
       "ID": "wi-jk-tetsuo3.zip",
+      "IDWithoutExtension": "wi-jk-tetsuo3",
       "Name": "World Industries JK Tetsuo 3",
       "Description": "Type: Deck\r\nCondition: Used\r\nBrand: World Industries (JK)\r\nModel: Tetsuo 3\r\n\r\nReplaces Dog Balls 8.125",
       "Version": 1.0,
@@ -553,6 +603,7 @@
     },
     {
       "ID": "dck-zero-allie-taxi.zip",
+      "IDWithoutExtension": "dck-zero-allie-taxi",
       "Name": "Zero Allie Taxi Driver",
       "Description": "Type: Deck\r\nCondition: Used\r\nBrand: Zero\r\nModel: Allie Taxi Driver\r\n\r\nReplaces Free the hand deck",
       "Version": 1.0,
@@ -564,6 +615,7 @@
     },
     {
       "ID": "dck-zero-bold.zip",
+      "IDWithoutExtension": "dck-zero-bold",
       "Name": "Zero Bold",
       "Description": "Type: Deck\r\nCondition: Used\r\nBrand: Zero\r\nModel: Bold\r\n\r\nReplaces Half a Roger 8.125",
       "Version": 1.0,
@@ -575,6 +627,7 @@
     },
     {
       "ID": "dck-zero-misfits-ad.zip",
+      "IDWithoutExtension": "dck-zero-misfits-ad",
       "Name": "Zero Misfits A.D.",
       "Description": "Type: Deck\r\nCondition: Used\r\nBrand: Zero\r\nModel: Misfits A.D.\r\n\r\nReplaces First Place deck",
       "Version": 1.0,
@@ -586,6 +639,7 @@
     },
     {
       "ID": "zooyork-tag-gld.zip",
+      "IDWithoutExtension": "zooyork-tag-gld",
       "Name": "Zoo York Gold Tag",
       "Description": "Type: Deck\r\nCondition: Used\r\nBrand: Zoo York\r\nModel: Gold Tag\r\n\r\nReplaces Weedcobra 8.125",
       "Version": 1.0,
@@ -597,6 +651,7 @@
     },
     {
       "ID": "zooyorkxrime.zip",
+      "IDWithoutExtension": "zooyorkxrime",
       "Name": "Zoo York x Rime",
       "Description": "Type: Deck\r\nCondition: Used\r\nBrand: Zoo York\r\nModel: X Rime\r\n\r\nReplaces Doodlers 8.5",
       "Version": 1.0,
@@ -608,6 +663,7 @@
     },
     {
       "ID": "nike-sb-wutang-mids.zip",
+      "IDWithoutExtension": "nike-sb-wutang-mids",
       "Name": "Nike SB - Mids - Wu-Tang",
       "Description": "Condition: New\r\nBrand: Nike SB\r\nModel: Mids - Wu-Tang\r\nVersion: 1\r\n\r\nIMPORTANT\r\n\r\nReplaces Black Mid Top in game.\r\n\r\nFor my latest releases: https://github.com/WattieSession/SessionMods/releases",
       "Version": 1.0,
@@ -619,6 +675,7 @@
     },
     {
       "ID": "nike-sb-verdy-gdc-red.zip",
+      "IDWithoutExtension": "nike-sb-verdy-gdc-red",
       "Name": "Nike SB - Lows - Verdy GDC - Red",
       "Description": "Condition: New\r\nBrand: Nike SB\r\nModel: Lows - Verdy GDC\r\nColor: Red\r\nVersion: 1\r\n\r\nIMPORTANT\r\n\r\nPlease install [Shoes] Low Top Skate Shoe Mesh in the meshes section for the proper look.\r\n\r\nReplaces Mid Top in game.\r\n\r\nFor my latest releases: https://github.com/WattieSession/SessionMods/releases",
       "Version": 1.0,
@@ -630,6 +687,7 @@
     },
     {
       "ID": "nike-sb-verdy-gdc-cream.zip",
+      "IDWithoutExtension": "nike-sb-verdy-gdc-cream",
       "Name": "Nike SB - Lows - Verdy GDC - Cream",
       "Description": "Condition: New\r\nBrand: Nike SB\r\nModel: Lows - Verdy GDC\r\nColor: Cream\r\nVersion: 1\r\n\r\nIMPORTANT\r\n\r\nPlease install [Shoes] Low Top Skate Shoe Mesh in the meshes section for the proper look.\r\n\r\nReplaces Mid Top in game.\r\n\r\nFor my latest releases: https://github.com/WattieSession/SessionMods/releases",
       "Version": 1.0,
@@ -641,6 +699,7 @@
     },
     {
       "ID": "nike-sb-vapormids.zip",
+      "IDWithoutExtension": "nike-sb-vapormids",
       "Name": "Nike SB - Mids - Vapor",
       "Description": "Condition: New\r\nBrand: Nike SB\r\nModel: Mids - Vapor\r\nVersion: 1\r\n\r\nIMPORTANT\r\n\r\nReplaces Black Mid Top in game.\r\n\r\nFor my latest releases: https://github.com/WattieSession/SessionMods/releases",
       "Version": 1.0,
@@ -652,6 +711,7 @@
     },
     {
       "ID": "nike-sb-spidermans.zip",
+      "IDWithoutExtension": "nike-sb-spidermans",
       "Name": "Nike SB - Mids - Spiderman",
       "Description": "Condition: New\r\nBrand: Nike SB\r\nModel: Mids - Spiderman\r\nVersion: 1\r\n\r\nIMPORTANT\r\n\r\nReplaces Black Mid Top in game.\r\n\r\nFor my latest releases: https://github.com/WattieSession/SessionMods/releases",
       "Version": 1.0,
@@ -663,6 +723,7 @@
     },
     {
       "ID": "nike-sb-parra-wht.zip",
+      "IDWithoutExtension": "nike-sb-parra-wht",
       "Name": "Nike SB - Mids - Parra White",
       "Description": "Condition: New\r\nBrand: Nike SB\r\nModel: Mids - Parra White\r\nColor: White/Multi\r\nVersion: 1 (These should be lows I plan to rework)\r\n\r\nIMPORTANT\r\n\r\nReplaces Mid Top in game.\r\n\r\nFor my latest releases: https://github.com/WattieSession/SessionMods/releases",
       "Version": 1.0,
@@ -674,6 +735,7 @@
     },
     {
       "ID": "nike-sb-moneycatmids.zip",
+      "IDWithoutExtension": "nike-sb-moneycatmids",
       "Name": "Nike SB - Mids - Money Cat",
       "Description": "Condition: New\r\nBrand: Nike SB\r\nModel: Mids - Money Cat\r\nVersion: 1\r\n\r\nIMPORTANT\r\n\r\nReplaces Black Mid Top in game.\r\n\r\nFor my latest releases: https://github.com/WattieSession/SessionMods/releases",
       "Version": 1.0,
@@ -685,6 +747,7 @@
     },
     {
       "ID": "nike-sb-momfuku.zip",
+      "IDWithoutExtension": "nike-sb-momfuku",
       "Name": "Nike SB - Lows - Momofuku's",
       "Description": "Condition: New\r\nBrand: Nike SB\r\nModel: Lows - Momofuku's\r\nColor: Black\r\nVersion: 1\r\n\r\nIMPORTANT\r\n\r\nPlease install [Shoes] Low Top Skate Shoe Mesh in the meshes section for the proper look.\r\n\r\nReplaces Mid Top in game.\r\n\r\nFor my latest releases: https://github.com/WattieSession/SessionMods/releases",
       "Version": 1.0,
@@ -692,10 +755,11 @@
       "DownloadLink": "rsmm://Url/https$github.com/WattieSession/SessionMods/releases/download/n11/nike-sb-momfuku.zip",
       "PreviewImage": "https://user-images.githubusercontent.com/60822222/74305571-29410380-4d15-11ea-87f1-7e466d276411.png",
       "Category": "session-shoes",
-      "UpdatedDate": "2020-01-31T08:00:00Z"
+      "UpdatedDate": "2020-01-31T00:00:00-08:00"
     },
     {
       "ID": "nike-sb-marshall.zip",
+      "IDWithoutExtension": "nike-sb-marshall",
       "Name": "Nike SB - Lows - Marshall Amps",
       "Description": "Condition: New\r\nBrand: Nike SB\r\nModel: Highs - Marshall Amps\r\nVersion: 1\r\n\r\nIMPORTANT\r\n\r\nReplaces Beige Mid Top in game.\r\n\r\nFor my latest releases: https://github.com/WattieSession/SessionMods/releases",
       "Version": 1.0,
@@ -707,6 +771,7 @@
     },
     {
       "ID": "nike-sb-low-wolfgrey-worn.zip",
+      "IDWithoutExtension": "nike-sb-low-wolfgrey-worn",
       "Name": "Nike SB - Lows - Wolf Gray - Used",
       "Description": "Condition: Used\r\nBrand: Nike SB\r\nModel: Lows - Wolf Gray\r\nVersion: 1\r\n\r\nIMPORTANT\r\n\r\nPlease install [Shoes] Low Top Skate Shoe Mesh in the meshes section for the proper look.\r\n\r\nReplaces Mid Top in game.\r\n\r\nFor my latest releases: https://github.com/WattieSession/SessionMods/releases",
       "Version": 1.0,
@@ -718,6 +783,7 @@
     },
     {
       "ID": "nike-sb-lewis-v1.zip",
+      "IDWithoutExtension": "nike-sb-lewis-v1",
       "Name": "Nike SB - Mids - Lewis Marnell",
       "Description": "Condition: New\r\nBrand: Nike SB\r\nModel: Mids - Lewis Marnell\r\nColor: Wheat/Brown\r\n\r\nReplaces Black Mid Top in game.\r\n\r\nFor my latest releases: https://github.com/WattieSession/SessionMods/releases",
       "Version": 1.0,
@@ -729,6 +795,7 @@
     },
     {
       "ID": "nike-sb-high-supa.zip",
+      "IDWithoutExtension": "nike-sb-high-supa",
       "Name": "Nike SB - Highs - Supa",
       "Description": "Condition: New\r\nBrand: Nike SB\r\nModel: Highs - Danny Supa\r\nVersion: 1\r\n\r\nReplaces Beige Mid Top in game.\r\n\r\nFor my latest releases: https://github.com/WattieSession/SessionMods/releases",
       "Version": 1.0,
@@ -740,6 +807,7 @@
     },
     {
       "ID": "nike-sb-low-rayguns-wht.zip",
+      "IDWithoutExtension": "nike-sb-low-rayguns-wht",
       "Name": "Nike SB - Lows - Rayguns - White",
       "Description": "Condition: New\r\nBrand: Nike SB\r\nModel: Lows - Rayguns\r\nColor: White\r\nVersion: 1\r\n\r\nIMPORTANT\r\n\r\nPlease install [Shoes] Low Top Skate Shoe Mesh in the meshes section for the proper look.\r\n\r\nReplaces Mid Top in game.\r\n\r\nFor my latest releases: https://github.com/WattieSession/SessionMods/releases",
       "Version": 1.0,
@@ -751,6 +819,7 @@
     },
     {
       "ID": "nike-mfdoom.zip",
+      "IDWithoutExtension": "nike-mfdoom",
       "Name": "Nike SB - Mids - MFDoom",
       "Description": "Condition: New\r\nBrand: Nike SB\r\nModel: Mids - MFDoom\r\nVersion:1\r\n\r\nReplaces Beige Mid Top in game.\r\n\r\nFor my latest releases: https://github.com/WattieSession/SessionMods/releases",
       "Version": 1.0,
@@ -762,6 +831,7 @@
     },
     {
       "ID": "nike-maples.zip",
+      "IDWithoutExtension": "nike-maples",
       "Name": "Nike SB - Highs - Maples",
       "Description": "Condition: New\r\nBrand: Nike SB\r\nModel: Highs - Maples\r\nColor: Maple\r\nVersion:1\r\n\r\nReplaces Beige Mid Top in game.\r\n\r\nFor my latest releases: https://github.com/WattieSession/SessionMods/releases",
       "Version": 1.0,
@@ -773,6 +843,7 @@
     },
     {
       "ID": "nike-sb-freddy.zip",
+      "IDWithoutExtension": "nike-sb-freddy",
       "Name": "Nike SB - Lows - Freddy",
       "Description": "Condition: New\r\nBrand: Nike\r\nModel: Lows - Freddy\r\nVersion:1\r\n\r\nIMPORTANT\r\n\r\nPlease install [Shoes] Low Top Skate Shoe Mesh in the meshes section for the proper look.\r\n\r\nReplaces Mid Top in game.\r\n\r\nFor my latest releases: https://github.com/WattieSession/SessionMods/releases",
       "Version": 1.0,
@@ -784,6 +855,7 @@
     },
     {
       "ID": "nike-sb-blackironwhite-mids.zip",
+      "IDWithoutExtension": "nike-sb-blackironwhite-mids",
       "Name": "Nike SB - Mids - Black Iron White",
       "Description": "Condition: New\r\nBrand: Nike\r\nModel: Mids - Black Iron White\r\nColor: Black/white\r\nVersion:1\r\n\r\nIMPORTANT\r\n\r\nReplaces Black Mid Top in game.\r\n\r\nFor my latest releases: https://github.com/WattieSession/SessionMods/releases",
       "Version": 1.0,
@@ -795,6 +867,7 @@
     },
     {
       "ID": "nike-sb-3bears-mids.zip",
+      "IDWithoutExtension": "nike-sb-3bears-mids",
       "Name": "Nike SB - Mids - 3bears",
       "Description": "Condition: New\r\nBrand: Nike\r\nModel: Mids - 3bears\r\nColor: VA\r\nVersion: 1\r\n\r\nIMPORTANT\r\n\r\nReplaces Black Mid Top in game.\r\n\r\nFor my latest releases: https://github.com/WattieSession/SessionMods/releases",
       "Version": 1.0,
@@ -806,6 +879,7 @@
     },
     {
       "ID": "Spitfire-tablets-99d-normal.zip",
+      "IDWithoutExtension": "Spitfire-tablets-99d-normal",
       "Name": "Spitfire - Tablets",
       "Description": "Condition: Used\r\nBrand: Spitfire\r\nModel: Tablets\r\nSize: Any\r\nColor: White\r\nVersion: 1",
       "Version": 1.0,
@@ -817,6 +891,7 @@
     },
     {
       "ID": "spitfire_tablets_99d_flipped.zip",
+      "IDWithoutExtension": "spitfire_tablets_99d_flipped",
       "Name": "Spitfire - Tablets - Flipped",
       "Description": "Condition: Used\r\nBrand: Spitfire\r\nModel: Tablets - Flipped\r\nSize: Any\r\nColor: White\r\nVersion: 1",
       "Version": 1.0,
@@ -828,6 +903,7 @@
     },
     {
       "ID": "sf-lockins-normal.zip",
+      "IDWithoutExtension": "sf-lockins-normal",
       "Name": "Spitfire - Lock In's - Reds",
       "Description": "Condition: Used\r\nBrand: Spitfire\r\nModel: Lock In's Blues\r\nSize: Any\r\nColor: White\r\nVersion: 1",
       "Version": 1.0,
@@ -839,6 +915,7 @@
     },
     {
       "ID": "sf-cardiels-blk-flipped.zip",
+      "IDWithoutExtension": "sf-cardiels-blk-flipped",
       "Name": "Spitfire - Cardiel's - Black - Flipped",
       "Description": "Condition: Used\r\nBrand: Spitfire\r\nModel: Cardiel's\r\nSize: Any\r\nColor: Black\r\nVersion: 1",
       "Version": 1.0,
@@ -850,6 +927,7 @@
     },
     {
       "ID": "sf-cardiel-blk-normal.zip",
+      "IDWithoutExtension": "sf-cardiel-blk-normal",
       "Name": "Spitfire - Cardiel's - Black",
       "Description": "Condition: Used\r\nBrand: Spitfire\r\nModel: Cardiel's\r\nSize: Any\r\nColor: Black\r\nVersion: 1",
       "Version": 1.0,
@@ -861,6 +939,7 @@
     },
     {
       "ID": "OJ-PlainJaneKeyframes.-.87a.zip",
+      "IDWithoutExtension": "OJ-PlainJaneKeyframes.-.87a",
       "Name": "OJ - Plain Jane Keyframes",
       "Description": "Condition: Used\r\nBrand: OJ\r\nModel: Plain Jane Keyframes\r\nSize: Any\r\nColor: White\r\nVersion: 1",
       "Version": 1.0,
@@ -872,6 +951,7 @@
     },
     {
       "ID": "OJ.-.Vampire.Bat.-Black.Purple-.97a.zip",
+      "IDWithoutExtension": "OJ.-.Vampire.Bat.-Black.Purple-.97a",
       "Name": "OJ - Vampire Bat",
       "Description": "Condition: Used\r\nBrand: OJ\r\nModel: Vampire Bat\r\nSize: Any\r\nColor: Purple swirl\r\nVersion: 1",
       "Version": 1.0,
@@ -883,6 +963,7 @@
     },
     {
       "ID": "bones-meangreens-stf.zip",
+      "IDWithoutExtension": "bones-meangreens-stf",
       "Name": "Bones - Meangreans STF",
       "Description": "Condition: Used\r\nBrand: Bones\r\nModel: Meangreens\r\nSize: Any\r\nColor: Green\r\nVersion: 1",
       "Version": 1.0,
@@ -894,6 +975,7 @@
     },
     {
       "ID": "bones-homeland.zip",
+      "IDWithoutExtension": "bones-homeland",
       "Name": "Bones - Homeland",
       "Description": "Condition: Used\r\nBrand: Bones\r\nModel: Homeland - Kowalski\r\nSize: Any\r\nColor: White\r\nVersion: 1",
       "Version": 1.0,
@@ -905,6 +987,7 @@
     },
     {
       "ID": "bones-booraps-stf-103a.zip",
+      "IDWithoutExtension": "bones-booraps-stf-103a",
       "Name": "Bones - Boo Raps! STF",
       "Description": "Condition: Used\r\nBrand: Bones\r\nModel: Boo Raps!\r\nSize: Any\r\nColor: White\r\nVersion: 1",
       "Version": 1.0,
@@ -916,6 +999,7 @@
     },
     {
       "ID": "shirt-juglist-brwn.zip",
+      "IDWithoutExtension": "shirt-juglist-brwn",
       "Name": "Junglist Movement - Brown",
       "Description": "Type: Tshirt - Male\r\nBrand: Junglist Movement\r\nSize: Any\r\nColor: Brown\r\nVersion: 1",
       "Version": 1.0,
@@ -927,6 +1011,7 @@
     },
     {
       "ID": "primus-cheesy-tshirt.zip",
+      "IDWithoutExtension": "primus-cheesy-tshirt",
       "Name": "Primus - Misc Debris - Blk",
       "Description": "Type: Tshirt - Male\r\nBrand: Primus\r\nModel: Misc Debris\r\nSize: Any\r\nColor: Black\r\nVersion: 1",
       "Version": 1.0,
@@ -938,6 +1023,7 @@
     },
     {
       "ID": "primus-porksoda-tshirt.zip",
+      "IDWithoutExtension": "primus-porksoda-tshirt",
       "Name": "Primus - Pork Soda - Blk",
       "Description": "Type: Tshirt - Male\r\nBrand: Primus\r\nModel: Pork Soda\r\nSize: Any\r\nColor: Black\r\nVersion: 1",
       "Version": 1.0,
@@ -949,6 +1035,7 @@
     },
     {
       "ID": "st-possessed-male-tshirt.zip",
+      "IDWithoutExtension": "st-possessed-male-tshirt",
       "Name": "Suicidal Tendencies - Possessed ",
       "Description": "Type: Tshirt - Male\r\nBrand: Suicidal Tendencies\r\nSize: Any\r\nColor: White\r\nVersion: 1",
       "Version": 1.0,
@@ -960,6 +1047,7 @@
     },
     {
       "ID": "dipskate-white.zip",
+      "IDWithoutExtension": "dipskate-white",
       "Name": "Dipskate - Logo- White",
       "Description": "Type: Tshirt - Male\r\nBrand: Dipskate\r\nSize: Any\r\nColor: White\r\nVersion: 1",
       "Version": 1.0,
@@ -971,6 +1059,7 @@
     },
     {
       "ID": "bb-dc-tshirt-blk.zip",
+      "IDWithoutExtension": "bb-dc-tshirt-blk",
       "Name": "Bad Brains - Banned in DC - Black",
       "Description": "Type: Tshirt - Male\r\nCondition: New\r\nBrand: Bad Brains\r\nModel: Banned in DC Bolt\r\nSize: Any\r\nColor: Black\r\nVersion: 1",
       "Version": 1.0,
@@ -982,6 +1071,7 @@
     },
     {
       "ID": "afx-logo-white-v2.zip",
+      "IDWithoutExtension": "afx-logo-white-v2",
       "Name": "Aphex Twin - Logo - Black - Female",
       "Description": "Type: Tshirt - Female\r\nCondition: New\r\nBrand: Aphex Twin\r\nModel: Logo\r\nSize: Any\r\nColor: Black\r\nVersion: 1",
       "Version": 1.0,
@@ -993,6 +1083,7 @@
     },
     {
       "ID": "Independent.Trucks.Used.zip",
+      "IDWithoutExtension": "Independent.Trucks.Used",
       "Name": "Independent Trucks - Used",
       "Description": "Condition: Used\r\nBrand: Independent\r\nModel: Used\r\nSize: Any\r\nColor: Silver\r\nVersion: 1",
       "Version": 1.0,
@@ -1004,6 +1095,7 @@
     },
     {
       "ID": "pants-camo-painters-v1.zip",
+      "IDWithoutExtension": "pants-camo-painters-v1",
       "Name": "Writers Series - Forest Camo",
       "Description": "Type: Pants - Male\r\nModel: Forest Camo\r\nSize: Any\r\nVersion: 1",
       "Version": 1.0,
@@ -1015,6 +1107,7 @@
     },
     {
       "ID": "jeans-painters.zip",
+      "IDWithoutExtension": "jeans-painters",
       "Name": "Jeans - Dirty & Paint",
       "Description": "Type: Pants- Male\r\nModel: Dirty & Paint\r\nSize: Any\r\nVersion: 1",
       "Version": 1.0,
@@ -1026,6 +1119,7 @@
     },
     {
       "ID": "desertcamo-v1.zip",
+      "IDWithoutExtension": "desertcamo-v1",
       "Name": "Desert Camos",
       "Description": "Type: Pants - Male\r\nModel: Desert Camo\r\nSize: Any\r\nColor: Camo\r\nVersion: 1",
       "Version": 1.0,
@@ -1037,6 +1131,7 @@
     },
     {
       "ID": "hoodie-hs-wulf.zip",
+      "IDWithoutExtension": "hoodie-hs-wulf",
       "Name": "Hoodie - Hollow Squad - King Alpha - Black",
       "Description": "Type: Hoodie - Male\r\nBrand: Hollow Squad\r\nModel: King Alpha\r\nSize: Any\r\nColor: Black\r\nVersion: 1",
       "Version": 1.0,
@@ -1048,6 +1143,7 @@
     },
     {
       "ID": "vansxbaker-hoodie.zip",
+      "IDWithoutExtension": "vansxbaker-hoodie",
       "Name": "Hoodie - Vans x Baker - Sticker Bomb - Black",
       "Description": "Type: Hoodie - Male\r\nBrand: Vans x Baker\r\nModel: Stickerbomb\r\nSize: Any\r\nColor: Black/White\r\nVersion: 1",
       "Version": 1.0,
@@ -1059,6 +1155,7 @@
     },
     {
       "ID": "hoodie-thrasher-sd-blk.zip",
+      "IDWithoutExtension": "hoodie-thrasher-sd-blk",
       "Name": "Hoodie - Thrasher - Skate & Destroy - Black",
       "Description": "Type: Hoodie - Male\r\nBrand: Thrasher\r\nModel: Skate & Destroy\r\nSize: Any\r\nColor: Black/White\r\nVersion: 1",
       "Version": 1.0,
@@ -1066,10 +1163,11 @@
       "DownloadLink": "rsmm://Url/https$github.com/WattieSession/SessionMods/releases/download/h3/hoodie-thrasher-sd-blk.zip",
       "PreviewImage": "https://user-images.githubusercontent.com/60822222/74368036-b91f9580-4d87-11ea-9d85-69393242513a.png",
       "Category": "session-shirts",
-      "UpdatedDate": "2020-01-20T08:00:00Z"
+      "UpdatedDate": "2020-01-20T00:00:00-08:00"
     },
     {
       "ID": "hoodie-metallica-cross.zip",
+      "IDWithoutExtension": "hoodie-metallica-cross",
       "Name": "Hoodie - Metallica - Cross - Black",
       "Description": "Request\r\nType: Hoodie - Male\r\nBrand: Metallica\r\nModel: Cross\r\nSize: Any\r\nColor: Black\r\nVersion: 1",
       "Version": 1.0,
@@ -1081,6 +1179,7 @@
     },
     {
       "ID": "afx-hoodie.zip",
+      "IDWithoutExtension": "afx-hoodie",
       "Name": "Hoodie - Aphex Twin logo - Female - Black",
       "Description": "Request\r\nType: Hoodie - Female\r\nBrand: Aphex Twin\r\nModel: Logo\r\nSize: Any\r\nColor: Black/White\r\nVersion: 1",
       "Version": 1.0,
@@ -1092,6 +1191,7 @@
     },
     {
       "ID": "gt-pstone-red.zip",
+      "IDWithoutExtension": "gt-pstone-red",
       "Name": "MOB - Pstone - Red",
       "Description": "Brand: MOB\r\nModel: Pstone\r\nSize: Any\r\nColor: Red\r\nVersion: 1",
       "Version": 1.0,
@@ -1103,6 +1203,7 @@
     },
     {
       "ID": "gt-powell-rb-fade.zip",
+      "IDWithoutExtension": "gt-powell-rb-fade",
       "Name": "Powell - Rat Bones - Rainbow",
       "Description": "Brand: Powell\r\nModel: Rat Bones\r\nSize: Any\r\nColor: Rainbow\r\nVersion: 1",
       "Version": 1.0,
@@ -1114,6 +1215,7 @@
     },
     {
       "ID": "gt-MOB-Mouse-homer.zip",
+      "IDWithoutExtension": "gt-MOB-Mouse-homer",
       "Name": "MOB - Mouse - Double Dad",
       "Description": "Brand: MOB\r\nModel: Mouse - Double Dad\r\nSize: Any\r\nColor: Black\r\nVersion: 1",
       "Version": 1.0,
@@ -1125,6 +1227,7 @@
     },
     {
       "ID": "gt-makeshit.zip",
+      "IDWithoutExtension": "gt-makeshit",
       "Name": "MOB - Make Shit",
       "Description": "Brand: MOB\r\nModel: Make Shit\r\nSize: Any\r\nColor: Black\r\nVersion: 1",
       "Version": 1.0,
@@ -1136,6 +1239,7 @@
     },
     {
       "ID": "gt-thrasherflame.zip",
+      "IDWithoutExtension": "gt-thrasherflame",
       "Name": "Thrasher - Flame",
       "Description": "Brand: Thrasher\r\nModel: Flame\r\nSize: Any\r\nColor: Black\r\nVersion: 1",
       "Version": 1.0,
@@ -1147,6 +1251,7 @@
     },
     {
       "ID": "gt-destroy.zip",
+      "IDWithoutExtension": "gt-destroy",
       "Name": "Thrasher - Destroy",
       "Description": "Brand: Thrasher\r\nModel: Destroy\r\nSize: Any\r\nColor: Black\r\nVersion: 1",
       "Version": 1.0,
@@ -1158,6 +1263,7 @@
     },
     {
       "ID": "gt-custom-akira.zip",
+      "IDWithoutExtension": "gt-custom-akira",
       "Name": "Custom - Akira",
       "Description": "Request\r\nModel: Akira\r\nSize: Any\r\nColor: Black\r\nVersion: 1",
       "Version": 1.0,
@@ -1169,6 +1275,7 @@
     },
     {
       "ID": "gt-christmas.dog.zip",
+      "IDWithoutExtension": "gt-christmas.dog",
       "Name": "MOB - Mouse - Christmas Dog",
       "Description": "Brand: MOB\r\nModel: Christmas Dog\r\nSize: Any\r\nColor: Black\r\nVersion: 1",
       "Version": 1.0,
@@ -1180,6 +1287,7 @@
     },
     {
       "ID": "gt-bb-pma.zip",
+      "IDWithoutExtension": "gt-bb-pma",
       "Name": "Bad Brains - PMA",
       "Description": "Brand: na\r\nModel: PMA\r\nSize: Any\r\nColor: Black\r\nVersion: 1",
       "Version": 1.0,
@@ -1191,6 +1299,7 @@
     },
     {
       "ID": "beanie-indyxthraser.zip",
+      "IDWithoutExtension": "beanie-indyxthraser",
       "Name": "Independent x Thrasher - Pentask8 - Charcoal",
       "Description": "Type: Hat - Male\r\nBrand: Independent x Thrasher\r\nModel: Pentask8\r\nSize: Any\r\nColor: Charcoal\r\nVersion: 1",
       "Version": 1.0,
@@ -1202,6 +1311,7 @@
     },
     {
       "ID": "beanie-bb-bolt-v2.zip",
+      "IDWithoutExtension": "beanie-bb-bolt-v2",
       "Name": "Bad Brains - Bolt - Black",
       "Description": "Type: Hat - Male\r\nBrand: Bad Brains\r\nModel: Bolt\r\nSize: Any\r\nColor: Black\r\nVersion: 2",
       "Version": 1.0,
@@ -1213,6 +1323,7 @@
     },
     {
       "ID": "dck-zero-bold-clean.zip",
+      "IDWithoutExtension": "dck-zero-bold-clean",
       "Name": "Zero Bold - Clean",
       "Description": "Condition: New\r\nBrand: Zero\r\nModel: Bold\r\nColor: Black/Red\r\nVersion: 1\r\n\r\nReplaces Half a Roger 8.125 deck",
       "Version": 1.0,
@@ -1224,6 +1335,7 @@
     },
     {
       "ID": " NikeSB-Chron-solarsofts.zip",
+      "IDWithoutExtension": " NikeSB-Chron-solarsofts",
       "Name": "Nike SB - Chron - Solarsofts",
       "Description": "Request\r\nCondition: Used\r\nBrand: Nike SB\r\nModel: Chron - Solarsofts\r\nColor: Black\r\nVersion: 1\r\n\r\nReplaces Vul A shoe\r\n\r\nFor my latest releases: https://github.com/WattieSession/SessionMods/releases",
       "Version": 1.0,
@@ -1235,6 +1347,7 @@
     },
     {
       "ID": "Hat-thrash-suicidal-blk.zip",
+      "IDWithoutExtension": "Hat-thrash-suicidal-blk",
       "Name": "Suicidal Tendencies OG Possessed Flip Mesh Trucker Hat - Black ",
       "Description": "Color: Black\r\n\r\nYou need Redgouf's [MESH] Thrash hat in order to get the proper look. Replaces \"Red Cap\" in game.",
       "Version": 1.0,
@@ -1242,10 +1355,11 @@
       "DownloadLink": "rsmm://Url/https$github.com/WattieSession/SessionMods/releases/download/ht1/Hat-thrash-suicidal-blk.zip",
       "PreviewImage": "https://user-images.githubusercontent.com/60822222/76720214-6542fc00-66f9-11ea-8a99-0a2618206220.png",
       "Category": "session-hats",
-      "UpdatedDate": "2020-01-22T08:00:00Z"
+      "UpdatedDate": "2020-01-22T00:00:00-08:00"
     },
     {
       "ID": " Hat-thrash-suicidal-blue.zip",
+      "IDWithoutExtension": " Hat-thrash-suicidal-blue",
       "Name": "Suicidal Tendencies OG Possessed Flip Mesh Trucker Hat - Blue",
       "Description": "Color: Blue\r\n\r\nYou need Redgouf's [MESH] Thrash hat in order to get the proper look. Replaces \"Red Cap\" in game.\r\n\r\nFor my latest releases: https://github.com/WattieSession/SessionMods/releases",
       "Version": 1.0,
@@ -1257,6 +1371,7 @@
     },
     {
       "ID": "Hat-thrash-suicidal-brown.zip",
+      "IDWithoutExtension": "Hat-thrash-suicidal-brown",
       "Name": "Suicidal Tendencies OG Possessed Flip Mesh Trucker Hat - Brown",
       "Description": "Color: Brown\r\n\r\nYou need Redgouf's [MESH] Thrash hat in order to get the proper look. Replaces \"Red Cap\" in game.\r\n\r\nFor my latest releases: https://github.com/WattieSession/SessionMods/releases",
       "Version": 1.0,
@@ -1264,10 +1379,11 @@
       "DownloadLink": "rsmm://Url/https$github.com/WattieSession/SessionMods/releases/download/ht1/Hat-thrash-suicidal-brown.zip",
       "PreviewImage": "https://user-images.githubusercontent.com/60822222/76720213-64aa6580-66f9-11ea-9972-71747f8889f7.png",
       "Category": "session-hats",
-      "UpdatedDate": "2020-01-20T08:00:00Z"
+      "UpdatedDate": "2020-01-20T00:00:00-08:00"
     },
     {
       "ID": "Hat-thrash-suicidal-white.zip",
+      "IDWithoutExtension": "Hat-thrash-suicidal-white",
       "Name": "Suicidal Tendencies OG Possessed Flip Mesh Trucker Hat - White",
       "Description": "Color: White\r\n\r\nYou need Redgouf's [MESH] Thrash hat in order to get the proper look. Replaces \"Red Cap\" in game.\r\n\r\nFor my latest releases: https://github.com/WattieSession/SessionMods/releases",
       "Version": 1.0,
@@ -1275,10 +1391,11 @@
       "DownloadLink": "rsmm://Url/https$github.com/WattieSession/SessionMods/releases/download/ht1/Hat-thrash-suicidal-white.zip",
       "PreviewImage": "https://user-images.githubusercontent.com/60822222/76720214-6542fc00-66f9-11ea-8a99-0a2618206220.png",
       "Category": "session-hats",
-      "UpdatedDate": "2020-01-19T08:00:00Z"
+      "UpdatedDate": "2020-01-19T00:00:00-08:00"
     },
     {
       "ID": "Hat-thrash-suicidal-yello.zip",
+      "IDWithoutExtension": "Hat-thrash-suicidal-yello",
       "Name": "Suicidal Tendencies OG Possessed Flip Mesh Trucker Hat - Yellow",
       "Description": "Color: Yellow\r\n\r\nYou need Redgouf's [MESH] Thrash hat in order to get the proper look. Replaces \"Red Cap\" in game.\r\n\r\nFor my latest releases: https://github.com/WattieSession/SessionMods/releases",
       "Version": 1.0,
@@ -1286,7 +1403,79 @@
       "DownloadLink": "rsmm://Url/https$github.com/WattieSession/SessionMods/releases/download/ht1/Hat-thrash-suicidal-yello.zip",
       "PreviewImage": "https://user-images.githubusercontent.com/60822222/76720207-6116de80-66f9-11ea-8746-bb19af4921d3.png",
       "Category": "session-hats",
-      "UpdatedDate": "2020-01-18T08:00:00Z"
+      "UpdatedDate": "2020-01-18T00:00:00-08:00"
+    },
+    {
+      "ID": " shoes-nikesb-high-Unlucky-v2.zip",
+      "IDWithoutExtension": " shoes-nikesb-high-Unlucky-v2",
+      "Name": "Nike SB - Highs - Unlucky (v2)",
+      "Description": "My first releases using a combination of 2D and 3D software. \r\nReplaces Mid-Toe Cup shoe.\r\n\r\nA HUGE thank you to Redgouf for all his help and amazing 3D model.\r\n\r\nReplaces Mid-Top Cup shoe in game.\r\n\r\nMy Session Catalog: https://pastebin.com/raw/D4e1dfZ6\r\n\r\nFor my latest releases: https://github.com/WattieSession/SessionMods/releases",
+      "Version": 1.0,
+      "Author": "Wattie",
+      "DownloadLink": "rsmm://Url/https$github.com/WattieSession/SessionMods/releases/download/nsb6/shoes-nikesb-high-Unlucky-v2.zip",
+      "PreviewImage": "https://user-images.githubusercontent.com/60822222/78630262-21519b80-784e-11ea-8d76-d00046b9366d.png",
+      "Category": "session-shoes",
+      "UpdatedDate": "2020-01-27T00:00:00"
+    },
+    {
+      "ID": " shoes-nikesb-high-skunks-v2.zip",
+      "IDWithoutExtension": " shoes-nikesb-high-skunks-v2",
+      "Name": "Nike SB - Highs - Skunks (v2)",
+      "Description": "My first releases using a combination of 2D and 3D software. \r\n\r\nReplaces Mid-Toe Cup shoe.\r\n\r\nA HUGE thank you to Redgouf for all his help and amazing 3D model.\r\n\r\nReplaces Mid-Top Cup shoe in game.\r\n\r\nMy Session Catalog: https://pastebin.com/raw/D4e1dfZ6\r\n\r\nFor my latest releases: https://github.com/WattieSession/SessionMods/releases",
+      "Version": 1.0,
+      "Author": "Wattie",
+      "DownloadLink": "rsmm://Url/https$github.com/WattieSession/SessionMods/releases/download/nsb5/shoes-nikesb-high-skunks-v2.zip",
+      "PreviewImage": "https://user-images.githubusercontent.com/60822222/78630186-f1a29380-784d-11ea-9f55-9cfd4b2a8533.png",
+      "Category": "session-shoes",
+      "UpdatedDate": "2020-01-26T00:00:00"
+    },
+    {
+      "ID": "shoes-nikesb-high-maples-v2.zip",
+      "IDWithoutExtension": "shoes-nikesb-high-maples-v2",
+      "Name": "Nike SB - Highs - Maple/Bison (v2)",
+      "Description": "My first releases using a combination of 2D and 3D software. \r\n\r\nReplaces Mid-Toe Cup shoe.\r\n\r\nA HUGE thank you to Redgouf for all his help and amazing 3D model.\r\n\r\nReplaces Mid-Top Cup shoe in game.\r\n\r\nMy Session Catalog: https://pastebin.com/raw/D4e1dfZ6\r\n\r\nFor my latest releases: https://github.com/WattieSession/SessionMods/releases",
+      "Version": 1.0,
+      "Author": "Wattie",
+      "DownloadLink": "rsmm://Url/https$github.com/WattieSession/SessionMods/releases/download/nsb4/shoes-nikesb-high-maples-v2.zip",
+      "PreviewImage": "https://user-images.githubusercontent.com/60822222/78630127-c029c800-784d-11ea-9cc9-446a334211f9.png",
+      "Category": "session-shoes",
+      "UpdatedDate": "2020-01-25T00:00:00"
+    },
+    {
+      "ID": "shoes-nikesb-high-mafia-v2.zip",
+      "IDWithoutExtension": "shoes-nikesb-high-mafia-v2",
+      "Name": "Nike SB - Highs - Mafia/Goodfellas (v2)",
+      "Description": "My first releases using a combination of 2D and 3D software. \r\n\r\nReplaces Mid-Toe Cup shoe.\r\n\r\nA HUGE thank you to Redgouf for all his help and amazing 3D model.\r\n\r\nReplaces Mid-Top Cup shoe in game.\r\n\r\nMy Session Catalog: https://pastebin.com/raw/D4e1dfZ6\r\n\r\nFor my latest releases: https://github.com/WattieSession/SessionMods/releases",
+      "Version": 1.0,
+      "Author": "Wattie",
+      "DownloadLink": "rsmm://Url/https$github.com/WattieSession/SessionMods/releases/download/nsb3/shoes-nikesb-high-mafia-v2.zip",
+      "PreviewImage": "https://user-images.githubusercontent.com/60822222/78630036-85c02b00-784d-11ea-988f-2fde12e867ef.png",
+      "Category": "session-shoes",
+      "UpdatedDate": "2020-01-24T00:00:00"
+    },
+    {
+      "ID": "shoes-nikesb-high-lucky-v2.zip",
+      "IDWithoutExtension": "shoes-nikesb-high-lucky-v2",
+      "Name": "Nike SB - Highs - Lucky (v2)",
+      "Description": "My first releases using a combination of 2D and 3D software. \r\n\r\nReplaces Mid-Toe Cup shoe.\r\n\r\nA HUGE thank you to Redgouf for all his help and amazing 3D model.\r\n\r\nReplaces Mid-Top Cup shoe in game.\r\n\r\nMy Session Catalog: https://pastebin.com/raw/D4e1dfZ6\r\n\r\nFor my latest releases: https://github.com/WattieSession/SessionMods/releases",
+      "Version": 1.0,
+      "Author": "Wattie",
+      "DownloadLink": "rsmm://Url/https$github.com/WattieSession/SessionMods/releases/download/nsb2/shoes-nikesb-high-lucky-v2.zip",
+      "PreviewImage": "https://user-images.githubusercontent.com/60822222/78629941-4db8e800-784d-11ea-825a-a3e16197d454.png",
+      "Category": "session-shoes",
+      "UpdatedDate": "2020-01-23T00:00:00"
+    },
+    {
+      "ID": "shoes-nikesb-high-diamond-v2.zip",
+      "IDWithoutExtension": "shoes-nikesb-high-diamond-v2",
+      "Name": "Nike SB - Highs - Diamonds (v2)",
+      "Description": "My first releases using a combination of 2D and 3D software. \r\n\r\nReplaces Mid-Toe Cup shoe.\r\n\r\nA HUGE thank you to Redgouf for all his help and amazing 3D model.\r\n\r\nReplaces Mid-Top Cup shoe in game.\r\n\r\nMy Session Catalog: https://pastebin.com/raw/D4e1dfZ6\r\n\r\nFor my latest releases: https://github.com/WattieSession/SessionMods/releases",
+      "Version": 1.0,
+      "Author": "Wattie",
+      "DownloadLink": "rsmm://Url/https$github.com/WattieSession/SessionMods/releases/download/nsb1/shoes-nikesb-high-diamond-v2.zip",
+      "PreviewImage": "https://user-images.githubusercontent.com/60822222/78629763-d6835400-784c-11ea-909f-3553a9abd246.png",
+      "Category": "session-shoes",
+      "UpdatedDate": "2020-01-21T08:00:00Z"
     }
   ]
 }
