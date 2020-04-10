@@ -1,5 +1,5 @@
 {
-  "Name": "Wattie",
+  "Name": "",
   "Assets": [
     {
       "ID": "axion-kc-v2.zip",
@@ -1475,7 +1475,31 @@
       "DownloadLink": "rsmm://Url/https$github.com/WattieSession/SessionMods/releases/download/nsb1/shoes-nikesb-high-diamond-v2.zip",
       "PreviewImage": "https://user-images.githubusercontent.com/60822222/78629763-d6835400-784c-11ea-909f-3553a9abd246.png",
       "Category": "session-shoes",
-      "UpdatedDate": "2020-01-21T08:00:00Z"
+      "UpdatedDate": "2020-01-21T00:00:00-08:00"
+    },
+    {
+      "ID": "shoes-nikesb-high-travisscott.zip",
+      "IDWithoutExtension": "shoes-nikesb-high-travisscott",
+      "Name": "Nike SB - Highs - Travis Scott (v1)",
+      "Description": "Replaces Mid-Top Cup shoe in game. \r\n\r\nAvailable below and in the asset store.\r\n\r\nMy Session Catalog: https://pastebin.com/raw/D4e1dfZ6\r\n\r\nFor my latest releases: https://github.com/WattieSession/SessionMods/releases",
+      "Version": 1.0,
+      "Author": "Wattie",
+      "DownloadLink": "rsmm://Url/https$github.com/WattieSession/SessionMods/releases/download/nsb8/shoes-nikesb-high-travisscott.zip",
+      "PreviewImage": "https://user-images.githubusercontent.com/60822222/78963710-22343880-7aad-11ea-83bb-3784678d5691.png",
+      "Category": "session-shoes",
+      "UpdatedDate": "2020-01-26T00:00:00"
+    },
+    {
+      "ID": "shoes-nikesb-high-Uprise-v2.zip",
+      "IDWithoutExtension": "shoes-nikesb-high-Uprise-v2",
+      "Name": "Nike SB - Highs - Uprise",
+      "Description": "Replaces Mid-Top Cup shoe in game. \r\n\r\nAvailable below and in the asset store.\r\n\r\nMy Session Catalog: https://pastebin.com/raw/D4e1dfZ6\r\n\r\nFor my latest releases: https://github.com/WattieSession/SessionMods/releases",
+      "Version": 1.0,
+      "Author": "Wattie",
+      "DownloadLink": "rsmm://Url/https$github.com/WattieSession/SessionMods/releases/download/nsb7/shoes-nikesb-high-Uprise-v2.zip",
+      "PreviewImage": "https://user-images.githubusercontent.com/60822222/78963564-be117480-7aac-11ea-800e-2581408829d7.png",
+      "Category": "session-shoes",
+      "UpdatedDate": "2020-01-24T08:00:00Z"
     }
   ]
 }
