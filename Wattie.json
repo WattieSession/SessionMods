@@ -338,30 +338,6 @@
       "UpdatedDate": "2020-02-10T00:00:00-08:00"
     },
     {
-      "ID": "element-bam-belfry.zip",
-      "IDWithoutExtension": "element-bam-belfry",
-      "Name": "Element Bam Margera Belfry",
-      "Description": "Type: Deck\r\nCondition: Used\r\nBrand: Element\r\nModel: Bam Margera Belfry\r\n\r\nReplaces Ghost with aboner 8.25",
-      "Version": 1.0,
-      "Author": "Wattie",
-      "DownloadLink": "rsmm://Url/https$github.com/WattieSession/SessionMods/releases/download/d28/element-bam-belfry.zip",
-      "PreviewImage": "https://github.com/WattieSession/SessionMods/releases/download/d28/element-bam-belfry.zip",
-      "Category": "session-decks",
-      "UpdatedDate": "2020-02-10T22:03:49.2845144-08:00"
-    },
-    {
-      "ID": "element-nh-calavera.zip",
-      "IDWithoutExtension": "element-nh-calavera",
-      "Name": "Element Nyjah Houston Calavera",
-      "Description": "Type: Deck\r\nCondition: Used\r\nBrand: Element\r\nModel: Nyjah Houston Calavera\r\n\r\nReplaces Toxic Eyes 8",
-      "Version": 1.0,
-      "Author": "Wattie",
-      "DownloadLink": "rsmm://Url/https$github.com/WattieSession/SessionMods/releases/download/d27/element-nh-calavera.zip",
-      "PreviewImage": "https://user-images.githubusercontent.com/60822222/74211882-ae111c00-4c46-11ea-8f85-953e9a6128fa.png",
-      "Category": "session-decks",
-      "UpdatedDate": "2020-02-10T22:05:23.774302-08:00"
-    },
-    {
       "ID": "foundation-rc-trix.zip",
       "IDWithoutExtension": "foundation-rc-trix",
       "Name": "Foundation Ronny Creager Trix",
@@ -398,18 +374,6 @@
       "UpdatedDate": "2020-02-10T22:09:32.5540485-08:00"
     },
     {
-      "ID": "dck-habitat-bob.zip",
-      "IDWithoutExtension": "dck-habitat-bob",
-      "Name": "Habitat Bobs Burger",
-      "Description": "Type: Deck\r\nCondition: Used\r\nBrand: Habitat\r\nModel: Bob Burger\r\n\r\nReplaces Ghost with a boner 8.25",
-      "Version": 1.0,
-      "Author": "Wattie",
-      "DownloadLink": "rsmm://Url/https$github.com/WattieSession/SessionMods/releases/download/d22/dck-habitat-bob.zip",
-      "PreviewImage": "https://user-images.githubusercontent.com/60822222/74211683-dc422c00-4c45-11ea-9fb2-9da774da11f4.png",
-      "Category": "session-decks",
-      "UpdatedDate": "2020-02-10T00:00:00"
-    },
-    {
       "ID": "dck-hockey-kadow-shatter.zip",
       "IDWithoutExtension": "dck-hockey-kadow-shatter",
       "Name": "Hockey Kadow Shatter",
@@ -432,18 +396,6 @@
       "PreviewImage": "https://user-images.githubusercontent.com/60822222/74211608-7fdf0c80-4c45-11ea-86df-afed87926a6b.png",
       "Category": "session-decks",
       "UpdatedDate": "2020-02-10T22:38:58.5341427-08:00"
-    },
-    {
-      "ID": "dck-jart-splatter.zip",
-      "IDWithoutExtension": "dck-jart-splatter",
-      "Name": "Jart Splatter",
-      "Description": "Type: Deck\r\nCondition: Used\r\nBrand: Jart\r\nModel: Splatter\r\n\r\nReplaces Required Reading deck",
-      "Version": 1.0,
-      "Author": "Wattie",
-      "DownloadLink": "rsmm://Url/https$github.com/WattieSession/SessionMods/releases/download/d19/dck-jart-splatter.zip",
-      "PreviewImage": "https://user-images.githubusercontent.com/60822222/74211569-47d7c980-4c45-11ea-9d64-334ac4499efa.png",
-      "Category": "session-decks",
-      "UpdatedDate": "2020-02-10T22:38:56.6109495-08:00"
     },
     {
       "ID": "jk-tetsuo-mutation.zip",
@@ -482,18 +434,6 @@
       "UpdatedDate": "2020-02-10T22:38:46.3714328-08:00"
     },
     {
-      "ID": "dck-nd-dannys-monkey.zip",
-      "IDWithoutExtension": "dck-nd-dannys-monkey",
-      "Name": "New Deal Sargent Monkey Bomber",
-      "Description": "Type: Deck\r\nCondition: Used\r\nBrand: New Deal\r\nModel: Sargent Monkey Bomber\r\n\r\nReplaces Toxic Eyes deck",
-      "Version": 1.0,
-      "Author": "Wattie",
-      "DownloadLink": "rsmm://Url/https$github.com/WattieSession/SessionMods/releases/download/d15/dck-nd-dannys-monkey.zip",
-      "PreviewImage": "https://user-images.githubusercontent.com/60822222/74211358-72755280-4c44-11ea-9ae4-1492b2eb1a8f.png",
-      "Category": "session-decks",
-      "UpdatedDate": "2020-02-10T22:38:43.7934476-08:00"
-    },
-    {
       "ID": "dck-planb-mullen-yoda-clean.zip",
       "IDWithoutExtension": "dck-planb-mullen-yoda-clean",
       "Name": "Plan B Mullen Yoda (clean)",
@@ -504,18 +444,6 @@
       "PreviewImage": "https://user-images.githubusercontent.com/60822222/74211308-2e824d80-4c44-11ea-9b13-568c2fdd7b48.png",
       "Category": "session-decks",
       "UpdatedDate": "2020-02-10T22:38:41.6197944-08:00"
-    },
-    {
-      "ID": "pp-raybarbee-og-blue.zip",
-      "IDWithoutExtension": "pp-raybarbee-og-blue",
-      "Name": "Powell Peralta Ray Barbee Ragdoll",
-      "Description": "Type: Deck\r\nCondition: Used\r\nBrand: Powell Peralta\r\nModel: Ray Barbee Ragdoll\r\n\r\nReplaces Toxic Eyes deck",
-      "Version": 1.0,
-      "Author": "Wattie",
-      "DownloadLink": "rsmm://Url/https$github.com/WattieSession/SessionMods/releases/download/d13/pp-raybarbee-og-blue.zip",
-      "PreviewImage": "https://user-images.githubusercontent.com/60822222/74211251-e6632b00-4c43-11ea-9eea-dd89561ca57d.png",
-      "Category": "session-decks",
-      "UpdatedDate": "2020-02-10T22:38:39.1256805-08:00"
     },
     {
       "ID": "Prime.Wood.-.Jason.Lee.-.Bowie.zip",
@@ -662,54 +590,6 @@
       "UpdatedDate": "2020-02-10T00:00:00-08:00"
     },
     {
-      "ID": "nike-sb-marshall.zip",
-      "IDWithoutExtension": "nike-sb-marshall",
-      "Name": "Nike SB - Lows - Marshall Amps",
-      "Description": "Condition: New\r\nBrand: Nike SB\r\nModel: Highs - Marshall Amps\r\nVersion: 1\r\n\r\nIMPORTANT\r\n\r\nReplaces Beige Mid Top in game.\r\n\r\nFor my latest releases: https://github.com/WattieSession/SessionMods/releases",
-      "Version": 1.0,
-      "Author": "Wattie",
-      "DownloadLink": "rsmm://Url/https$github.com/WattieSession/SessionMods/releases/download/n10/nike-sb-marshall.zip",
-      "PreviewImage": "https://user-images.githubusercontent.com/60822222/74305510-fe56af80-4d14-11ea-926b-e07c2f60a1aa.png",
-      "Category": "session-shoes",
-      "UpdatedDate": "2020-01-30T00:00:00-08:00"
-    },
-    {
-      "ID": "nike-sb-low-wolfgrey-worn.zip",
-      "IDWithoutExtension": "nike-sb-low-wolfgrey-worn",
-      "Name": "Nike SB - Lows - Wolf Gray - Used",
-      "Description": "Condition: Used\r\nBrand: Nike SB\r\nModel: Lows - Wolf Gray\r\nVersion: 1\r\n\r\nIMPORTANT\r\n\r\nPlease install [Shoes] Low Top Skate Shoe Mesh in the meshes section for the proper look.\r\n\r\nReplaces Mid Top in game.\r\n\r\nFor my latest releases: https://github.com/WattieSession/SessionMods/releases",
-      "Version": 1.0,
-      "Author": "Wattie",
-      "DownloadLink": "rsmm://Url/https$github.com/WattieSession/SessionMods/releases/download/n9/nike-sb-low-wolfgrey-worn.zip",
-      "PreviewImage": "https://user-images.githubusercontent.com/60822222/74305452-cf403e00-4d14-11ea-872e-7823b47aa94a.png",
-      "Category": "session-shoes",
-      "UpdatedDate": "2020-01-30T00:00:00"
-    },
-    {
-      "ID": "nike-sb-lewis-v1.zip",
-      "IDWithoutExtension": "nike-sb-lewis-v1",
-      "Name": "Nike SB - Mids - Lewis Marnell",
-      "Description": "Condition: New\r\nBrand: Nike SB\r\nModel: Mids - Lewis Marnell\r\nColor: Wheat/Brown\r\n\r\nReplaces Black Mid Top in game.\r\n\r\nFor my latest releases: https://github.com/WattieSession/SessionMods/releases",
-      "Version": 1.0,
-      "Author": "Wattie",
-      "DownloadLink": "rsmm://Url/https$github.com/WattieSession/SessionMods/releases/download/n8/nike-sb-lewis-v1.zip",
-      "PreviewImage": "https://user-images.githubusercontent.com/60822222/74305357-87b9b200-4d14-11ea-96f0-2f321d225564.png",
-      "Category": "session-shoes",
-      "UpdatedDate": "2020-01-28T08:00:00Z"
-    },
-    {
-      "ID": "nike-sb-high-supa.zip",
-      "IDWithoutExtension": "nike-sb-high-supa",
-      "Name": "Nike SB - Highs - Supa",
-      "Description": "Condition: New\r\nBrand: Nike SB\r\nModel: Highs - Danny Supa\r\nVersion: 1\r\n\r\nReplaces Beige Mid Top in game.\r\n\r\nFor my latest releases: https://github.com/WattieSession/SessionMods/releases",
-      "Version": 1.0,
-      "Author": "Wattie",
-      "DownloadLink": "rsmm://Url/https$github.com/WattieSession/SessionMods/releases/download/n7/nike-sb-high-supa.zip",
-      "PreviewImage": "https://user-images.githubusercontent.com/60822222/74305172-fea27b00-4d13-11ea-8657-9ced5a26578d.png",
-      "Category": "session-shoes",
-      "UpdatedDate": "2020-01-28T00:00:00"
-    },
-    {
       "ID": "nike-sb-low-rayguns-wht.zip",
       "IDWithoutExtension": "nike-sb-low-rayguns-wht",
       "Name": "Nike SB - Lows - Rayguns - White",
@@ -719,13 +599,13 @@
       "DownloadLink": "rsmm://Url/https$github.com/WattieSession/SessionMods/releases/download/n6/nike-sb-low-rayguns-wht.zip",
       "PreviewImage": "https://user-images.githubusercontent.com/60822222/74305017-8b990480-4d13-11ea-82db-9a30da5b762e.png",
       "Category": "session-shoes",
-      "UpdatedDate": "2020-01-26T00:00:00-08:00"
+      "UpdatedDate": "2020-01-26T08:00:00Z"
     },
     {
       "ID": "nike-mfdoom.zip",
       "IDWithoutExtension": "nike-mfdoom",
       "Name": "Nike SB - Mids - MFDoom",
-      "Description": "Condition: New\r\nBrand: Nike SB\r\nModel: Mids - MFDoom\r\nVersion:1\r\n\r\nReplaces Beige Mid Top in game.\r\n\r\nFor my latest releases: https://github.com/WattieSession/SessionMods/releases",
+      "Description": "Does not work with Session 0.0.0.5x at the moment.\r\n\r\nReplaces Beige Mid Top in game.\r\n\r\nFor my latest releases: https://github.com/WattieSession/SessionMods/releases",
       "Version": 1.0,
       "Author": "Wattie",
       "DownloadLink": "rsmm://Url/https$github.com/WattieSession/SessionMods/releases/download/n5/nike-mfdoom.zip",
@@ -743,7 +623,7 @@
       "DownloadLink": "rsmm://Url/https$github.com/WattieSession/SessionMods/releases/download/n4/nike-maples.zip",
       "PreviewImage": "https://user-images.githubusercontent.com/60822222/74304827-fac22900-4d12-11ea-8dcd-101c3efd321f.png",
       "Category": "session-shoes",
-      "UpdatedDate": "2020-01-25T00:00:00"
+      "UpdatedDate": "2020-01-24T08:00:00Z"
     },
     {
       "ID": "nike-sb-freddy.zip",
@@ -878,42 +758,6 @@
       "UpdatedDate": "2020-02-04T00:00:00"
     },
     {
-      "ID": "shirt-juglist-brwn.zip",
-      "IDWithoutExtension": "shirt-juglist-brwn",
-      "Name": "Junglist Movement - Brown",
-      "Description": "Type: Tshirt - Male\r\nBrand: Junglist Movement\r\nSize: Any\r\nColor: Brown\r\nVersion: 1",
-      "Version": 1.0,
-      "Author": "Wattie",
-      "DownloadLink": "rsmm://Url/https$github.com/WattieSession/SessionMods/releases/download/ts7/shirt-juglist-brwn.zip",
-      "PreviewImage": "https://user-images.githubusercontent.com/60822222/74374960-4d8ff500-4d94-11ea-8184-75e7441bec93.png",
-      "Category": "session-shirts",
-      "UpdatedDate": "2020-02-03T00:00:00"
-    },
-    {
-      "ID": "primus-cheesy-tshirt.zip",
-      "IDWithoutExtension": "primus-cheesy-tshirt",
-      "Name": "Primus - Misc Debris - Blk",
-      "Description": "Type: Tshirt - Male\r\nBrand: Primus\r\nModel: Misc Debris\r\nSize: Any\r\nColor: Black\r\nVersion: 1",
-      "Version": 1.0,
-      "Author": "Wattie",
-      "DownloadLink": "rsmm://Url/https$github.com/WattieSession/SessionMods/releases/download/ts6/primus-cheesy-tshirt.zip",
-      "PreviewImage": "https://user-images.githubusercontent.com/60822222/74374807-ff7af180-4d93-11ea-96b2-2eb91f1fa756.png",
-      "Category": "session-shirts",
-      "UpdatedDate": "2020-02-02T00:00:00"
-    },
-    {
-      "ID": "primus-porksoda-tshirt.zip",
-      "IDWithoutExtension": "primus-porksoda-tshirt",
-      "Name": "Primus - Pork Soda - Blk",
-      "Description": "Type: Tshirt - Male\r\nBrand: Primus\r\nModel: Pork Soda\r\nSize: Any\r\nColor: Black\r\nVersion: 1",
-      "Version": 1.0,
-      "Author": "Wattie",
-      "DownloadLink": "rsmm://Url/https$github.com/WattieSession/SessionMods/releases/download/ts5/primus-porksoda-tshirt.zip",
-      "PreviewImage": "https://user-images.githubusercontent.com/60822222/74374637-a612c280-4d93-11ea-9cf6-650eb48be4ae.png",
-      "Category": "session-shirts",
-      "UpdatedDate": "2020-02-01T00:00:00"
-    },
-    {
       "ID": "st-possessed-male-tshirt.zip",
       "IDWithoutExtension": "st-possessed-male-tshirt",
       "Name": "Suicidal Tendencies - Possessed ",
@@ -924,18 +768,6 @@
       "PreviewImage": "https://user-images.githubusercontent.com/60822222/74370503-0d2c7900-4d8c-11ea-9eeb-2be0422367b2.png",
       "Category": "session-shirts",
       "UpdatedDate": "2020-01-31T00:00:00"
-    },
-    {
-      "ID": "dipskate-white.zip",
-      "IDWithoutExtension": "dipskate-white",
-      "Name": "Dipskate - Logo- White",
-      "Description": "Type: Tshirt - Male\r\nBrand: Dipskate\r\nSize: Any\r\nColor: White\r\nVersion: 1",
-      "Version": 1.0,
-      "Author": "Wattie",
-      "DownloadLink": "rsmm://Url/https$github.com/WattieSession/SessionMods/releases/download/ts3/dipskate-white.zip",
-      "PreviewImage": "https://user-images.githubusercontent.com/60822222/74370361-cd659180-4d8b-11ea-81cd-a46cce748d97.png",
-      "Category": "session-shirts",
-      "UpdatedDate": "2020-01-30T00:00:00"
     },
     {
       "ID": "bb-dc-tshirt-blk.zip",
@@ -972,18 +804,6 @@
       "PreviewImage": "https://user-images.githubusercontent.com/60822222/74375425-2128a880-4d95-11ea-90a8-36e7b980c50b.png",
       "Category": "session-pants",
       "UpdatedDate": "2020-01-26T00:00:00"
-    },
-    {
-      "ID": "jeans-painters.zip",
-      "IDWithoutExtension": "jeans-painters",
-      "Name": "Jeans - Dirty & Paint",
-      "Description": "Type: Pants- Male\r\nModel: Dirty & Paint\r\nSize: Any\r\nVersion: 1",
-      "Version": 1.0,
-      "Author": "Wattie",
-      "DownloadLink": "rsmm://Url/https$github.com/WattieSession/SessionMods/releases/download/p2/jeans-painters.zip",
-      "PreviewImage": "https://user-images.githubusercontent.com/60822222/74375245-dad34980-4d94-11ea-9857-7247f4cd0a64.png",
-      "Category": "session-pants",
-      "UpdatedDate": "2020-01-25T00:00:00"
     },
     {
       "ID": "desertcamo-v1.zip",
@@ -1139,7 +959,7 @@
       "DownloadLink": "rsmm://Url/https$github.com/WattieSession/SessionMods/releases/download/c2/beanie-indyxthraser.zip",
       "PreviewImage": "https://user-images.githubusercontent.com/60822222/74375686-a2803b00-4d95-11ea-8d7b-626e6e9a35fe.png",
       "Category": "session-hats",
-      "UpdatedDate": "2020-01-09T00:00:00"
+      "UpdatedDate": "2020-01-08T00:00:00-08:00"
     },
     {
       "ID": "beanie-bb-bolt-v2.zip",
@@ -1181,7 +1001,7 @@
       "ID": " shoes-nikesb-high-Unlucky-v2.zip",
       "IDWithoutExtension": " shoes-nikesb-high-Unlucky-v2",
       "Name": "Nike SB - Highs - Unlucky (v2)",
-      "Description": "---DOES NOT WORK WITH SESSION 0.0.05x or 4.24.3---\r\nMy first releases using a combination of 2D and 3D software. \r\nReplaces Mid-Toe Cup shoe.\r\n\r\nA HUGE thank you to Redgouf for all his help and amazing 3D model.\r\n\r\nReplaces Mid-Top Cup shoe in game.\r\n\r\nMy Session Catalog: https://pastebin.com/raw/D4e1dfZ6\r\n\r\nFor my latest releases: https://github.com/WattieSession/SessionMods/releases",
+      "Description": "In order for these shoes to work in game and not crash your shit, Go to your UserEngine.ini file and add  \r\n\r\n[/Script/Engine.RendererSettings]\r\nr.LightPropagationVolume = False\r\n\r\nThis file is located in Session/SessionGame/Config/\r\n\r\nSave and install the shoes. Massive thank you to Chuy for finding this fix.\r\nReplaces Mid-Toe Cup shoe.\r\n\r\nA HUGE thank you to Redgouf for all his help and amazing 3D model.\r\n\r\nReplaces Mid-Top Cup shoe in game.\r\n\r\nMy Session Catalog: https://pastebin.com/raw/D4e1dfZ6\r\n\r\nFor my latest releases: https://github.com/WattieSession/SessionMods/releases",
       "Version": 1.0,
       "Author": "Wattie",
       "DownloadLink": "rsmm://Url/https$github.com/WattieSession/SessionMods/releases/download/nsb6/shoes-nikesb-high-Unlucky-v2.zip",
@@ -1193,7 +1013,7 @@
       "ID": " shoes-nikesb-high-skunks-v2.zip",
       "IDWithoutExtension": " shoes-nikesb-high-skunks-v2",
       "Name": "Nike SB - Highs - Skunks (v2)",
-      "Description": "---DOES NOT WORK WITH SESSION 0.0.05x or 4.24.3---\r\nMy first releases using a combination of 2D and 3D software. \r\n\r\nReplaces Mid-Toe Cup shoe.\r\n\r\nA HUGE thank you to Redgouf for all his help and amazing 3D model.\r\n\r\nReplaces Mid-Top Cup shoe in game.\r\n\r\nMy Session Catalog: https://pastebin.com/raw/D4e1dfZ6\r\n\r\nFor my latest releases: https://github.com/WattieSession/SessionMods/releases",
+      "Description": "In order for these shoes to work in game and not crash your shit, Go to your UserEngine.ini file and add  \r\n\r\n[/Script/Engine.RendererSettings]\r\nr.LightPropagationVolume = False\r\n\r\nThis file is located in Session/SessionGame/Config/\r\n\r\nSave and install the shoes. Massive thank you to Chuy for finding this fix.\r\n\r\nReplaces Mid-Toe Cup shoe.\r\n\r\nA HUGE thank you to Redgouf for all his help and amazing 3D model.\r\n\r\nReplaces Mid-Top Cup shoe in game.\r\n\r\nMy Session Catalog: https://pastebin.com/raw/D4e1dfZ6\r\n\r\nFor my latest releases: https://github.com/WattieSession/SessionMods/releases",
       "Version": 1.0,
       "Author": "Wattie",
       "DownloadLink": "rsmm://Url/https$github.com/WattieSession/SessionMods/releases/download/nsb5/shoes-nikesb-high-skunks-v2.zip",
@@ -1205,7 +1025,7 @@
       "ID": "shoes-nikesb-high-maples-v2.zip",
       "IDWithoutExtension": "shoes-nikesb-high-maples-v2",
       "Name": "Nike SB - Highs - Maple/Bison (v2)",
-      "Description": "---DOES NOT WORK WITH SESSION 0.0.05x or 4.24.3---My first releases using a combination of 2D and 3D software. \r\n\r\nReplaces Mid-Toe Cup shoe.\r\n\r\nA HUGE thank you to Redgouf for all his help and amazing 3D model.\r\n\r\nReplaces Mid-Top Cup shoe in game.\r\n\r\nMy Session Catalog: https://pastebin.com/raw/D4e1dfZ6\r\n\r\nFor my latest releases: https://github.com/WattieSession/SessionMods/releases",
+      "Description": "In order for these shoes to work in game and not crash your shit, Go to your UserEngine.ini file and add  \r\n\r\n[/Script/Engine.RendererSettings]\r\nr.LightPropagationVolume = False\r\n\r\nThis file is located in Session/SessionGame/Config/\r\n\r\nSave and install the shoes. Massive thank you to Chuy for finding this fix.\r\n\r\nReplaces Mid-Top Cup shoe in game.\r\n\r\nMy Session Catalog: https://pastebin.com/raw/D4e1dfZ6\r\n\r\nFor my latest releases: https://github.com/WattieSession/SessionMods/releases",
       "Version": 1.0,
       "Author": "Wattie",
       "DownloadLink": "rsmm://Url/https$github.com/WattieSession/SessionMods/releases/download/nsb4/shoes-nikesb-high-maples-v2.zip",
@@ -1217,7 +1037,7 @@
       "ID": "shoes-nikesb-high-mafia-v2.zip",
       "IDWithoutExtension": "shoes-nikesb-high-mafia-v2",
       "Name": "Nike SB - Highs - Mafia/Goodfellas (v2)",
-      "Description": "---DOES NOT WORK WITH SESSION 0.0.05x or 4.24.3---\r\nMy first releases using a combination of 2D and 3D software. \r\n\r\nReplaces Mid-Toe Cup shoe.\r\n\r\nA HUGE thank you to Redgouf for all his help and amazing 3D model.\r\n\r\nReplaces Mid-Top Cup shoe in game.\r\n\r\nMy Session Catalog: https://pastebin.com/raw/D4e1dfZ6\r\n\r\nFor my latest releases: https://github.com/WattieSession/SessionMods/releases",
+      "Description": "In order for these shoes to work in game and not crash your shit, Go to your UserEngine.ini file and add  \r\n\r\n[/Script/Engine.RendererSettings]\r\nr.LightPropagationVolume = False\r\n\r\nThis file is located in Session/SessionGame/Config/\r\n\r\nSave and install the shoes. Massive thank you to Chuy for finding this fix.\r\n\r\nA HUGE thank you to Redgouf for all his help and amazing 3D model.\r\n\r\nReplaces Mid-Top Cup shoe in game.\r\n\r\nMy Session Catalog: https://pastebin.com/raw/D4e1dfZ6\r\n\r\nFor my latest releases: https://github.com/WattieSession/SessionMods/releases",
       "Version": 1.0,
       "Author": "Wattie",
       "DownloadLink": "rsmm://Url/https$github.com/WattieSession/SessionMods/releases/download/nsb3/shoes-nikesb-high-mafia-v2.zip",
@@ -1229,7 +1049,7 @@
       "ID": "shoes-nikesb-high-lucky-v2.zip",
       "IDWithoutExtension": "shoes-nikesb-high-lucky-v2",
       "Name": "Nike SB - Highs - Lucky (v2)",
-      "Description": "---DOES NOT WORK WITH SESSION 0.0.05x or 4.24.3---\r\n\r\nReplaces Mid-Toe Cup shoe.\r\n\r\nA HUGE thank you to Redgouf for all his help and amazing 3D model.\r\n\r\nReplaces Mid-Top Cup shoe in game.\r\n\r\nMy Session Catalog: https://pastebin.com/raw/D4e1dfZ6\r\n\r\nFor my latest releases: https://github.com/WattieSession/SessionMods/releases",
+      "Description": "In order for these shoes to work in game and not crash your shit, Go to your UserEngine.ini file and add  \r\n\r\n[/Script/Engine.RendererSettings]\r\nr.LightPropagationVolume = False\r\n\r\nThis file is located in Session/SessionGame/Config/\r\n\r\nSave and install the shoes. Massive thank you to Chuy for finding this fix.\r\n\r\nA HUGE thank you to Redgouf for all his help and amazing 3D model.\r\n\r\nReplaces Mid-Top Cup shoe in game.\r\n\r\nMy Session Catalog: https://pastebin.com/raw/D4e1dfZ6\r\n\r\nFor my latest releases: https://github.com/WattieSession/SessionMods/releases",
       "Version": 1.0,
       "Author": "Wattie",
       "DownloadLink": "rsmm://Url/https$github.com/WattieSession/SessionMods/releases/download/nsb2/shoes-nikesb-high-lucky-v2.zip",
@@ -1241,7 +1061,7 @@
       "ID": "shoes-nikesb-high-diamond-v2.zip",
       "IDWithoutExtension": "shoes-nikesb-high-diamond-v2",
       "Name": "Nike SB - Highs - Diamonds (v2)",
-      "Description": "---DOES NOT WORK WITH SESSION 0.0.05x or 4.24.3---\r\n\r\nReplaces Mid-Toe Cup shoe.\r\n\r\nA HUGE thank you to Redgouf for all his help and amazing 3D model.\r\n\r\nReplaces Mid-Top Cup shoe in game.\r\n\r\nMy Session Catalog: https://pastebin.com/raw/D4e1dfZ6\r\n\r\nFor my latest releases: https://github.com/WattieSession/SessionMods/releases",
+      "Description": "In order for these shoes to work in game and not crash your shit, Go to your UserEngine.ini file and add  \r\n\r\n[/Script/Engine.RendererSettings]\r\nr.LightPropagationVolume = False\r\n\r\nThis file is located in Session/SessionGame/Config/\r\n\r\nSave and install the shoes. Massive thank you to Chuy for finding this fix.\r\n\r\nA HUGE thank you to Redgouf for all his help and amazing 3D model.\r\n\r\nReplaces Mid-Top Cup shoe in game.\r\n\r\nMy Session Catalog: https://pastebin.com/raw/D4e1dfZ6\r\n\r\nFor my latest releases: https://github.com/WattieSession/SessionMods/releases",
       "Version": 1.0,
       "Author": "Wattie",
       "DownloadLink": "rsmm://Url/https$github.com/WattieSession/SessionMods/releases/download/nsb1/shoes-nikesb-high-diamond-v2.zip",
@@ -1253,7 +1073,7 @@
       "ID": "shoes-nikesb-high-travisscott.zip",
       "IDWithoutExtension": "shoes-nikesb-high-travisscott",
       "Name": "Nike SB - Highs - Travis Scott (v1)",
-      "Description": "---DOES NOT WORK WITH SESSION 0.0.05x or 4.24.3---\r\n\r\nReplaces Mid-Top Cup shoe in game. \r\n\r\nAvailable below and in the asset store.\r\n\r\nMy Session Catalog: https://pastebin.com/raw/D4e1dfZ6\r\n\r\nFor my latest releases: https://github.com/WattieSession/SessionMods/releases",
+      "Description": "In order for these shoes to work in game and not crash your shit, Go to your UserEngine.ini file and add  \r\n\r\n[/Script/Engine.RendererSettings]\r\nr.LightPropagationVolume = False\r\n\r\nThis file is located in Session/SessionGame/Config/\r\n\r\nSave and install the shoes. Massive thank you to Chuy for finding this fix.\r\n\r\nReplaces Mid-Top Cup shoe in game. \r\n\r\nAvailable below and in the asset store.\r\n\r\nMy Session Catalog: https://pastebin.com/raw/D4e1dfZ6\r\n\r\nFor my latest releases: https://github.com/WattieSession/SessionMods/releases",
       "Version": 1.0,
       "Author": "Wattie",
       "DownloadLink": "rsmm://Url/https$github.com/WattieSession/SessionMods/releases/download/nsb8/shoes-nikesb-high-travisscott.zip",
@@ -1265,7 +1085,7 @@
       "ID": "shoes-nikesb-high-Uprise-v2.zip",
       "IDWithoutExtension": "shoes-nikesb-high-Uprise-v2",
       "Name": "Nike SB - Highs - Uprise",
-      "Description": "---DOES NOT WORK WITH SESSION 0.0.05x or 4.24.3---\r\n\r\nReplaces Mid-Top Cup shoe in game. \r\n\r\nAvailable below and in the asset store.\r\n\r\nMy Session Catalog: https://pastebin.com/raw/D4e1dfZ6\r\n\r\nFor my latest releases: https://github.com/WattieSession/SessionMods/releases",
+      "Description": "In order for these shoes to work in game and not crash your shit, Go to your UserEngine.ini file and add  \r\n\r\n[/Script/Engine.RendererSettings]\r\nr.LightPropagationVolume = False\r\n\r\nThis file is located in Session/SessionGame/Config/\r\n\r\nSave and install the shoes. Massive thank you to Chuy for finding this fix.\r\n\r\nReplaces Mid-Top Cup shoe in game. \r\n\r\nAvailable below and in the asset store.\r\n\r\nMy Session Catalog: https://pastebin.com/raw/D4e1dfZ6\r\n\r\nFor my latest releases: https://github.com/WattieSession/SessionMods/releases",
       "Version": 1.0,
       "Author": "Wattie",
       "DownloadLink": "rsmm://Url/https$github.com/WattieSession/SessionMods/releases/download/nsb7/shoes-nikesb-high-Uprise-v2.zip",
