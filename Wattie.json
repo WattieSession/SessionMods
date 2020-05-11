@@ -599,7 +599,7 @@
       "DownloadLink": "rsmm://Url/https$github.com/WattieSession/SessionMods/releases/download/n6/nike-sb-low-rayguns-wht.zip",
       "PreviewImage": "https://user-images.githubusercontent.com/60822222/74305017-8b990480-4d13-11ea-82db-9a30da5b762e.png",
       "Category": "session-shoes",
-      "UpdatedDate": "2020-01-26T08:00:00Z"
+      "UpdatedDate": "2020-01-26T00:00:00-08:00"
     },
     {
       "ID": "nike-mfdoom.zip",
@@ -611,7 +611,7 @@
       "DownloadLink": "rsmm://Url/https$github.com/WattieSession/SessionMods/releases/download/n5/nike-mfdoom.zip",
       "PreviewImage": "https://user-images.githubusercontent.com/60822222/74304912-365cf300-4d13-11ea-8e16-4881be9b04f9.png",
       "Category": "session-shoes",
-      "UpdatedDate": "2020-01-25T08:00:00Z"
+      "UpdatedDate": "2020-01-25T00:00:00-08:00"
     },
     {
       "ID": "nike-maples.zip",
@@ -623,7 +623,7 @@
       "DownloadLink": "rsmm://Url/https$github.com/WattieSession/SessionMods/releases/download/n4/nike-maples.zip",
       "PreviewImage": "https://user-images.githubusercontent.com/60822222/74304827-fac22900-4d12-11ea-8dcd-101c3efd321f.png",
       "Category": "session-shoes",
-      "UpdatedDate": "2020-01-24T08:00:00Z"
+      "UpdatedDate": "2020-01-24T00:00:00-08:00"
     },
     {
       "ID": "nike-sb-freddy.zip",
@@ -899,7 +899,7 @@
       "DownloadLink": "rsmm://Url/https$github.com/WattieSession/SessionMods/releases/download/gt4/gt-thrasherflame.zip",
       "PreviewImage": "https://user-images.githubusercontent.com/60822222/74376526-225ad500-4d97-11ea-9268-1e24934e45fb.png",
       "Category": "session-griptapes",
-      "UpdatedDate": "2020-01-14T00:00:00"
+      "UpdatedDate": "2020-01-13T08:00:00Z"
     },
     {
       "ID": "gt-destroy.zip",
@@ -1007,7 +1007,7 @@
       "DownloadLink": "rsmm://Url/https$github.com/WattieSession/SessionMods/releases/download/nsb6/shoes-nikesb-high-Unlucky-v2.zip",
       "PreviewImage": "https://user-images.githubusercontent.com/60822222/78630262-21519b80-784e-11ea-8d76-d00046b9366d.png",
       "Category": "session-shoes",
-      "UpdatedDate": "2020-01-26T08:00:00Z"
+      "UpdatedDate": "2020-01-26T00:00:00-08:00"
     },
     {
       "ID": " shoes-nikesb-high-skunks-v2.zip",
@@ -1019,7 +1019,7 @@
       "DownloadLink": "rsmm://Url/https$github.com/WattieSession/SessionMods/releases/download/nsb5/shoes-nikesb-high-skunks-v2.zip",
       "PreviewImage": "https://user-images.githubusercontent.com/60822222/78630186-f1a29380-784d-11ea-9f55-9cfd4b2a8533.png",
       "Category": "session-shoes",
-      "UpdatedDate": "2020-01-25T08:00:00Z"
+      "UpdatedDate": "2020-01-25T00:00:00-08:00"
     },
     {
       "ID": "shoes-nikesb-high-maples-v2.zip",
@@ -1031,7 +1031,7 @@
       "DownloadLink": "rsmm://Url/https$github.com/WattieSession/SessionMods/releases/download/nsb4/shoes-nikesb-high-maples-v2.zip",
       "PreviewImage": "https://user-images.githubusercontent.com/60822222/78630127-c029c800-784d-11ea-9cc9-446a334211f9.png",
       "Category": "session-shoes",
-      "UpdatedDate": "2020-01-24T08:00:00Z"
+      "UpdatedDate": "2020-01-24T00:00:00-08:00"
     },
     {
       "ID": "shoes-nikesb-high-mafia-v2.zip",
@@ -1043,7 +1043,7 @@
       "DownloadLink": "rsmm://Url/https$github.com/WattieSession/SessionMods/releases/download/nsb3/shoes-nikesb-high-mafia-v2.zip",
       "PreviewImage": "https://user-images.githubusercontent.com/60822222/78630036-85c02b00-784d-11ea-988f-2fde12e867ef.png",
       "Category": "session-shoes",
-      "UpdatedDate": "2020-01-23T08:00:00Z"
+      "UpdatedDate": "2020-01-23T00:00:00-08:00"
     },
     {
       "ID": "shoes-nikesb-high-lucky-v2.zip",
@@ -1055,7 +1055,7 @@
       "DownloadLink": "rsmm://Url/https$github.com/WattieSession/SessionMods/releases/download/nsb2/shoes-nikesb-high-lucky-v2.zip",
       "PreviewImage": "https://user-images.githubusercontent.com/60822222/78629941-4db8e800-784d-11ea-825a-a3e16197d454.png",
       "Category": "session-shoes",
-      "UpdatedDate": "2020-01-22T08:00:00Z"
+      "UpdatedDate": "2020-01-22T00:00:00-08:00"
     },
     {
       "ID": "shoes-nikesb-high-diamond-v2.zip",
@@ -1067,7 +1067,7 @@
       "DownloadLink": "rsmm://Url/https$github.com/WattieSession/SessionMods/releases/download/nsb1/shoes-nikesb-high-diamond-v2.zip",
       "PreviewImage": "https://user-images.githubusercontent.com/60822222/78629763-d6835400-784c-11ea-909f-3553a9abd246.png",
       "Category": "session-shoes",
-      "UpdatedDate": "2020-01-21T08:00:00Z"
+      "UpdatedDate": "2020-01-21T00:00:00-08:00"
     },
     {
       "ID": "shoes-nikesb-high-travisscott.zip",
@@ -1079,7 +1079,7 @@
       "DownloadLink": "rsmm://Url/https$github.com/WattieSession/SessionMods/releases/download/nsb8/shoes-nikesb-high-travisscott.zip",
       "PreviewImage": "https://user-images.githubusercontent.com/60822222/78963710-22343880-7aad-11ea-83bb-3784678d5691.png",
       "Category": "session-shoes",
-      "UpdatedDate": "2020-01-25T08:00:00Z"
+      "UpdatedDate": "2020-01-25T00:00:00-08:00"
     },
     {
       "ID": "shoes-nikesb-high-Uprise-v2.zip",
@@ -1091,7 +1091,67 @@
       "DownloadLink": "rsmm://Url/https$github.com/WattieSession/SessionMods/releases/download/nsb7/shoes-nikesb-high-Uprise-v2.zip",
       "PreviewImage": "https://user-images.githubusercontent.com/60822222/78963564-be117480-7aac-11ea-800e-2581408829d7.png",
       "Category": "session-shoes",
-      "UpdatedDate": "2020-01-24T08:00:00Z"
+      "UpdatedDate": "2020-01-24T00:00:00-08:00"
+    },
+    {
+      "ID": " Hat-thrash-suicidal-blk.zip",
+      "IDWithoutExtension": " Hat-thrash-suicidal-blk",
+      "Name": "Suicidal Tendencies OG Possessed Flip Thrash Hat - Black",
+      "Description": "Updated for Session 0.0.0.5x release\r\n\r\nYou need Redgouf's [MESH] Thrash hat in order to get the proper look. Replaces \"Red Cap\" in game.",
+      "Version": 1.0,
+      "Author": "Wattie",
+      "DownloadLink": "rsmm://Url/https$github.com/WattieSession/SessionMods/releases/download/ht1/Hat-thrash-suicidal-blk.zip",
+      "PreviewImage": "https://user-images.githubusercontent.com/60822222/76720211-63793880-66f9-11ea-944b-74fc9700be6c.png",
+      "Category": "session-hats",
+      "UpdatedDate": "2020-01-07T00:00:00"
+    },
+    {
+      "ID": " Hat-thrash-suicidal-blue.zip",
+      "IDWithoutExtension": " Hat-thrash-suicidal-blue",
+      "Name": "Suicidal Tendencies OG Possessed Flip Thrash Hat - Blue",
+      "Description": "Updated for Session 0.0.0.5x release\r\n\r\nYou need Redgouf's [MESH] Thrash hat in order to get the proper look. Replaces \"Red Cap\" in game.",
+      "Version": 1.0,
+      "Author": "Wattie",
+      "DownloadLink": "rsmm://Url/https$github.com/WattieSession/SessionMods/releases/download/ht1/Hat-thrash-suicidal-blue.zip",
+      "PreviewImage": "https://user-images.githubusercontent.com/60822222/76720212-6411cf00-66f9-11ea-858b-72124fc29a3b.png",
+      "Category": "session-hats",
+      "UpdatedDate": "2020-01-06T00:00:00"
+    },
+    {
+      "ID": "Hat-thrash-suicidal-brown.zip",
+      "IDWithoutExtension": "Hat-thrash-suicidal-brown",
+      "Name": "Suicidal Tendencies OG Possessed Flip Thrash Hat - Brown",
+      "Description": "Updated for Session 0.0.0.5x release\r\n\r\nYou need Redgouf's [MESH] Thrash hat in order to get the proper look. Replaces \"Red Cap\" in game.",
+      "Version": 1.0,
+      "Author": "Wattie",
+      "DownloadLink": "rsmm://Url/https$github.com/WattieSession/SessionMods/releases/download/ht1/Hat-thrash-suicidal-brown.zip",
+      "PreviewImage": "https://user-images.githubusercontent.com/60822222/76720213-64aa6580-66f9-11ea-9972-71747f8889f7.png",
+      "Category": "session-hats",
+      "UpdatedDate": "2020-01-05T00:00:00"
+    },
+    {
+      "ID": "Hat-thrash-suicidal-white.zip",
+      "IDWithoutExtension": "Hat-thrash-suicidal-white",
+      "Name": "Suicidal Tendencies OG Possessed Flip Thrash Hat - White",
+      "Description": "Updated for Session 0.0.0.5x release\r\n\r\nYou need Redgouf's [MESH] Thrash hat in order to get the proper look. Replaces \"Red Cap\" in game.",
+      "Version": 1.0,
+      "Author": "Wattie",
+      "DownloadLink": "rsmm://Url/https$github.com/WattieSession/SessionMods/releases/download/ht1/Hat-thrash-suicidal-white.zip",
+      "PreviewImage": "https://user-images.githubusercontent.com/60822222/76720214-6542fc00-66f9-11ea-8a99-0a2618206220.png",
+      "Category": "session-hats",
+      "UpdatedDate": "2020-01-04T00:00:00"
+    },
+    {
+      "ID": "Hat-thrash-suicidal-yello.zip",
+      "IDWithoutExtension": "Hat-thrash-suicidal-yello",
+      "Name": "Suicidal Tendencies OG Possessed Flip Thrash Hat - Yellow",
+      "Description": "Updated for Session 0.0.0.5x release\r\n\r\nYou need Redgouf's [MESH] Thrash hat in order to get the proper look. Replaces \"Red Cap\" in game.",
+      "Version": 1.0,
+      "Author": "Wattie",
+      "DownloadLink": "rsmm://Url/https$github.com/WattieSession/SessionMods/releases/download/ht1/Hat-thrash-suicidal-yello.zip",
+      "PreviewImage": "https://user-images.githubusercontent.com/60822222/76720207-6116de80-66f9-11ea-8746-bb19af4921d3.png",
+      "Category": "session-hats",
+      "UpdatedDate": "2020-01-02T08:00:00Z"
     }
   ]
 }
