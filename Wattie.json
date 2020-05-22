@@ -602,30 +602,6 @@
       "UpdatedDate": "2020-01-26T00:00:00-08:00"
     },
     {
-      "ID": "nike-mfdoom.zip",
-      "IDWithoutExtension": "nike-mfdoom",
-      "Name": "Nike SB - Mids - MFDoom",
-      "Description": "Does not work with Session 0.0.0.5x at the moment.\r\n\r\nReplaces Beige Mid Top in game.\r\n\r\nFor my latest releases: https://github.com/WattieSession/SessionMods/releases",
-      "Version": 1.0,
-      "Author": "Wattie",
-      "DownloadLink": "rsmm://Url/https$github.com/WattieSession/SessionMods/releases/download/n5/nike-mfdoom.zip",
-      "PreviewImage": "https://user-images.githubusercontent.com/60822222/74304912-365cf300-4d13-11ea-8e16-4881be9b04f9.png",
-      "Category": "session-shoes",
-      "UpdatedDate": "2020-01-25T00:00:00-08:00"
-    },
-    {
-      "ID": "nike-maples.zip",
-      "IDWithoutExtension": "nike-maples",
-      "Name": "Nike SB - Highs - Maples",
-      "Description": "Condition: New\r\nBrand: Nike SB\r\nModel: Highs - Maples\r\nColor: Maple\r\nVersion:1\r\n\r\nReplaces Beige Mid Top in game.\r\n\r\nFor my latest releases: https://github.com/WattieSession/SessionMods/releases",
-      "Version": 1.0,
-      "Author": "Wattie",
-      "DownloadLink": "rsmm://Url/https$github.com/WattieSession/SessionMods/releases/download/n4/nike-maples.zip",
-      "PreviewImage": "https://user-images.githubusercontent.com/60822222/74304827-fac22900-4d12-11ea-8dcd-101c3efd321f.png",
-      "Category": "session-shoes",
-      "UpdatedDate": "2020-01-24T00:00:00-08:00"
-    },
-    {
       "ID": "nike-sb-freddy.zip",
       "IDWithoutExtension": "nike-sb-freddy",
       "Name": "Nike SB - Lows - Freddy",
@@ -899,7 +875,7 @@
       "DownloadLink": "rsmm://Url/https$github.com/WattieSession/SessionMods/releases/download/gt4/gt-thrasherflame.zip",
       "PreviewImage": "https://user-images.githubusercontent.com/60822222/74376526-225ad500-4d97-11ea-9268-1e24934e45fb.png",
       "Category": "session-griptapes",
-      "UpdatedDate": "2020-01-13T08:00:00Z"
+      "UpdatedDate": "2020-01-13T00:00:00-08:00"
     },
     {
       "ID": "gt-destroy.zip",
@@ -1151,7 +1127,43 @@
       "DownloadLink": "rsmm://Url/https$github.com/WattieSession/SessionMods/releases/download/ht1/Hat-thrash-suicidal-yello.zip",
       "PreviewImage": "https://user-images.githubusercontent.com/60822222/76720207-6116de80-66f9-11ea-8746-bb19af4921d3.png",
       "Category": "session-hats",
-      "UpdatedDate": "2020-01-02T08:00:00Z"
+      "UpdatedDate": "2020-01-02T00:00:00-08:00"
+    },
+    {
+      "ID": "shoes-nikesb-high-wetfloor.zip",
+      "IDWithoutExtension": "shoes-nikesb-high-wetfloor",
+      "Name": "Nike SB - Highs - Wet Floor",
+      "Description": "--READ ME--\r\n\r\nIn order for these shoes to work in game and not crash your shit, Go to your UserEngine.ini file and add\r\n\r\n[/Script/Engine.RendererSettings]\r\nr.LightPropagationVolume = False\r\n\r\nThis file is located in Session/SessionGame/Config/\r\n\r\nSave and install the shoes.\r\n\r\nReplaces Mid-Top Cup shoe in game.\r\n\r\nAvailable below and in the asset store.",
+      "Version": 1.0,
+      "Author": "Wattie",
+      "DownloadLink": "rsmm://Url/https$github.com/WattieSession/SessionMods/releases/download/nsb11/shoes-nikesb-high-wetfloor.zip",
+      "PreviewImage": "https://user-images.githubusercontent.com/60822222/82633908-46595e00-9bb1-11ea-95a6-36f2a6708724.png",
+      "Category": "session-shoes",
+      "UpdatedDate": "2020-04-20T07:00:00Z"
+    },
+    {
+      "ID": "shoes-nikesb-high-supa-v2.zip",
+      "IDWithoutExtension": "shoes-nikesb-high-supa-v2",
+      "Name": "Nike SB - Highs - Supa v2",
+      "Description": "--READ ME--\r\n\r\nIn order for these shoes to work in game and not crash your shit, Go to your UserEngine.ini file and add\r\n\r\n[/Script/Engine.RendererSettings]\r\nr.LightPropagationVolume = False\r\n\r\nThis file is located in Session/SessionGame/Config/\r\n\r\nSave and install the shoes.\r\n\r\nReplaces Mid-Top Cup shoe in game.\r\n\r\nAvailable below and in the asset store.",
+      "Version": 1.0,
+      "Author": "Wattie",
+      "DownloadLink": "rsmm://Url/https$github.com/WattieSession/SessionMods/releases/download/nsb10/shoes-nikesb-high-supa-v2.zip",
+      "PreviewImage": "https://user-images.githubusercontent.com/60822222/82633837-1316cf00-9bb1-11ea-99c5-fe4506962ca4.png",
+      "Category": "session-shoes",
+      "UpdatedDate": "2020-04-20T07:00:00Z"
+    },
+    {
+      "ID": " shoes-nikesb-high-MFDOOM.zip",
+      "IDWithoutExtension": " shoes-nikesb-high-MFDOOM",
+      "Name": "Nike SB - Highs - MF DOOM v2",
+      "Description": "--READ ME--\r\n\r\nIn order for these shoes to work in game and not crash your shit, Go to your UserEngine.ini file and add\r\n\r\n[/Script/Engine.RendererSettings]\r\nr.LightPropagationVolume = False\r\n\r\nThis file is located in Session/SessionGame/Config/\r\n\r\nSave and install the shoes.\r\n\r\nReplaces Mid-Top Cup shoe in game.\r\n\r\nAvailable below and in the asset store.",
+      "Version": 1.0,
+      "Author": "Wattie",
+      "DownloadLink": "rsmm://Url/https$github.com/WattieSession/SessionMods/releases/download/nsb9/shoes-nikesb-high-MFDOOM.zip",
+      "PreviewImage": "https://user-images.githubusercontent.com/60822222/82633749-cc28d980-9bb0-11ea-97ca-f0e7cf592522.png",
+      "Category": "session-shoes",
+      "UpdatedDate": "2020-04-19T07:00:00Z"
     }
   ]
 }
