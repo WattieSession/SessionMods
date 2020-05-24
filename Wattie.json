@@ -1,1139 +1,1139 @@
 {
-  "Name": "Wattie",
+  "Name": "",
   "Assets": [
     {
       "ID": "axion-kc-v2.zip",
       "IDWithoutExtension": "axion-kc-v2",
       "Name": "Axion - Kareem Cambell - Blk/Gum",
-      "Description": "Condition: Used\r\nBrand: Axion\r\nModel: Kareem Cambell KCK\r\nSize: Any\r\nColor: Black/Gum\r\nVersion: 2\r\n\r\nIMPORTANT\r\n\r\nPlease install [Shoes] Low Top Skate Shoe Mesh in the meshes section for the proper look.\r\n\r\nReplaces Black Mid Top Shoe in game.\r\n\r\nFor my latest releases: https://github.com/WattieSession/SessionMods/releases",
+      "Description": "Condition: Used\r\nBrand: Axion\r\nModel: Kareem Cambell KCK\r\nSize: Any\r\nColor: Black/Gum\r\nCompatible game version: 0.0.0.5x or 4.24.3\r\n\r\nIMPORTANT\r\n\r\nPlease install [Shoes] Low Top Skate Shoe Mesh in the meshes section for the proper look.\r\n\r\nReplaces Black Mid Top Shoe in game.\r\n\r\nFor my latest releases: https://github.com/WattieSession/SessionMods/releases",
       "Version": 1.0,
       "Author": "Wattie",
       "DownloadLink": "rsmm://Url/https$github.com/WattieSession/SessionMods/releases/download/s8/axion-kc-v2.zip",
       "PreviewImage": "https://user-images.githubusercontent.com/60822222/74124808-6af07380-4b88-11ea-863f-1013620e02b9.png",
       "Category": "session-shoes",
-      "UpdatedDate": "2020-02-09T00:00:00-08:00"
+      "UpdatedDate": "2020-02-09T08:00:00Z"
     },
     {
       "ID": "dc-kalis-vulc-red-v2.zip",
       "IDWithoutExtension": "dc-kalis-vulc-red-v2",
       "Name": "DC Shoes - Kalis Vulc - Red/Wht",
-      "Description": "Condition: Used\r\nBrand: DC Shoes\r\nModel: Josh Kalis Vulc\r\nSize: Any\r\nColor: Red/White\r\nVersion: 2\r\n\r\nIMPORTANT\r\n\r\nReplaces Vul A Shoe in game.\r\n\r\nFor my latest releases: https://github.com/WattieSession/SessionMods/releases",
+      "Description": "Condition: Used\r\nBrand: DC Shoes\r\nModel: Josh Kalis Vulc\r\nSize: Any\r\nColor: Red/White\r\nCompatible game version: 0.0.0.5x or 4.24.3\r\n\r\nIMPORTANT\r\n\r\nReplaces Vul A Shoe in game.\r\n\r\nFor my latest releases: https://github.com/WattieSession/SessionMods/releases",
       "Version": 1.0,
       "Author": "Wattie",
       "DownloadLink": "rsmm://Url/https$github.com/WattieSession/SessionMods/releases/download/s6/dc-kalis-vulc-red-v2.zip",
       "PreviewImage": "https://user-images.githubusercontent.com/60822222/74124566-90c94880-4b87-11ea-94fa-52275daae7f4.png",
       "Category": "session-shoes",
-      "UpdatedDate": "2020-02-08T00:00:00-08:00"
+      "UpdatedDate": "2020-02-08T08:00:00Z"
     },
     {
       "ID": "dc-kalis-vulc-offwht-v2.zip",
       "IDWithoutExtension": "dc-kalis-vulc-offwht-v2",
       "Name": "DC Shoes - Kalis Vulc - Off White",
-      "Description": "Condition: Used\r\nBrand: DC Shoes\r\nModel: Josh Kalis Vulc\r\nSize: Any\r\nColor: Off White/White\r\nVersion: 2\r\n\r\nIMPORTANT\r\n\r\nReplaces Vul A Shoe in game.\r\n\r\nFor my latest releases: https://github.com/WattieSession/SessionMods/releases",
+      "Description": "Condition: Used\r\nBrand: DC Shoes\r\nModel: Josh Kalis Vulc\r\nSize: Any\r\nColor: Off White/White\r\nCompatible game version: 0.0.0.5x or 4.24.3\r\n\r\nIMPORTANT\r\n\r\nReplaces Vul A Shoe in game.\r\n\r\nFor my latest releases: https://github.com/WattieSession/SessionMods/releases",
       "Version": 1.0,
       "Author": "Wattie",
       "DownloadLink": "rsmm://Url/https$github.com/WattieSession/SessionMods/releases/download/s7/dc-kalis-vulc-offwht-v2.zip",
       "PreviewImage": "https://user-images.githubusercontent.com/60822222/74124626-cb32e580-4b87-11ea-8290-85b531805338.png",
       "Category": "session-shoes",
-      "UpdatedDate": "2020-02-07T00:00:00-08:00"
+      "UpdatedDate": "2020-02-07T08:00:00Z"
     },
     {
       "ID": "es-rc-v2.zip",
       "IDWithoutExtension": "es-rc-v2",
       "Name": "eS - Contract - Ronny Creager",
-      "Description": "Condition: Used\r\nBrand: eS\r\nModel: Contract Ronny Creager\r\nSize: Any\r\nColor: Black/White\r\nVersion: 2\r\n\r\nIMPORTANT\r\n\r\nPlease install [Shoes] Low Top Skate Shoe Mesh in the meshes section for the proper look.\r\n\r\nReplaces Black Mid Top Shoe in game.\r\n\r\nFor my latest releases: https://github.com/WattieSession/SessionMods/releases",
+      "Description": "Condition: Used\r\nBrand: eS\r\nModel: Contract Ronny Creager\r\nSize: Any\r\nColor: Black/White\r\nCompatible game version: 0.0.0.5x or 4.24.3\r\n\r\nIMPORTANT\r\n\r\nPlease install [Shoes] Low Top Skate Shoe Mesh in the meshes section for the proper look.\r\n\r\nReplaces Black Mid Top Shoe in game.\r\n\r\nFor my latest releases: https://github.com/WattieSession/SessionMods/releases",
       "Version": 1.0,
       "Author": "Wattie",
       "DownloadLink": "rsmm://Url/https$github.com/WattieSession/SessionMods/releases/download/r1/es-rc-v2.zip",
       "PreviewImage": "https://user-images.githubusercontent.com/60822222/74124361-ea7d4300-4b86-11ea-8649-262d684efa7c.png",
       "Category": "session-shoes",
-      "UpdatedDate": "2020-02-06T00:00:00-08:00"
+      "UpdatedDate": "2020-02-06T08:00:00Z"
     },
     {
       "ID": "es-koston1-blkgld.zip",
       "IDWithoutExtension": "es-koston1-blkgld",
       "Name": "eS - Koston1 - Blk/Gld/Purp",
-      "Description": "Condition: Used\r\nBrand: eS\r\nModel: Koston 1\r\nSize: Any\r\nColor: Black/Gold/Purple\r\nVersion: 1\r\n\r\nIMPORTANT\r\n\r\nPlease install [Shoes] Low Top Skate Shoe Mesh in the meshes section for the proper look.\r\n\r\nReplaces Black Mid Top Shoe in game.\r\n\r\nFor my latest releases: https://github.com/WattieSession/SessionMods/releases",
+      "Description": "Condition: Used\r\nBrand: eS\r\nModel: Koston 1\r\nSize: Any\r\nColor: Black/Gold/Purple\r\nCompatible game version: 0.0.0.5x or 4.24.3\r\n\r\nIMPORTANT\r\n\r\nPlease install [Shoes] Low Top Skate Shoe Mesh in the meshes section for the proper look.\r\n\r\nReplaces Black Mid Top Shoe in game.\r\n\r\nFor my latest releases: https://github.com/WattieSession/SessionMods/releases",
       "Version": 1.0,
       "Author": "Wattie",
       "DownloadLink": "rsmm://Url/https$github.com/WattieSession/SessionMods/releases/download/s2/es-koston1-blkgld.zip",
       "PreviewImage": "https://user-images.githubusercontent.com/60822222/74123367-670e2280-4b83-11ea-8516-4a740cde882c.png",
       "Category": "session-shoes",
-      "UpdatedDate": "2020-02-08T00:00:00-08:00"
+      "UpdatedDate": "2020-02-08T08:00:00Z"
     },
     {
       "ID": "es-koston1-blkgum.zip",
       "IDWithoutExtension": "es-koston1-blkgum",
       "Name": "eS - Koston1 - Blk/Gum",
-      "Description": "Condition: Used\r\nBrand: eS\r\nModel: Koston 1\r\nSize: Any\r\nColor: Black/Gum\r\nVersion: 1\r\n\r\nIMPORTANT\r\n\r\nPlease install [Shoes] Low Top Skate Shoe Mesh in the meshes section for the proper look.\r\n\r\nReplaces Black Mid Top Shoe in game.\r\n\r\nFor my latest releases: https://github.com/WattieSession/SessionMods/releases",
+      "Description": "Condition: Used\r\nBrand: eS\r\nModel: Koston 1\r\nSize: Any\r\nColor: Black/Gum\r\nCompatible game version: 0.0.0.5x or 4.24.3\r\n\r\nIMPORTANT\r\n\r\nPlease install [Shoes] Low Top Skate Shoe Mesh in the meshes section for the proper look.\r\n\r\nReplaces Black Mid Top Shoe in game.\r\n\r\nFor my latest releases: https://github.com/WattieSession/SessionMods/releases",
       "Version": 1.0,
       "Author": "Wattie",
       "DownloadLink": "rsmm://Url/https$github.com/WattieSession/SessionMods/releases/download/s1/es-koston1-blkgum.zip",
       "PreviewImage": "https://user-images.githubusercontent.com/60822222/74123201-c15ab380-4b82-11ea-8358-26e1dee58ebe.png",
       "Category": "session-shoes",
-      "UpdatedDate": "2020-02-07T00:00:00-08:00"
+      "UpdatedDate": "2020-02-07T08:00:00Z"
     },
     {
       "ID": "es-koston1-grnwht.zip",
       "IDWithoutExtension": "es-koston1-grnwht",
       "Name": "eS - Koston1 - Grn/Wht",
-      "Description": "Condition: Used\r\nBrand: eS\r\nModel: Koston 1\r\nSize: Any\r\nColor: Green/White\r\nVersion: 1\r\n\r\nIMPORTANT\r\n\r\nPlease install [Shoes] Low Top Skate Shoe Mesh in the meshes section for the proper look.\r\n\r\nReplaces Black Mid Top Shoe in game.\r\n\r\nFor my latest releases: https://github.com/WattieSession/SessionMods/releases",
+      "Description": "Condition: Used\r\nBrand: eS\r\nModel: Koston 1\r\nSize: Any\r\nColor: Green/White\r\nCompatible game version: 0.0.0.5x or 4.24.3\r\n\r\nIMPORTANT\r\n\r\nPlease install [Shoes] Low Top Skate Shoe Mesh in the meshes section for the proper look.\r\n\r\nReplaces Black Mid Top Shoe in game.\r\n\r\nFor my latest releases: https://github.com/WattieSession/SessionMods/releases",
       "Version": 1.0,
       "Author": "Wattie",
       "DownloadLink": "rsmm://Url/https$github.com/WattieSession/SessionMods/releases/download/s12/es-koston1-grnwht.zip",
       "PreviewImage": "https://user-images.githubusercontent.com/60822222/74123693-62963980-4b84-11ea-96a7-dbf405ac15ba.png",
       "Category": "session-shoes",
-      "UpdatedDate": "2020-02-06T00:00:00-08:00"
+      "UpdatedDate": "2020-02-06T08:00:00Z"
     },
     {
       "ID": "es-koston1-redblk.zip",
       "IDWithoutExtension": "es-koston1-redblk",
       "Name": "eS - Koston1 - Blk/Red",
-      "Description": "Condition: Used\r\nBrand: eS\r\nModel: Koston 1\r\nSize: Any\r\nColor: Black/Red\r\nVersion: 1\r\n\r\nIMPORTANT\r\n\r\nPlease install [Shoes] Low Top Skate Shoe Mesh in the meshes section for the proper look.\r\n\r\nReplaces Black Mid Top Shoe in game.\r\n\r\nFor my latest releases: https://github.com/WattieSession/SessionMods/releases",
+      "Description": "Condition: Used\r\nBrand: eS\r\nModel: Koston 1\r\nSize: Any\r\nColor: Black/Red\r\nCompatible game version: 0.0.0.5x or 4.24.3\r\n\r\nIMPORTANT\r\n\r\nPlease install [Shoes] Low Top Skate Shoe Mesh in the meshes section for the proper look.\r\n\r\nReplaces Black Mid Top Shoe in game.\r\n\r\nFor my latest releases: https://github.com/WattieSession/SessionMods/releases",
       "Version": 1.0,
       "Author": "Wattie",
       "DownloadLink": "rsmm://Url/https$github.com/WattieSession/SessionMods/releases/download/s4/es-koston1-redblk.zip",
       "PreviewImage": "https://user-images.githubusercontent.com/60822222/74123755-9ffac700-4b84-11ea-8837-3aa5bc7f4d53.png",
       "Category": "session-shoes",
-      "UpdatedDate": "2020-02-05T00:00:00-08:00"
+      "UpdatedDate": "2020-02-05T08:00:00Z"
     },
     {
       "ID": "es-koston1-whtgum.zip",
       "IDWithoutExtension": "es-koston1-whtgum",
       "Name": "eS - Koston1 - Wht/Gum",
-      "Description": "Condition: Used\r\nBrand: eS\r\nModel: Koston 1\r\nSize: Any\r\nColor: Off White/White/Gum\r\nVersion: 1\r\n\r\nIMPORTANT\r\n\r\nPlease install [Shoes] Low Top Skate Shoe Mesh in the meshes section for the proper look.\r\n\r\nReplaces Black Mid Top Shoe in game.\r\n\r\nFor my latest releases: https://github.com/WattieSession/SessionMods/releases",
+      "Description": "Condition: Used\r\nBrand: eS\r\nModel: Koston 1\r\nSize: Any\r\nColor: Off White/White/Gum\r\nCompatible game version: 0.0.0.5x or 4.24.3\r\n\r\nIMPORTANT\r\n\r\nPlease install [Shoes] Low Top Skate Shoe Mesh in the meshes section for the proper look.\r\n\r\nReplaces Black Mid Top Shoe in game.\r\n\r\nFor my latest releases: https://github.com/WattieSession/SessionMods/releases",
       "Version": 1.0,
       "Author": "Wattie",
       "DownloadLink": "rsmm://Url/https$github.com/WattieSession/SessionMods/releases/download/s5/es-koston1-whtgum.zip",
       "PreviewImage": "https://user-images.githubusercontent.com/60822222/74123821-d59fb000-4b84-11ea-8b04-5f6aca2f00d8.png",
       "Category": "session-shoes",
-      "UpdatedDate": "2020-02-04T00:00:00-08:00"
+      "UpdatedDate": "2020-02-04T08:00:00Z"
     },
     {
       "ID": "duffs-gb2-blk-v3.zip",
       "IDWithoutExtension": "duffs-gb2-blk-v3",
       "Name": "Duffs - Gambler 2's - Blk/Gum",
-      "Description": "Condition: Used\r\nBrand: Duffs\r\nModel: Gambler 2\r\nSize: Any\r\nColor: Black/Gum\r\nVersion: 2\r\n\r\nIMPORTANT\r\n\r\nPlease install [Shoes] Low Top Skate Shoe Mesh in the meshes section for the proper look. Or you can use the normal Mid top shoe.\r\n\r\nReplaces Black Mid Top Shoe in game.\r\n\r\nFor my latest releases: https://github.com/WattieSession/SessionMods/releases",
+      "Description": "Condition: Used\r\nBrand: Duffs\r\nModel: Gambler 2\r\nSize: Any\r\nColor: Black/Gum\r\nCompatible game version: 0.0.0.5x or 4.24.3\r\n\r\nIMPORTANT\r\n\r\nPlease install [Shoes] Low Top Skate Shoe Mesh in the meshes section for the proper look. Or you can use the normal Mid top shoe.\r\n\r\nReplaces Black Mid Top Shoe in game.\r\n\r\nFor my latest releases: https://github.com/WattieSession/SessionMods/releases",
       "Version": 2.0,
       "Author": "Wattie",
       "DownloadLink": "rsmm://Url/https$github.com/WattieSession/SessionMods/releases/download/s9/duffs-gb2-blk-v3.zip",
       "PreviewImage": "https://user-images.githubusercontent.com/60822222/74124932-c7ec2980-4b88-11ea-894b-54c6b7735aaa.png",
       "Category": "session-shoes",
-      "UpdatedDate": "2020-02-03T00:00:00-08:00"
+      "UpdatedDate": "2020-02-03T08:00:00Z"
     },
     {
       "ID": "duff-g2-grnwht.zip",
       "IDWithoutExtension": "duff-g2-grnwht",
       "Name": "Duffs - Gambler 2's - Grn/Wht",
-      "Description": "Condition: Used\r\nBrand: Duffs\r\nModel: Gambler 2\r\nSize: Any\r\nColor: Green/White\r\nVersion: 2\r\n\r\nIMPORTANT\r\n\r\nPlease install [Shoes] Low Top Skate Shoe Mesh in the meshes section for the proper look. Or you can use the normal Mid top shoe.\r\n\r\nReplaces Black Mid Top Shoe in game.\r\n\r\nFor my latest releases: https://github.com/WattieSession/SessionMods/releases",
+      "Description": "Condition: Used\r\nBrand: Duffs\r\nModel: Gambler 2\r\nSize: Any\r\nColor: Green/White\r\nCompatible game version: 0.0.0.5x or 4.24.3\r\n\r\nIMPORTANT\r\n\r\nPlease install [Shoes] Low Top Skate Shoe Mesh in the meshes section for the proper look. Or you can use the normal Mid top shoe.\r\n\r\nReplaces Black Mid Top Shoe in game.\r\n\r\nFor my latest releases: https://github.com/WattieSession/SessionMods/releases",
       "Version": 2.0,
       "Author": "Wattie",
       "DownloadLink": "rsmm://Url/https$github.com/WattieSession/SessionMods/releases/download/s10/duff-g2-grnwht.zip",
       "PreviewImage": "https://user-images.githubusercontent.com/60822222/74125040-1d283b00-4b89-11ea-9670-5b5ff6519e79.png",
       "Category": "session-shoes",
-      "UpdatedDate": "2020-02-02T00:00:00-08:00"
+      "UpdatedDate": "2020-02-02T08:00:00Z"
     },
     {
       "ID": "duffs-gb2-red.zip",
       "IDWithoutExtension": "duffs-gb2-red",
       "Name": "Duffs - Gambler 2's - Red/Gum",
-      "Description": "Condition: Used\r\nBrand: Duffs\r\nModel: Gambler 2\r\nSize: Any\r\nColor: Green/White\r\nVersion: 2\r\n\r\nIMPORTANT\r\n\r\nPlease install [Shoes] Low Top Skate Shoe Mesh in the meshes section for the proper look. Or you can use the normal Mid top shoe.\r\n\r\nReplaces Black Mid Top Shoe in game.\r\n\r\nFor my latest releases: https://github.com/WattieSession/SessionMods/releases",
+      "Description": "Condition: Used\r\nBrand: Duffs\r\nModel: Gambler 2\r\nSize: Any\r\nColor: Green/White\r\nCompatible game version: 0.0.0.5x or 4.24.3\r\n\r\nIMPORTANT\r\n\r\nPlease install [Shoes] Low Top Skate Shoe Mesh in the meshes section for the proper look. Or you can use the normal Mid top shoe.\r\n\r\nReplaces Black Mid Top Shoe in game.\r\n\r\nFor my latest releases: https://github.com/WattieSession/SessionMods/releases",
       "Version": 2.0,
       "Author": "Wattie",
       "DownloadLink": "rsmm://Url/https$github.com/WattieSession/SessionMods/releases/download/s11/duffs-gb2-red.zip",
       "PreviewImage": "https://user-images.githubusercontent.com/60822222/74125154-4c3eac80-4b89-11ea-9380-6fcab3cccdf2.png",
       "Category": "session-shoes",
-      "UpdatedDate": "2020-02-01T00:00:00-08:00"
+      "UpdatedDate": "2020-02-01T08:00:00Z"
     },
     {
       "ID": "101-gino-gza.zip",
       "IDWithoutExtension": "101-gino-gza",
       "Name": "101 Gino Iannucci GZA",
-      "Description": "Type: Deck\r\nCondition: Used\r\nBrand: 101\r\nModel: Gino Gza Wu\r\n\r\nReplaces All Red 8.125",
+      "Description": "Type: Deck\r\nCondition: Used\r\nBrand: 101\r\nModel: Gino Gza Wu\r\nCompatible game version: 0.0.0.5x or 4.24.3\r\n\r\nReplaces All Red 8.125",
       "Version": 1.0,
       "Author": "Wattie",
       "DownloadLink": "rsmm://Url/https$github.com/WattieSession/SessionMods/releases/download/d44/101-gino-gza.zip",
       "PreviewImage": "https://user-images.githubusercontent.com/60822222/74212682-3a710e00-4c4a-11ea-96cf-031eb29d34f7.png",
       "Category": "session-decks",
-      "UpdatedDate": "2020-02-10T21:17:29.9542049-08:00"
+      "UpdatedDate": "2020-02-10T08:00:00Z"
     },
     {
       "ID": "Almost-centerpiece-wht.zip",
       "IDWithoutExtension": "Almost-centerpiece-wht",
       "Name": "Almost Centerpiece White",
-      "Description": "Type: Deck\r\nCondition: Used\r\nBrand: Almost\r\nModel: Centerpiece\r\n\r\nReplaces Dog Balls 8.125",
+      "Description": "Type: Deck\r\nCondition: Used\r\nBrand: Almost\r\nModel: Centerpiece\r\nCompatible game version: 0.0.0.5x or 4.24.3\r\n\r\nReplaces Dog Balls 8.125",
       "Version": 1.0,
       "Author": "Wattie",
       "DownloadLink": "rsmm://Url/https$github.com/WattieSession/SessionMods/releases/download/d43/Almost-centerpiece-wht.zip",
       "PreviewImage": "https://user-images.githubusercontent.com/60822222/74212643-11e91400-4c4a-11ea-925f-1170930727d2.png",
       "Category": "session-decks",
-      "UpdatedDate": "2020-02-09T00:00:00-08:00"
+      "UpdatedDate": "2020-02-09T08:00:00Z"
     },
     {
       "ID": "Almost-haslam-tallship.zip",
       "IDWithoutExtension": "Almost-haslam-tallship",
       "Name": "Almost Haslam Tall Ship",
-      "Description": "Type: Deck\r\nCondition: Used\r\nBrand: Almost\r\nModel: Haslam Tall Ship\r\n\r\nReplaces No Comply 8.5\r\n\r\n",
+      "Description": "Type: Deck\r\nCondition: Used\r\nBrand: Almost\r\nModel: Haslam Tall Ship\r\nCompatible game version: 0.0.0.5x or 4.24.3\r\n\r\nReplaces No Comply 8.5\r\n\r\n",
       "Version": 1.0,
       "Author": "Wattie",
       "DownloadLink": "rsmm://Url/https$github.com/WattieSession/SessionMods/releases/download/d42/Almost-haslam-tallship.zip",
       "PreviewImage": "https://user-images.githubusercontent.com/60822222/74212585-b4ed5e00-4c49-11ea-98a9-2ed9fd57946e.png",
       "Category": "session-decks",
-      "UpdatedDate": "2020-02-08T00:00:00-08:00"
+      "UpdatedDate": "2020-02-08T08:00:00Z"
     },
     {
       "ID": "dck-almost-lewisforever.zip",
       "IDWithoutExtension": "dck-almost-lewisforever",
       "Name": "Almost Lewis Marnell Forever",
-      "Description": "Type: Deck\r\nCondition: Used\r\nBrand: Almost\r\nModel: Lewis Marnell Forever\r\n\r\nReplaces Half A Roger 8.125",
+      "Description": "Type: Deck\r\nCondition: Used\r\nBrand: Almost\r\nModel: Lewis Marnell Forever\r\nCompatible game version: 0.0.0.5x or 4.24.3\r\n\r\nReplaces Half A Roger 8.125",
       "Version": 1.0,
       "Author": "Wattie",
       "DownloadLink": "rsmm://Url/https$github.com/WattieSession/SessionMods/releases/download/d41/dck-almost-lewisforever.zip",
       "PreviewImage": "https://user-images.githubusercontent.com/60822222/74212551-8e2f2780-4c49-11ea-92cb-5d6fb899f3b8.png",
       "Category": "session-decks",
-      "UpdatedDate": "2020-02-08T00:00:00"
+      "UpdatedDate": "2020-02-07T08:00:00Z"
     },
     {
       "ID": "Antihero-cardiel-watn.zip",
       "IDWithoutExtension": "Antihero-cardiel-watn",
       "Name": "Antihero Cardiel Burger",
-      "Description": "Type: Deck\r\nCondition: Used\r\nBrand: Anti Hero\r\nModel: Cardiel Burger\r\n\r\nReplaces Sword Swallower 8.25",
+      "Description": "Type: Deck\r\nCondition: Used\r\nBrand: Anti Hero\r\nModel: Cardiel Burger\r\nCompatible game version: 0.0.0.5x or 4.24.3\r\n\r\nReplaces Sword Swallower 8.25",
       "Version": 1.0,
       "Author": "Wattie",
       "DownloadLink": "rsmm://Url/https$github.com/WattieSession/SessionMods/releases/download/d40/Antihero-cardiel-watn.zip",
       "PreviewImage": "https://user-images.githubusercontent.com/60822222/74212493-51633080-4c49-11ea-8df0-63219d3c2198.png",
       "Category": "session-decks",
-      "UpdatedDate": "2020-02-07T00:00:00"
+      "UpdatedDate": "2020-02-06T08:00:00Z"
     },
     {
       "ID": "Antihero-Cardiel-Carbine.zip",
       "IDWithoutExtension": "Antihero-Cardiel-Carbine",
       "Name": "Antihero Cardiel Carbine",
-      "Description": "Type: Deck\r\nCondition: Used\r\nBrand: Anti Hero\r\nModel: Cardiel Carbine\r\n\r\nReplaces Doodler 8.5",
+      "Description": "Type: Deck\r\nCondition: Used\r\nBrand: Anti Hero\r\nModel: Cardiel Carbine\r\nCompatible game version: 0.0.0.5x or 4.24.3\r\n\r\nReplaces Doodler 8.5",
       "Version": 1.0,
       "Author": "Wattie",
       "DownloadLink": "rsmm://Url/https$github.com/WattieSession/SessionMods/releases/download/d39/Antihero-Cardiel-Carbine.zip",
       "PreviewImage": "https://user-images.githubusercontent.com/60822222/74212435-08ab7780-4c49-11ea-8d1a-7c9d43791315.png",
       "Category": "session-decks",
-      "UpdatedDate": "2020-02-06T00:00:00"
+      "UpdatedDate": "2020-02-05T08:00:00Z"
     },
     {
       "ID": "Antihero-grant9-used.zip",
       "IDWithoutExtension": "Antihero-grant9-used",
       "Name": "Antihero Grant Taylor Amp 2019",
-      "Description": "Type: Deck\r\nCondition: Used\r\nBrand: Anti Hero\r\nModel: Grant Taylor Amp 2019\r\n\r\nReplaces No Comply Orange 8.5",
+      "Description": "Type: Deck\r\nCondition: Used\r\nBrand: Anti Hero\r\nModel: Grant Taylor Amp 2019\r\nCompatible game version: 0.0.0.5x or 4.24.3\r\n\r\nReplaces No Comply Orange 8.5",
       "Version": 1.0,
       "Author": "Wattie",
       "DownloadLink": "rsmm://Url/https$github.com/WattieSession/SessionMods/releases/download/d38/Antihero-grant9-used.zip",
       "PreviewImage": "https://user-images.githubusercontent.com/60822222/74212403-db5ec980-4c48-11ea-9335-8bbbc413586a.png",
       "Category": "session-decks",
-      "UpdatedDate": "2020-02-05T00:00:00"
+      "UpdatedDate": "2020-02-04T08:00:00Z"
     },
     {
       "ID": "dck-blind-megapapa.zip",
       "IDWithoutExtension": "dck-blind-megapapa",
       "Name": "Blind Mega Papa",
-      "Description": "Type: Deck\r\nCondition: Used\r\nBrand: Blind\r\nModel: Mega Papa\r\n\r\nReplaces Sword Swalloer 8.25",
+      "Description": "Type: Deck\r\nCondition: Used\r\nBrand: Blind\r\nModel: Mega Papa\r\nCompatible game version: 0.0.0.5x or 4.24.3\r\n\r\nReplaces Sword Swalloer 8.25",
       "Version": 1.0,
       "Author": "Wattie",
       "DownloadLink": "rsmm://Url/https$github.com/WattieSession/SessionMods/releases/download/d37/dck-blind-megapapa.zip",
       "PreviewImage": "https://user-images.githubusercontent.com/60822222/74212339-9044b680-4c48-11ea-8749-c2929f0c967e.png",
       "Category": "session-decks",
-      "UpdatedDate": "2020-02-04T00:00:00"
+      "UpdatedDate": "2020-02-03T08:00:00Z"
     },
     {
       "ID": "blind-jl-american-icons.zip",
       "IDWithoutExtension": "blind-jl-american-icons",
       "Name": "Blind Jason Lee American Icons",
-      "Description": "Type: Deck\r\nCondition: Used\r\nBrand: Blind\r\nModel: Jason Lee American Icons\r\n\r\nReplaces Sword Swalloer 8.25",
+      "Description": "Type: Deck\r\nCondition: Used\r\nBrand: Blind\r\nModel: Jason Lee American Icons\r\nCompatible game version: 0.0.0.5x or 4.24.3\r\n\r\nReplaces Sword Swalloer 8.25",
       "Version": 1.0,
       "Author": "Wattie",
       "DownloadLink": "rsmm://Url/https$github.com/WattieSession/SessionMods/releases/download/d36/blind-jl-american-icons.zip",
       "PreviewImage": "https://user-images.githubusercontent.com/60822222/74212306-6a1f1680-4c48-11ea-8777-1c9ddad590dd.png",
       "Category": "session-decks",
-      "UpdatedDate": "2020-02-03T00:00:00"
+      "UpdatedDate": "2020-02-02T08:00:00Z"
     },
     {
       "ID": " dck-rc-dj.zip",
       "IDWithoutExtension": " dck-rc-dj",
       "Name": "Blind Ronny Creager DJ",
-      "Description": "Type: Deck\r\nCondition: Used\r\nBrand: Blind\r\nModel: Ronny Creager DJ\r\n\r\nReplaces Half A Roger 8.125",
+      "Description": "Type: Deck\r\nCondition: Used\r\nBrand: Blind\r\nModel: Ronny Creager DJ\r\nCompatible game version: 0.0.0.5x or 4.24.3\r\n\r\nReplaces Half A Roger 8.125",
       "Version": 1.0,
       "Author": "Wattie",
       "DownloadLink": "rsmm://Url/https$github.com/WattieSession/SessionMods/releases/download/d35/dck-rc-dj.zip",
       "PreviewImage": "https://user-images.githubusercontent.com/60822222/74212249-33490080-4c48-11ea-9550-b5c5170cccbf.png",
       "Category": "session-decks",
-      "UpdatedDate": "2020-02-02T00:00:00"
+      "UpdatedDate": "2020-02-01T08:00:00Z"
     },
     {
       "ID": "bloodwizard-future.zip",
       "IDWithoutExtension": "bloodwizard-future",
       "Name": "Blood Wizard Future Silver",
-      "Description": "Type: Deck\r\nCondition: Used\r\nBrand: Blood Wizard\r\nModel: Future Silver 2019\r\n\r\nReplaces Ghost with a Boner 8.25",
+      "Description": "Type: Deck\r\nCondition: Used\r\nBrand: Blood Wizard\r\nModel: Future Silver 2019\r\nCompatible game version: 0.0.0.5x or 4.24.3\r\n\r\nReplaces Ghost with a Boner 8.25",
       "Version": 1.0,
       "Author": "Wattie",
       "DownloadLink": "rsmm://Url/https$github.com/WattieSession/SessionMods/releases/download/d34/bloodwizard-future.zip",
       "PreviewImage": "https://user-images.githubusercontent.com/60822222/74212211-0ac10680-4c48-11ea-833b-e2d98a43a51b.png",
       "Category": "session-decks",
-      "UpdatedDate": "2020-02-01T00:00:00"
+      "UpdatedDate": "2020-01-31T08:00:00Z"
     },
     {
       "ID": "bw-given.zip",
       "IDWithoutExtension": "bw-given",
       "Name": "Blood Wizard Given 2019",
-      "Description": "Type: Deck\r\nCondition: Used\r\nBrand: Blood Wizard\r\nModel: Given 2019\r\n\r\nReplaces Black Eye deck",
+      "Description": "Type: Deck\r\nCondition: Used\r\nBrand: Blood Wizard\r\nModel: Given 2019\r\nCompatible game version: 0.0.0.5x or 4.24.3\r\n\r\nReplaces Black Eye deck",
       "Version": 1.0,
       "Author": "Wattie",
       "DownloadLink": "rsmm://Url/https$github.com/WattieSession/SessionMods/releases/download/d33/bw-given.zip",
       "PreviewImage": "https://user-images.githubusercontent.com/60822222/74212167-ce8da600-4c47-11ea-921d-68a752907681.png",
       "Category": "session-decks",
-      "UpdatedDate": "2020-02-10T21:38:07.3134421-08:00"
+      "UpdatedDate": "2020-02-10T08:00:00Z"
     },
     {
       "ID": "bw-kowalski.zip",
       "IDWithoutExtension": "bw-kowalski",
       "Name": "Blood Wizard Kowalski 2019",
-      "Description": "Type: Deck\r\nCondition: Used\r\nBrand: Blood Wizard\r\nModel: Kowalski 2019\r\n\r\nReplaces Black Eye deck",
+      "Description": "Type: Deck\r\nCondition: Used\r\nBrand: Blood Wizard\r\nModel: Kowalski 2019\r\nCompatible game version: 0.0.0.5x or 4.24.3\r\n\r\nReplaces Black Eye deck",
       "Version": 1.0,
       "Author": "Wattie",
       "DownloadLink": "rsmm://Url/https$github.com/WattieSession/SessionMods/releases/download/d32/bw-kowalski.zip",
       "PreviewImage": "https://user-images.githubusercontent.com/60822222/74212142-ad2cba00-4c47-11ea-9e7d-001241c4b55f.png",
       "Category": "session-decks",
-      "UpdatedDate": "2020-02-10T21:39:26.5263739-08:00"
+      "UpdatedDate": "2020-02-10T08:00:00Z"
     },
     {
       "ID": "cliche-101-natas-devil-v1.zip",
       "IDWithoutExtension": "cliche-101-natas-devil-v1",
       "Name": "Cliche 101 Natas Devil",
-      "Description": "Type: Deck\r\nCondition: Used\r\nBrand: Cliche 101\r\nModel: Natas Devil\r\n\r\nReplaces Sword Swalloer 8.25",
+      "Description": "Type: Deck\r\nCondition: Used\r\nBrand: Cliche 101\r\nModel: Natas Devil\r\nCompatible game version: 0.0.0.5x or 4.24.3\r\n\r\nReplaces Sword Swalloer 8.25",
       "Version": 1.0,
       "Author": "Wattie",
       "DownloadLink": "rsmm://Url/https$github.com/WattieSession/SessionMods/releases/download/d31/cliche-101-natas-devil-v1.zip",
       "PreviewImage": "https://user-images.githubusercontent.com/60822222/74212101-79ea2b00-4c47-11ea-84d3-f80902d871d2.png",
       "Category": "session-decks",
-      "UpdatedDate": "2020-02-10T21:40:43.7594153-08:00"
+      "UpdatedDate": "2020-02-10T08:00:00Z"
     },
     {
       "ID": "Creature-Bingaman-Cannabis.zip",
       "IDWithoutExtension": "Creature-Bingaman-Cannabis",
       "Name": "Creature Bingaman Cannabis",
-      "Description": "Type: Deck\r\nCondition: Used\r\nBrand: Creature\r\nModel: Bingaman Cannabis\r\n\r\nReplaces Toxic Eyes 8",
+      "Description": "Type: Deck\r\nCondition: Used\r\nBrand: Creature\r\nModel: Bingaman Cannabis\r\nCompatible game version: 0.0.0.5x or 4.24.3\r\n\r\nReplaces Toxic Eyes 8",
       "Version": 1.0,
       "Author": "Wattie",
       "DownloadLink": "rsmm://Url/https$github.com/WattieSession/SessionMods/releases/download/d30/Creature-Bingaman-Cannabis.zip",
       "PreviewImage": "https://user-images.githubusercontent.com/60822222/74212035-3d1e3400-4c47-11ea-8fde-bd292b0884a1.png",
       "Category": "session-decks",
-      "UpdatedDate": "2020-02-10T21:42:06.7311591-08:00"
+      "UpdatedDate": "2020-02-10T08:00:00Z"
     },
     {
       "ID": "dck-deez-avo.zip",
       "IDWithoutExtension": "dck-deez-avo",
       "Name": "Deedz Avocado",
-      "Description": "Type: Deck\r\nCondition: Used\r\nBrand: Deedz\r\nModel: Avocado\r\n\r\nReplaces Required Reading",
+      "Description": "Type: Deck\r\nCondition: Used\r\nBrand: Deedz\r\nModel: Avocado\r\nCompatible game version: 0.0.0.5x or 4.24.3\r\n\r\nReplaces Required Reading",
       "Version": 1.0,
       "Author": "Wattie",
       "DownloadLink": "rsmm://Url/https$github.com/WattieSession/SessionMods/releases/download/d29/dck-deez-avo.zip",
       "PreviewImage": "https://user-images.githubusercontent.com/60822222/74211976-0811e180-4c47-11ea-86c3-87f1df222996.png",
       "Category": "session-decks",
-      "UpdatedDate": "2020-02-10T00:00:00-08:00"
+      "UpdatedDate": "2020-02-10T08:00:00Z"
     },
     {
       "ID": "foundation-rc-trix.zip",
       "IDWithoutExtension": "foundation-rc-trix",
       "Name": "Foundation Ronny Creager Trix",
-      "Description": "Type: Deck\r\nCondition: Used\r\nBrand: Foundation\r\nModel: Ronny Creager Trix\r\n\r\nReplaces Ghost with a boner 8.25",
+      "Description": "Type: Deck\r\nCondition: Used\r\nBrand: Foundation\r\nModel: Ronny Creager Trix\r\nCompatible game version: 0.0.0.5x or 4.24.3\r\n\r\nReplaces Ghost with a boner 8.25",
       "Version": 1.0,
       "Author": "Wattie",
       "DownloadLink": "rsmm://Url/https$github.com/WattieSession/SessionMods/releases/download/d26/foundation-rc-trix.zip",
       "PreviewImage": "https://user-images.githubusercontent.com/60822222/74211824-7013f800-4c46-11ea-8e2b-d874ca891f8e.png",
       "Category": "session-decks",
-      "UpdatedDate": "2020-02-10T22:06:34.999858-08:00"
+      "UpdatedDate": "2020-02-10T08:00:00Z"
     },
     {
       "ID": "Girl-MC-dali.zip",
       "IDWithoutExtension": "Girl-MC-dali",
       "Name": "Girl Mike Carroll Dali Skull",
-      "Description": "Type: Deck\r\nCondition: Used\r\nBrand: Girl\r\nModel: Mike Carrol Dali Skull\r\n\r\nReplaces Toxic Eyes 8",
+      "Description": "Type: Deck\r\nCondition: Used\r\nBrand: Girl\r\nModel: Mike Carrol Dali Skull\r\nCompatible game version: 0.0.0.5x or 4.24.3\r\n\r\nReplaces Toxic Eyes 8",
       "Version": 1.0,
       "Author": "Wattie",
       "DownloadLink": "rsmm://Url/https$github.com/WattieSession/SessionMods/releases/download/d25/Girl-MC-dali.zip",
       "PreviewImage": "https://user-images.githubusercontent.com/60822222/74211786-43f87700-4c46-11ea-8167-612ce4647ba6.png",
       "Category": "session-decks",
-      "UpdatedDate": "2020-02-10T22:08:16.8212457-08:00"
+      "UpdatedDate": "2020-02-10T08:00:00Z"
     },
     {
       "ID": "Girl.x.Alife.-.Budwesier.zip",
       "IDWithoutExtension": "Girl.x.Alife.-.Budwesier",
       "Name": "Girl x Alife Budweiser",
-      "Description": "Type: Deck\r\nCondition: Used\r\nBrand: Girl\r\nModel: Alife x Budweiser\r\n\r\nReplaces Sword Swallower 8.25",
+      "Description": "Type: Deck\r\nCondition: Used\r\nBrand: Girl\r\nModel: Alife x Budweiser\r\nCompatible game version: 0.0.0.5x or 4.24.3\r\n\r\nReplaces Sword Swallower 8.25",
       "Version": 1.0,
       "Author": "Wattie",
       "DownloadLink": "rsmm://Url/https$github.com/WattieSession/SessionMods/releases/download/d24/Girl.x.Alife.-.Budwesier.zip",
       "PreviewImage": "https://user-images.githubusercontent.com/60822222/74211734-114e7e80-4c46-11ea-9cb6-d6c3de15bd60.png",
       "Category": "session-decks",
-      "UpdatedDate": "2020-02-10T22:09:32.5540485-08:00"
+      "UpdatedDate": "2020-02-10T08:00:00Z"
     },
     {
       "ID": "dck-hockey-kadow-shatter.zip",
       "IDWithoutExtension": "dck-hockey-kadow-shatter",
       "Name": "Hockey Kadow Shatter",
-      "Description": "Type: Deck\r\nCondition: Used\r\nBrand: Hockey\r\nModel: Kadow Shatter\r\n\r\nReplaces Half Roger",
+      "Description": "Type: Deck\r\nCondition: Used\r\nBrand: Hockey\r\nModel: Kadow Shatter\r\nCompatible game version: 0.0.0.5x or 4.24.3\r\n\r\nReplaces Half Roger",
       "Version": 1.0,
       "Author": "Wattie",
       "DownloadLink": "rsmm://Url/https$github.com/WattieSession/SessionMods/releases/download/d21/dck-hockey-kadow-shatter.zip",
       "PreviewImage": "https://user-images.githubusercontent.com/60822222/74211640-af8e1480-4c45-11ea-89da-55eb1a5dbee2.png",
       "Category": "session-decks",
-      "UpdatedDate": "2020-02-10T22:39:10.2053324-08:00"
+      "UpdatedDate": "2020-02-10T08:00:00Z"
     },
     {
       "ID": "hookups-jetpilot.zip",
       "IDWithoutExtension": "hookups-jetpilot",
       "Name": "Hookups Jet Pilot",
-      "Description": "Type: Deck\r\nCondition: Used\r\nBrand: Hook Ups\r\nModel: Jet Pilot\r\n\r\nReplaces Half a Roger 8.125",
+      "Description": "Type: Deck\r\nCondition: Used\r\nBrand: Hook Ups\r\nModel: Jet Pilot\r\nCompatible game version: 0.0.0.5x or 4.24.3\r\n\r\nReplaces Half a Roger 8.125",
       "Version": 1.0,
       "Author": "Wattie",
       "DownloadLink": "rsmm://Url/https$github.com/WattieSession/SessionMods/releases/download/d20/hookups-jetpilot.zip",
       "PreviewImage": "https://user-images.githubusercontent.com/60822222/74211608-7fdf0c80-4c45-11ea-86df-afed87926a6b.png",
       "Category": "session-decks",
-      "UpdatedDate": "2020-02-10T22:38:58.5341427-08:00"
+      "UpdatedDate": "2020-02-10T08:00:00Z"
     },
     {
       "ID": "jk-tetsuo-mutation.zip",
       "IDWithoutExtension": "jk-tetsuo-mutation",
       "Name": "World Industries JK Tetsuo Mutation",
-      "Description": "Type: Deck\r\nCondition: Used\r\nBrand: World Industries (JK)\r\nModel: Tetsuo Mutation\r\n\r\nReplaces OG Graphic 8.5",
+      "Description": "Type: Deck\r\nCondition: Used\r\nBrand: World Industries (JK)\r\nModel: Tetsuo Mutation\r\nCompatible game version: 0.0.0.5x or 4.24.3\r\n\r\nReplaces OG Graphic 8.5",
       "Version": 1.0,
       "Author": "Wattie",
       "DownloadLink": "rsmm://Url/https$github.com/WattieSession/SessionMods/releases/download/d18/jk-tetsuo-mutation.zip",
       "PreviewImage": "https://user-images.githubusercontent.com/60822222/74211534-1f4fcf80-4c45-11ea-911f-3ef6213622a2.png",
       "Category": "session-decks",
-      "UpdatedDate": "2020-02-10T22:38:54.1729194-08:00"
+      "UpdatedDate": "2020-02-10T08:00:00Z"
     },
     {
       "ID": "krooked-chicoguest-yel.zip",
       "IDWithoutExtension": "krooked-chicoguest-yel",
       "Name": "Krooked Chico Brenes Guest Yellow",
-      "Description": "Type: Deck\r\nCondition: Used\r\nBrand: Krooked\r\nModel: Chico Brenes Guest Board (Yellow)\r\n\r\nReplaces Anatomy of an egg deck",
+      "Description": "Type: Deck\r\nCondition: Used\r\nBrand: Krooked\r\nModel: Chico Brenes Guest Board (Yellow)\r\nCompatible game version: 0.0.0.5x or 4.24.3\r\n\r\nReplaces Anatomy of an egg deck",
       "Version": 1.0,
       "Author": "Wattie",
       "DownloadLink": "rsmm://Url/https$github.com/WattieSession/SessionMods/releases/download/d17/krooked-chicoguest-yel.zip",
       "PreviewImage": "https://user-images.githubusercontent.com/60822222/74211452-d435bc80-4c44-11ea-9017-e00574f27394.png",
       "Category": "session-decks",
-      "UpdatedDate": "2020-02-10T22:38:51.9491596-08:00"
+      "UpdatedDate": "2020-02-10T08:00:00Z"
     },
     {
       "ID": "krooked-zipzogger-green.zip",
       "IDWithoutExtension": "krooked-zipzogger-green",
       "Name": "Krooked Zip Zogger",
-      "Description": "Type: Deck\r\nCondition: Used\r\nBrand: Krooked\r\nModel: Zip Zogger\r\n\r\nReplaces Very Big Egg deck",
+      "Description": "Type: Deck\r\nCondition: Used\r\nBrand: Krooked\r\nModel: Zip Zogger\r\nCompatible game version: 0.0.0.5x or 4.24.3\r\n\r\nReplaces Very Big Egg deck",
       "Version": 1.0,
       "Author": "Wattie",
       "DownloadLink": "rsmm://Url/https$github.com/WattieSession/SessionMods/releases/download/d16/krooked-zipzogger-green.zip",
       "PreviewImage": "https://user-images.githubusercontent.com/60822222/74211402-a05a9700-4c44-11ea-9530-aa50eb11ccdc.png",
       "Category": "session-decks",
-      "UpdatedDate": "2020-02-10T22:38:46.3714328-08:00"
+      "UpdatedDate": "2020-02-10T08:00:00Z"
     },
     {
       "ID": "dck-planb-mullen-yoda-clean.zip",
       "IDWithoutExtension": "dck-planb-mullen-yoda-clean",
       "Name": "Plan B Mullen Yoda (clean)",
-      "Description": "Type: Deck\r\nCondition: New\r\nBrand: Plan B\r\nModel: Rodney Mullen - Yoda\r\n\r\nReplaces sword swallower 8.25",
+      "Description": "Type: Deck\r\nCondition: New\r\nBrand: Plan B\r\nModel: Rodney Mullen - Yoda\r\nCompatible game version: 0.0.0.5x or 4.24.3\r\n\r\nReplaces sword swallower 8.25",
       "Version": 1.0,
       "Author": "Wattie",
       "DownloadLink": "rsmm://Url/https$github.com/WattieSession/SessionMods/releases/download/d14/dck-planb-mullen-yoda-clean.zip",
       "PreviewImage": "https://user-images.githubusercontent.com/60822222/74211308-2e824d80-4c44-11ea-9b13-568c2fdd7b48.png",
       "Category": "session-decks",
-      "UpdatedDate": "2020-02-10T22:38:41.6197944-08:00"
+      "UpdatedDate": "2020-02-10T08:00:00Z"
     },
     {
       "ID": "Prime.Wood.-.Jason.Lee.-.Bowie.zip",
       "IDWithoutExtension": "Prime.Wood.-.Jason.Lee.-.Bowie",
       "Name": "Prime Wood Jason Lee Bowie",
-      "Description": "Type: Deck\r\nCondition: Used\r\nBrand: Prime Wood\r\nModel: Jason Lee Bowie\r\n\r\nReplaces Weedcobra 8.125",
+      "Description": "Type: Deck\r\nCondition: Used\r\nBrand: Prime Wood\r\nModel: Jason Lee Bowie\r\nCompatible game version: 0.0.0.5x or 4.24.3\r\n\r\nReplaces Weedcobra 8.125",
       "Version": 1.0,
       "Author": "Wattie",
       "DownloadLink": "rsmm://Url/https$github.com/WattieSession/SessionMods/releases/download/d12/Prime.Wood.-.Jason.Lee.-.Bowie.zip",
       "PreviewImage": "https://user-images.githubusercontent.com/60822222/74211184-9d12db80-4c43-11ea-91e9-5862eb771994.png",
       "Category": "session-decks",
-      "UpdatedDate": "2020-02-10T22:38:36.6325-08:00"
+      "UpdatedDate": "2020-02-10T08:00:00Z"
     },
     {
       "ID": "Real-kbird.zip",
       "IDWithoutExtension": "Real-kbird",
       "Name": "Real KBird",
-      "Description": "Type: Deck\r\nCondition: Used\r\nBrand: Real\r\nModel: KBird\r\n\r\nReplaces Ghost with a boner 8.25",
+      "Description": "Type: Deck\r\nCondition: Used\r\nBrand: Real\r\nModel: KBird\r\nCompatible game version: 0.0.0.5x or 4.24.3\r\n\r\nReplaces Ghost with a boner 8.25",
       "Version": 1.0,
       "Author": "Wattie",
       "DownloadLink": "rsmm://Url/https$github.com/WattieSession/SessionMods/releases/download/d11/Real-kbird.zip",
       "PreviewImage": "https://user-images.githubusercontent.com/60822222/74211140-6937b600-4c43-11ea-9484-d07e82843eaf.png",
       "Category": "session-decks",
-      "UpdatedDate": "2020-02-10T22:38:33.7571528-08:00"
+      "UpdatedDate": "2020-02-10T08:00:00Z"
     },
     {
       "ID": "sp-barnyard19.zip",
       "IDWithoutExtension": "sp-barnyard19",
       "Name": "Street Plant Barnyard 2019",
-      "Description": "Type: Deck\r\nCondition: Used\r\nBrand: Street Plant\r\nModel: Barnyard 2019\r\n\r\nReplaces Black Eye deck",
+      "Description": "Type: Deck\r\nCondition: Used\r\nBrand: Street Plant\r\nModel: Barnyard 2019\r\nCompatible game version: 0.0.0.5x or 4.24.3\r\n\r\nReplaces Black Eye deck",
       "Version": 1.0,
       "Author": "Wattie",
       "DownloadLink": "rsmm://Url/https$github.com/WattieSession/SessionMods/releases/download/d10/sp-barnyard19.zip",
       "PreviewImage": "https://user-images.githubusercontent.com/60822222/74211076-2d9cec00-4c43-11ea-932f-338d4914a15c.png",
       "Category": "session-decks",
-      "UpdatedDate": "2020-02-10T22:38:31.0893036-08:00"
+      "UpdatedDate": "2020-02-10T08:00:00Z"
     },
     {
       "ID": "dck-vision-psychostick.zip",
       "IDWithoutExtension": "dck-vision-psychostick",
       "Name": "Vision Psycho Stick",
-      "Description": "Type: Deck\r\nCondition: Used\r\nBrand: Vision\r\nModel: Psycho Stick\r\n\r\nReplaces Toxic Eyes deck",
+      "Description": "Type: Deck\r\nCondition: Used\r\nBrand: Vision\r\nModel: Psycho Stick\r\nCompatible game version: 0.0.0.5x or 4.24.3\r\n\r\nReplaces Toxic Eyes deck",
       "Version": 1.0,
       "Author": "Wattie",
       "DownloadLink": "rsmm://Url/https$github.com/WattieSession/SessionMods/releases/download/d9/dck-vision-psychostick.zip",
       "PreviewImage": "https://user-images.githubusercontent.com/60822222/74211022-f75f6c80-4c42-11ea-843f-92e895687ccb.png",
       "Category": "session-decks",
-      "UpdatedDate": "2020-02-10T22:38:28.9812539-08:00"
+      "UpdatedDate": "2020-02-10T08:00:00Z"
     },
     {
       "ID": "wi-jk-tetsuo-v1.zip",
       "IDWithoutExtension": "wi-jk-tetsuo-v1",
       "Name": "World Industries JK Tetsuo 1",
-      "Description": "Type: Deck\r\nCondition: Used\r\nBrand: World Industries (JK)\r\nModel: Tetsuo 1\r\n\r\nReplaces Weedcobra 8.125",
+      "Description": "Type: Deck\r\nCondition: Used\r\nBrand: World Industries (JK)\r\nModel: Tetsuo 1\r\nCompatible game version: 0.0.0.5x or 4.24.3\r\n\r\nReplaces Weedcobra 8.125",
       "Version": 1.0,
       "Author": "Wattie",
       "DownloadLink": "rsmm://Url/https$github.com/WattieSession/SessionMods/releases/download/d8/wi-jk-tetsuo-v1.zip",
       "PreviewImage": "https://user-images.githubusercontent.com/60822222/74210965-b10a0d80-4c42-11ea-9807-8d96a4d47962.png",
       "Category": "session-decks",
-      "UpdatedDate": "2020-02-10T22:38:26.797591-08:00"
+      "UpdatedDate": "2020-02-10T08:00:00Z"
     },
     {
       "ID": "wi-jk-tetsuo2.zip",
       "IDWithoutExtension": "wi-jk-tetsuo2",
       "Name": "World Industries JK Tetsuo 2",
-      "Description": "Type: Deck\r\nCondition: Used\r\nBrand: World Industries (JK)\r\nModel: Tetsuo 2\r\n\r\nReplaces Weedcobra 8.125",
+      "Description": "Type: Deck\r\nCondition: Used\r\nBrand: World Industries (JK)\r\nModel: Tetsuo 2\r\nCompatible game version: 0.0.0.5x or 4.24.3\r\n\r\nReplaces Weedcobra 8.125",
       "Version": 1.0,
       "Author": "Wattie",
       "DownloadLink": "rsmm://Url/https$github.com/WattieSession/SessionMods/releases/download/d7/wi-jk-tetsuo2.zip",
       "PreviewImage": "https://user-images.githubusercontent.com/60822222/74210925-84ee8c80-4c42-11ea-92c0-918ad7649b18.png",
       "Category": "session-decks",
-      "UpdatedDate": "2020-02-10T22:38:24.0595419-08:00"
+      "UpdatedDate": "2020-02-10T08:00:00Z"
     },
     {
       "ID": "wi-jk-tetsuo3.zip",
       "IDWithoutExtension": "wi-jk-tetsuo3",
       "Name": "World Industries JK Tetsuo 3",
-      "Description": "Type: Deck\r\nCondition: Used\r\nBrand: World Industries (JK)\r\nModel: Tetsuo 3\r\n\r\nReplaces Dog Balls 8.125",
+      "Description": "Type: Deck\r\nCondition: Used\r\nBrand: World Industries (JK)\r\nModel: Tetsuo 3\r\nCompatible game version: 0.0.0.5x or 4.24.3\r\n\r\nReplaces Dog Balls 8.125",
       "Version": 1.0,
       "Author": "Wattie",
       "DownloadLink": "rsmm://Url/https$github.com/WattieSession/SessionMods/releases/download/d6/wi-jk-tetsuo3.zip",
       "PreviewImage": "https://user-images.githubusercontent.com/60822222/74210869-54a6ee00-4c42-11ea-93e4-4376afe66964.png",
       "Category": "session-decks",
-      "UpdatedDate": "2020-02-10T22:38:21.8649353-08:00"
+      "UpdatedDate": "2020-02-10T08:00:00Z"
     },
     {
       "ID": "dck-zero-allie-taxi.zip",
       "IDWithoutExtension": "dck-zero-allie-taxi",
       "Name": "Zero Allie Taxi Driver",
-      "Description": "Type: Deck\r\nCondition: Used\r\nBrand: Zero\r\nModel: Allie Taxi Driver\r\n\r\nReplaces Free the hand deck",
+      "Description": "Type: Deck\r\nCondition: Used\r\nBrand: Zero\r\nModel: Allie Taxi Driver\r\nCompatible game version: 0.0.0.5x or 4.24.3\r\n\r\nReplaces Free the hand deck",
       "Version": 1.0,
       "Author": "Wattie",
       "DownloadLink": "rsmm://Url/https$github.com/WattieSession/SessionMods/releases/download/d5/dck-zero-allie-taxi.zip",
       "PreviewImage": "https://user-images.githubusercontent.com/60822222/74210806-17426080-4c42-11ea-8433-8028b5028cda.png",
       "Category": "session-decks",
-      "UpdatedDate": "2020-02-10T22:38:19.6203718-08:00"
+      "UpdatedDate": "2020-02-10T08:00:00Z"
     },
     {
       "ID": "dck-zero-bold.zip",
       "IDWithoutExtension": "dck-zero-bold",
       "Name": "Zero Bold",
-      "Description": "Type: Deck\r\nCondition: Used\r\nBrand: Zero\r\nModel: Bold\r\n\r\nReplaces Half a Roger 8.125",
+      "Description": "Type: Deck\r\nCondition: Used\r\nBrand: Zero\r\nModel: Bold\r\nCompatible game version: 0.0.0.5x or 4.24.3\r\n\r\nReplaces Half a Roger 8.125",
       "Version": 1.0,
       "Author": "Wattie",
       "DownloadLink": "rsmm://Url/https$github.com/WattieSession/SessionMods/releases/download/d4/dck-zero-bold.zip",
       "PreviewImage": "https://user-images.githubusercontent.com/60822222/74210758-e7935880-4c41-11ea-86d0-db39706f9a8f.png",
       "Category": "session-decks",
-      "UpdatedDate": "2020-02-10T22:38:17.7383515-08:00"
+      "UpdatedDate": "2020-02-10T08:00:00Z"
     },
     {
       "ID": "dck-zero-misfits-ad.zip",
       "IDWithoutExtension": "dck-zero-misfits-ad",
       "Name": "Zero Misfits A.D.",
-      "Description": "Type: Deck\r\nCondition: Used\r\nBrand: Zero\r\nModel: Misfits A.D.\r\n\r\nReplaces First Place deck",
+      "Description": "Type: Deck\r\nCondition: Used\r\nBrand: Zero\r\nModel: Misfits A.D.\r\nCompatible game version: 0.0.0.5x or 4.24.3\r\n\r\nReplaces First Place deck",
       "Version": 1.0,
       "Author": "Wattie",
       "DownloadLink": "rsmm://Url/https$github.com/WattieSession/SessionMods/releases/download/d3/dck-zero-misfits-ad.zip",
       "PreviewImage": "https://user-images.githubusercontent.com/60822222/74210718-a56a1700-4c41-11ea-8268-fac0c47d6017.png",
       "Category": "session-decks",
-      "UpdatedDate": "2020-02-10T00:00:00-08:00"
+      "UpdatedDate": "2020-02-10T08:00:00Z"
     },
     {
       "ID": "zooyork-tag-gld.zip",
       "IDWithoutExtension": "zooyork-tag-gld",
       "Name": "Zoo York Gold Tag",
-      "Description": "Type: Deck\r\nCondition: Used\r\nBrand: Zoo York\r\nModel: Gold Tag\r\n\r\nReplaces Weedcobra 8.125",
+      "Description": "Type: Deck\r\nCondition: Used\r\nBrand: Zoo York\r\nModel: Gold Tag\r\nCompatible game version: 0.0.0.5x or 4.24.3\r\n\r\nReplaces Weedcobra 8.125",
       "Version": 1.0,
       "Author": "Wattie",
       "DownloadLink": "rsmm://Url/https$github.com/WattieSession/SessionMods/releases/download/d2/zooyork-tag-gld.zip",
       "PreviewImage": "https://user-images.githubusercontent.com/60822222/74210658-6c31a700-4c41-11ea-9c37-f1c6a7d56172.png",
       "Category": "session-decks",
-      "UpdatedDate": "2020-02-10T22:38:13.2387929-08:00"
+      "UpdatedDate": "2020-02-10T08:00:00Z"
     },
     {
       "ID": "zooyorkxrime.zip",
       "IDWithoutExtension": "zooyorkxrime",
       "Name": "Zoo York x Rime",
-      "Description": "Type: Deck\r\nCondition: Used\r\nBrand: Zoo York\r\nModel: X Rime\r\n\r\nReplaces Doodlers 8.5",
+      "Description": "Type: Deck\r\nCondition: Used\r\nBrand: Zoo York\r\nModel: X Rime\r\nCompatible game version: 0.0.0.5x or 4.24.3\r\n\r\nReplaces Doodlers 8.5",
       "Version": 1.0,
       "Author": "Wattie",
       "DownloadLink": "rsmm://Url/https$github.com/WattieSession/SessionMods/releases/download/d1/zooyorkxrime.zip",
       "PreviewImage": "https://user-images.githubusercontent.com/60822222/74210624-3f7d8f80-4c41-11ea-938f-2fa05994c4a2.png",
       "Category": "session-decks",
-      "UpdatedDate": "2020-02-10T00:00:00-08:00"
+      "UpdatedDate": "2020-02-10T08:00:00Z"
     },
     {
       "ID": "nike-sb-low-rayguns-wht.zip",
       "IDWithoutExtension": "nike-sb-low-rayguns-wht",
       "Name": "Nike SB - Lows - Rayguns - White",
-      "Description": "Condition: New\r\nBrand: Nike SB\r\nModel: Lows - Rayguns\r\nColor: White\r\nVersion: 1\r\n\r\nIMPORTANT\r\n\r\nPlease install [Shoes] Low Top Skate Shoe Mesh in the meshes section for the proper look.\r\n\r\nReplaces Mid Top in game.\r\n\r\nFor my latest releases: https://github.com/WattieSession/SessionMods/releases",
+      "Description": "Condition: New\r\nBrand: Nike SB\r\nModel: Lows - Rayguns\r\nColor: White\r\nVersion: 1\r\nCompatible game version: 0.0.0.5x or 4.24.3\r\n\r\nIMPORTANT\r\n\r\nPlease install [Shoes] Low Top Skate Shoe Mesh in the meshes section for the proper look.\r\n\r\nReplaces Mid Top in game.\r\n\r\nFor my latest releases: https://github.com/WattieSession/SessionMods/releases",
       "Version": 1.0,
       "Author": "Wattie",
       "DownloadLink": "rsmm://Url/https$github.com/WattieSession/SessionMods/releases/download/n6/nike-sb-low-rayguns-wht.zip",
       "PreviewImage": "https://user-images.githubusercontent.com/60822222/74305017-8b990480-4d13-11ea-82db-9a30da5b762e.png",
       "Category": "session-shoes",
-      "UpdatedDate": "2020-01-26T00:00:00-08:00"
+      "UpdatedDate": "2020-01-26T08:00:00Z"
     },
     {
       "ID": "nike-sb-freddy.zip",
       "IDWithoutExtension": "nike-sb-freddy",
       "Name": "Nike SB - Lows - Freddy",
-      "Description": "Condition: New\r\nBrand: Nike\r\nModel: Lows - Freddy\r\nVersion:1\r\n\r\nIMPORTANT\r\n\r\nPlease install [Shoes] Low Top Skate Shoe Mesh in the meshes section for the proper look.\r\n\r\nReplaces Mid Top in game.\r\n\r\nFor my latest releases: https://github.com/WattieSession/SessionMods/releases",
+      "Description": "Condition: New\r\nBrand: Nike\r\nModel: Lows - Freddy\r\nVersion:1\r\nCompatible game version: 0.0.0.5x or 4.24.3\r\n\r\nIMPORTANT\r\n\r\nPlease install [Shoes] Low Top Skate Shoe Mesh in the meshes section for the proper look.\r\n\r\nReplaces Mid Top in game.\r\n\r\nFor my latest releases: https://github.com/WattieSession/SessionMods/releases",
       "Version": 1.0,
       "Author": "Wattie",
       "DownloadLink": "rsmm://Url/https$github.com/WattieSession/SessionMods/releases/download/n3/nike-sb-freddy.zip",
       "PreviewImage": "https://user-images.githubusercontent.com/60822222/74304710-adde5280-4d12-11ea-81c0-90a2d3ac7ab0.png",
       "Category": "session-shoes",
-      "UpdatedDate": "2020-01-24T00:00:00"
+      "UpdatedDate": "2020-01-23T08:00:00Z"
     },
     {
       "ID": "Spitfire-tablets-99d-normal.zip",
       "IDWithoutExtension": "Spitfire-tablets-99d-normal",
       "Name": "Spitfire - Tablets",
-      "Description": "Condition: Used\r\nBrand: Spitfire\r\nModel: Tablets\r\nSize: Any\r\nColor: White\r\nVersion: 1",
+      "Description": "Condition: Used\r\nBrand: Spitfire\r\nModel: Tablets\r\nSize: Any\r\nColor: White\r\nCompatible game version: 0.0.0.5x or 4.24.3",
       "Version": 1.0,
       "Author": "Wattie",
       "DownloadLink": "rsmm://Url/https$github.com/WattieSession/SessionMods/releases/download/w10/Spitfire-tablets-99d-normal.zip",
       "PreviewImage": "https://user-images.githubusercontent.com/60822222/74366789-8379ad00-4d85-11ea-8000-9d78404f453a.png",
       "Category": "session-wheels",
-      "UpdatedDate": "2020-02-12T13:06:12.7706737-08:00"
+      "UpdatedDate": "2020-02-12T08:00:00Z"
     },
     {
       "ID": "spitfire_tablets_99d_flipped.zip",
       "IDWithoutExtension": "spitfire_tablets_99d_flipped",
       "Name": "Spitfire - Tablets - Flipped",
-      "Description": "Condition: Used\r\nBrand: Spitfire\r\nModel: Tablets - Flipped\r\nSize: Any\r\nColor: White\r\nVersion: 1",
+      "Description": "Condition: Used\r\nBrand: Spitfire\r\nModel: Tablets - Flipped\r\nSize: Any\r\nColor: White\r\nCompatible game version: 0.0.0.5x or 4.24.3",
       "Version": 1.0,
       "Author": "Wattie",
       "DownloadLink": "rsmm://Url/https$github.com/WattieSession/SessionMods/releases/download/w9/spitfire_tablets_99d_flipped.zip",
       "PreviewImage": "https://user-images.githubusercontent.com/60822222/74363471-7bb70a00-4d7f-11ea-8b91-97e32289503b.PNG",
       "Category": "session-wheels",
-      "UpdatedDate": "2020-02-12T00:00:00"
+      "UpdatedDate": "2020-02-11T08:00:00Z"
     },
     {
       "ID": "sf-lockins-normal.zip",
       "IDWithoutExtension": "sf-lockins-normal",
       "Name": "Spitfire - Lock In's - Reds",
-      "Description": "Condition: Used\r\nBrand: Spitfire\r\nModel: Lock In's Blues\r\nSize: Any\r\nColor: White\r\nVersion: 1",
+      "Description": "Condition: Used\r\nBrand: Spitfire\r\nModel: Lock In's Blues\r\nSize: Any\r\nColor: White\r\nCompatible game version: 0.0.0.5x or 4.24.3",
       "Version": 1.0,
       "Author": "Wattie",
       "DownloadLink": "rsmm://Url/https$github.com/WattieSession/SessionMods/releases/download/w8/sf-lockins-normal.zip",
       "PreviewImage": "https://user-images.githubusercontent.com/60822222/74363344-41e60380-4d7f-11ea-8b77-e99d5b0a0480.png",
       "Category": "session-wheels",
-      "UpdatedDate": "2020-02-11T00:00:00"
+      "UpdatedDate": "2020-02-10T08:00:00Z"
     },
     {
       "ID": "sf-cardiels-blk-flipped.zip",
       "IDWithoutExtension": "sf-cardiels-blk-flipped",
       "Name": "Spitfire - Cardiel's - Black - Flipped",
-      "Description": "Condition: Used\r\nBrand: Spitfire\r\nModel: Cardiel's\r\nSize: Any\r\nColor: Black\r\nVersion: 1",
+      "Description": "Condition: Used\r\nBrand: Spitfire\r\nModel: Cardiel's\r\nSize: Any\r\nColor: Black\r\nCompatible game version: 0.0.0.5x or 4.24.3",
       "Version": 1.0,
       "Author": "Wattie",
       "DownloadLink": "rsmm://Url/https$github.com/WattieSession/SessionMods/releases/download/w7/sf-cardiels-blk-flipped.zip",
       "PreviewImage": "https://user-images.githubusercontent.com/60822222/74363265-0f3c0b00-4d7f-11ea-9e12-0f38c8d304c7.png",
       "Category": "session-wheels",
-      "UpdatedDate": "2020-02-10T00:00:00"
+      "UpdatedDate": "2020-02-09T08:00:00Z"
     },
     {
       "ID": "sf-cardiel-blk-normal.zip",
       "IDWithoutExtension": "sf-cardiel-blk-normal",
       "Name": "Spitfire - Cardiel's - Black",
-      "Description": "Condition: Used\r\nBrand: Spitfire\r\nModel: Cardiel's\r\nSize: Any\r\nColor: Black\r\nVersion: 1",
+      "Description": "Condition: Used\r\nBrand: Spitfire\r\nModel: Cardiel's\r\nSize: Any\r\nColor: Black\r\nCompatible game version: 0.0.0.5x or 4.24.3",
       "Version": 1.0,
       "Author": "Wattie",
       "DownloadLink": "rsmm://Url/https$github.com/WattieSession/SessionMods/releases/download/w6/sf-cardiel-blk-normal.zip",
       "PreviewImage": "https://user-images.githubusercontent.com/60822222/74363200-ef0c4c00-4d7e-11ea-9392-db36098cbb46.png",
       "Category": "session-wheels",
-      "UpdatedDate": "2020-02-09T00:00:00"
+      "UpdatedDate": "2020-02-08T08:00:00Z"
     },
     {
       "ID": "OJ-PlainJaneKeyframes.-.87a.zip",
       "IDWithoutExtension": "OJ-PlainJaneKeyframes.-.87a",
       "Name": "OJ - Plain Jane Keyframes",
-      "Description": "Condition: Used\r\nBrand: OJ\r\nModel: Plain Jane Keyframes\r\nSize: Any\r\nColor: White\r\nVersion: 1",
+      "Description": "Condition: Used\r\nBrand: OJ\r\nModel: Plain Jane Keyframes\r\nSize: Any\r\nColor: White\r\nCompatible game version: 0.0.0.5x or 4.24.3",
       "Version": 1.0,
       "Author": "Wattie",
       "DownloadLink": "rsmm://Url/https$github.com/WattieSession/SessionMods/releases/download/w5/OJ-PlainJaneKeyframes.-.87a.zip",
       "PreviewImage": "https://user-images.githubusercontent.com/60822222/74363067-abb1dd80-4d7e-11ea-9b66-e9b26aa564dd.png",
       "Category": "session-wheels",
-      "UpdatedDate": "2020-02-08T00:00:00"
+      "UpdatedDate": "2020-02-07T08:00:00Z"
     },
     {
       "ID": "OJ.-.Vampire.Bat.-Black.Purple-.97a.zip",
       "IDWithoutExtension": "OJ.-.Vampire.Bat.-Black.Purple-.97a",
       "Name": "OJ - Vampire Bat",
-      "Description": "Condition: Used\r\nBrand: OJ\r\nModel: Vampire Bat\r\nSize: Any\r\nColor: Purple swirl\r\nVersion: 1",
+      "Description": "Condition: Used\r\nBrand: OJ\r\nModel: Vampire Bat\r\nSize: Any\r\nColor: Purple swirl\r\nCompatible game version: 0.0.0.5x or 4.24.3",
       "Version": 1.0,
       "Author": "Wattie",
       "DownloadLink": "rsmm://Url/https$github.com/WattieSession/SessionMods/releases/download/w4/OJ.-.Vampire.Bat.-Black.Purple-.97a.zip",
       "PreviewImage": "https://user-images.githubusercontent.com/60822222/74362963-75745e00-4d7e-11ea-851c-29b10e503a76.png",
       "Category": "session-wheels",
-      "UpdatedDate": "2020-02-07T00:00:00"
+      "UpdatedDate": "2020-02-06T08:00:00Z"
     },
     {
       "ID": "bones-meangreens-stf.zip",
       "IDWithoutExtension": "bones-meangreens-stf",
       "Name": "Bones - Meangreans STF",
-      "Description": "Condition: Used\r\nBrand: Bones\r\nModel: Meangreens\r\nSize: Any\r\nColor: Green\r\nVersion: 1",
+      "Description": "Condition: Used\r\nBrand: Bones\r\nModel: Meangreens\r\nSize: Any\r\nColor: Green\r\nCompatible game version: 0.0.0.5x or 4.24.3",
       "Version": 1.0,
       "Author": "Wattie",
       "DownloadLink": "rsmm://Url/https$github.com/WattieSession/SessionMods/releases/download/w3/bones-meangreens-stf.zip",
       "PreviewImage": "https://user-images.githubusercontent.com/60822222/74362855-45c55600-4d7e-11ea-8a80-d654a086deed.png",
       "Category": "session-wheels",
-      "UpdatedDate": "2020-02-06T00:00:00"
+      "UpdatedDate": "2020-02-05T08:00:00Z"
     },
     {
       "ID": "bones-homeland.zip",
       "IDWithoutExtension": "bones-homeland",
       "Name": "Bones - Homeland",
-      "Description": "Condition: Used\r\nBrand: Bones\r\nModel: Homeland - Kowalski\r\nSize: Any\r\nColor: White\r\nVersion: 1",
+      "Description": "Condition: Used\r\nBrand: Bones\r\nModel: Homeland - Kowalski\r\nSize: Any\r\nColor: White\r\nCompatible game version: 0.0.0.5x or 4.24.3",
       "Version": 1.0,
       "Author": "Wattie",
       "DownloadLink": "rsmm://Url/https$github.com/WattieSession/SessionMods/releases/download/w2/bones-homeland.zip",
       "PreviewImage": "https://user-images.githubusercontent.com/60822222/74361994-b4a1af80-4d7c-11ea-9423-58f2e5dd12c8.png",
       "Category": "session-wheels",
-      "UpdatedDate": "2020-02-05T00:00:00"
+      "UpdatedDate": "2020-02-04T08:00:00Z"
     },
     {
       "ID": "bones-booraps-stf-103a.zip",
       "IDWithoutExtension": "bones-booraps-stf-103a",
       "Name": "Bones - Boo Raps! STF",
-      "Description": "Condition: Used\r\nBrand: Bones\r\nModel: Boo Raps!\r\nSize: Any\r\nColor: White\r\nVersion: 1",
+      "Description": "Condition: Used\r\nBrand: Bones\r\nModel: Boo Raps!\r\nSize: Any\r\nColor: White\r\nCompatible game version: 0.0.0.5x or 4.24.3",
       "Version": 1.0,
       "Author": "Wattie",
       "DownloadLink": "rsmm://Url/https$github.com/WattieSession/SessionMods/releases/download/w1/bones-booraps-stf-103a.zip",
       "PreviewImage": "https://user-images.githubusercontent.com/60822222/74361806-655b7f00-4d7c-11ea-821f-a72317f48a8b.png",
       "Category": "session-wheels",
-      "UpdatedDate": "2020-02-04T00:00:00"
+      "UpdatedDate": "2020-02-03T08:00:00Z"
     },
     {
       "ID": "st-possessed-male-tshirt.zip",
       "IDWithoutExtension": "st-possessed-male-tshirt",
       "Name": "Suicidal Tendencies - Possessed ",
-      "Description": "Type: Tshirt - Male\r\nBrand: Suicidal Tendencies\r\nSize: Any\r\nColor: White\r\nVersion: 1",
+      "Description": "Type: Tshirt - Male\r\nBrand: Suicidal Tendencies\r\nSize: Any\r\nColor: White\r\nCompatible game version: 0.0.0.5x or 4.24.3",
       "Version": 1.0,
       "Author": "Wattie",
       "DownloadLink": "rsmm://Url/https$github.com/WattieSession/SessionMods/releases/download/ts4/st-possessed-male-tshirt.zip",
       "PreviewImage": "https://user-images.githubusercontent.com/60822222/74370503-0d2c7900-4d8c-11ea-9eeb-2be0422367b2.png",
       "Category": "session-shirts",
-      "UpdatedDate": "2020-01-31T00:00:00"
+      "UpdatedDate": "2020-01-30T08:00:00Z"
     },
     {
       "ID": "bb-dc-tshirt-blk.zip",
       "IDWithoutExtension": "bb-dc-tshirt-blk",
       "Name": "Bad Brains - Banned in DC - Black",
-      "Description": "Type: Tshirt - Male\r\nCondition: New\r\nBrand: Bad Brains\r\nModel: Banned in DC Bolt\r\nSize: Any\r\nColor: Black\r\nVersion: 1",
+      "Description": "Type: Tshirt - Male\r\nCondition: New\r\nBrand: Bad Brains\r\nModel: Banned in DC Bolt\r\nSize: Any\r\nColor: Black\r\nCompatible game version: 0.0.0.5x or 4.24.3",
       "Version": 1.0,
       "Author": "Wattie",
       "DownloadLink": "rsmm://Url/https$github.com/WattieSession/SessionMods/releases/download/ts2/bb-dc-tshirt-blk.zip",
       "PreviewImage": "https://user-images.githubusercontent.com/60822222/74369097-a27a3e00-4d89-11ea-8bd4-8ac6ce968a17.PNG",
       "Category": "session-shirts",
-      "UpdatedDate": "2020-01-29T00:00:00"
+      "UpdatedDate": "2020-01-28T08:00:00Z"
     },
     {
       "ID": "Independent.Trucks.Used.zip",
       "IDWithoutExtension": "Independent.Trucks.Used",
       "Name": "Independent Trucks - Used",
-      "Description": "Condition: Used\r\nBrand: Independent\r\nModel: Used\r\nSize: Any\r\nColor: Silver\r\nVersion: 1",
+      "Description": "Condition: Used\r\nBrand: Independent\r\nModel: Used\r\nSize: Any\r\nColor: Silver\r\nCompatible game version: 0.0.0.5x or 4.24.3",
       "Version": 1.0,
       "Author": "Wattie",
       "DownloadLink": "rsmm://Url/https$github.com/WattieSession/SessionMods/releases/download/t1/Independent.Trucks.Used.zip",
       "PreviewImage": "https://user-images.githubusercontent.com/60822222/74367283-714c3e80-4d86-11ea-8d70-0f01d971db16.png",
       "Category": "session-trucks",
-      "UpdatedDate": "2020-01-27T00:00:00"
+      "UpdatedDate": "2020-01-26T08:00:00Z"
     },
     {
       "ID": "pants-camo-painters-v1.zip",
       "IDWithoutExtension": "pants-camo-painters-v1",
       "Name": "Writers Series - Forest Camo",
-      "Description": "Type: Pants - Male\r\nModel: Forest Camo\r\nSize: Any\r\nVersion: 1",
+      "Description": "Type: Pants - Male\r\nModel: Forest Camo\r\nSize: Any\r\nCompatible game version: 0.0.0.5x or 4.24.3",
       "Version": 1.0,
       "Author": "Wattie",
       "DownloadLink": "rsmm://Url/https$github.com/WattieSession/SessionMods/releases/download/p3/pants-camo-painters-v1.zip",
       "PreviewImage": "https://user-images.githubusercontent.com/60822222/74375425-2128a880-4d95-11ea-90a8-36e7b980c50b.png",
       "Category": "session-pants",
-      "UpdatedDate": "2020-01-26T00:00:00"
+      "UpdatedDate": "2020-01-25T08:00:00Z"
     },
     {
       "ID": "desertcamo-v1.zip",
       "IDWithoutExtension": "desertcamo-v1",
       "Name": "Desert Camos",
-      "Description": "Type: Pants - Male\r\nModel: Desert Camo\r\nSize: Any\r\nColor: Camo\r\nVersion: 1",
+      "Description": "Type: Pants - Male\r\nModel: Desert Camo\r\nSize: Any\r\nColor: Camo\r\nCompatible game version: 0.0.0.5x or 4.24.3",
       "Version": 1.0,
       "Author": "Wattie",
       "DownloadLink": "rsmm://Url/https$github.com/WattieSession/SessionMods/releases/download/p1/desertcamo-v1.zip",
       "PreviewImage": "https://user-images.githubusercontent.com/60822222/74375149-ae1f3200-4d94-11ea-8ec0-683741300417.png",
       "Category": "session-pants",
-      "UpdatedDate": "2020-01-24T00:00:00"
+      "UpdatedDate": "2020-01-23T08:00:00Z"
     },
     {
       "ID": "hoodie-thrasher-sd-blk.zip",
       "IDWithoutExtension": "hoodie-thrasher-sd-blk",
       "Name": "Hoodie - Thrasher - Skate & Destroy - Black",
-      "Description": "Type: Hoodie - Male\r\nBrand: Thrasher\r\nModel: Skate & Destroy\r\nSize: Any\r\nColor: Black/White\r\nVersion: 1",
+      "Description": "Type: Hoodie - Male\r\nBrand: Thrasher\r\nModel: Skate & Destroy\r\nSize: Any\r\nColor: Black/White\r\nCompatible game version: 0.0.0.5x or 4.24.3",
       "Version": 1.0,
       "Author": "Wattie",
       "DownloadLink": "rsmm://Url/https$github.com/WattieSession/SessionMods/releases/download/h3/hoodie-thrasher-sd-blk.zip",
       "PreviewImage": "https://user-images.githubusercontent.com/60822222/74368036-b91f9580-4d87-11ea-9d85-69393242513a.png",
       "Category": "session-shirts",
-      "UpdatedDate": "2020-01-20T00:00:00-08:00"
+      "UpdatedDate": "2020-01-20T08:00:00Z"
     },
     {
       "ID": "hoodie-metallica-cross.zip",
       "IDWithoutExtension": "hoodie-metallica-cross",
       "Name": "Hoodie - Metallica - Cross - Black",
-      "Description": "Request\r\nType: Hoodie - Male\r\nBrand: Metallica\r\nModel: Cross\r\nSize: Any\r\nColor: Black\r\nVersion: 1",
+      "Description": "Request\r\nType: Hoodie - Male\r\nBrand: Metallica\r\nModel: Cross\r\nSize: Any\r\nColor: Black\r\nCompatible game version: 0.0.0.5x or 4.24.3",
       "Version": 1.0,
       "Author": "Wattie",
       "DownloadLink": "rsmm://Url/https$github.com/WattieSession/SessionMods/releases/download/h2/hoodie-metallica-cross.zip",
       "PreviewImage": "https://user-images.githubusercontent.com/60822222/74367730-34cd1280-4d87-11ea-8296-d9e11efb2928.png",
       "Category": "session-shirts",
-      "UpdatedDate": "2020-01-19T00:00:00-08:00"
+      "UpdatedDate": "2020-01-19T08:00:00Z"
     },
     {
       "ID": "gt-pstone-red.zip",
       "IDWithoutExtension": "gt-pstone-red",
       "Name": "MOB - Pstone - Red",
-      "Description": "Brand: MOB\r\nModel: Pstone\r\nSize: Any\r\nColor: Red\r\nVersion: 1",
+      "Description": "Brand: MOB\r\nModel: Pstone\r\nSize: Any\r\nColor: Red\r\nCompatible game version: 0.0.0.5x or 4.24.3",
       "Version": 1.0,
       "Author": "Wattie",
       "DownloadLink": "rsmm://Url/https$github.com/WattieSession/SessionMods/releases/download/gt9/gt-pstone-red.zip",
       "PreviewImage": "https://user-images.githubusercontent.com/60822222/74377062-1885a180-4d98-11ea-945d-bc023a3009d9.png",
       "Category": "session-griptapes",
-      "UpdatedDate": "2020-01-18T00:00:00"
+      "UpdatedDate": "2020-01-17T08:00:00Z"
     },
     {
       "ID": "gt-powell-rb-fade.zip",
       "IDWithoutExtension": "gt-powell-rb-fade",
       "Name": "Powell - Rat Bones - Rainbow",
-      "Description": "Brand: Powell\r\nModel: Rat Bones\r\nSize: Any\r\nColor: Rainbow\r\nVersion: 1",
+      "Description": "Brand: Powell\r\nModel: Rat Bones\r\nSize: Any\r\nColor: Rainbow\r\nCompatible game version: 0.0.0.5x or 4.24.3",
       "Version": 1.0,
       "Author": "Wattie",
       "DownloadLink": "rsmm://Url/https$github.com/WattieSession/SessionMods/releases/download/gt8/gt-powell-rb-fade.zip",
       "PreviewImage": "https://user-images.githubusercontent.com/60822222/74376941-de1c0480-4d97-11ea-996b-be3a6aac4591.png",
       "Category": "session-griptapes",
-      "UpdatedDate": "2020-01-17T00:00:00"
+      "UpdatedDate": "2020-01-16T08:00:00Z"
     },
     {
       "ID": "gt-MOB-Mouse-homer.zip",
       "IDWithoutExtension": "gt-MOB-Mouse-homer",
       "Name": "MOB - Mouse - Double Dad",
-      "Description": "Brand: MOB\r\nModel: Mouse - Double Dad\r\nSize: Any\r\nColor: Black\r\nVersion: 1",
+      "Description": "Brand: MOB\r\nModel: Mouse - Double Dad\r\nSize: Any\r\nColor: Black\r\nCompatible game version: 0.0.0.5x or 4.24.3",
       "Version": 1.0,
       "Author": "Wattie",
       "DownloadLink": "rsmm://Url/https$github.com/WattieSession/SessionMods/releases/download/gt7/gt-MOB-Mouse-homer.zip",
       "PreviewImage": "https://user-images.githubusercontent.com/60822222/74376819-a8771b80-4d97-11ea-8712-ba38ec695cba.png",
       "Category": "session-griptapes",
-      "UpdatedDate": "2020-01-16T00:00:00"
+      "UpdatedDate": "2020-01-15T08:00:00Z"
     },
     {
       "ID": "gt-makeshit.zip",
       "IDWithoutExtension": "gt-makeshit",
       "Name": "MOB - Make Shit",
-      "Description": "Brand: MOB\r\nModel: Make Shit\r\nSize: Any\r\nColor: Black\r\nVersion: 1",
+      "Description": "Brand: MOB\r\nModel: Make Shit\r\nSize: Any\r\nColor: Black\r\nCompatible game version: 0.0.0.5x or 4.24.3",
       "Version": 1.0,
       "Author": "Wattie",
       "DownloadLink": "rsmm://Url/https$github.com/WattieSession/SessionMods/releases/download/gt6/gt-makeshit.zip",
       "PreviewImage": "https://user-images.githubusercontent.com/60822222/74376714-7e255e00-4d97-11ea-8e3a-548c6074d7f7.png",
       "Category": "session-griptapes",
-      "UpdatedDate": "2020-01-15T00:00:00"
+      "UpdatedDate": "2020-01-14T08:00:00Z"
     },
     {
       "ID": "gt-thrasherflame.zip",
       "IDWithoutExtension": "gt-thrasherflame",
       "Name": "Thrasher - Flame",
-      "Description": "Brand: Thrasher\r\nModel: Flame\r\nSize: Any\r\nColor: Black\r\nVersion: 1",
+      "Description": "Brand: Thrasher\r\nModel: Flame\r\nSize: Any\r\nColor: Black\r\nCompatible game version: 0.0.0.5x or 4.24.3",
       "Version": 1.0,
       "Author": "Wattie",
       "DownloadLink": "rsmm://Url/https$github.com/WattieSession/SessionMods/releases/download/gt4/gt-thrasherflame.zip",
       "PreviewImage": "https://user-images.githubusercontent.com/60822222/74376526-225ad500-4d97-11ea-9268-1e24934e45fb.png",
       "Category": "session-griptapes",
-      "UpdatedDate": "2020-01-13T00:00:00-08:00"
+      "UpdatedDate": "2020-01-13T08:00:00Z"
     },
     {
       "ID": "gt-destroy.zip",
       "IDWithoutExtension": "gt-destroy",
       "Name": "Thrasher - Destroy",
-      "Description": "Brand: Thrasher\r\nModel: Destroy\r\nSize: Any\r\nColor: Black\r\nVersion: 1",
+      "Description": "Brand: Thrasher\r\nModel: Destroy\r\nSize: Any\r\nColor: Black\r\nCompatible game version: 0.0.0.5x or 4.24.3",
       "Version": 1.0,
       "Author": "Wattie",
       "DownloadLink": "rsmm://Url/https$github.com/WattieSession/SessionMods/releases/download/gt3/gt-destroy.zip",
       "PreviewImage": "https://user-images.githubusercontent.com/60822222/74376411-ecb5ec00-4d96-11ea-9ca6-32be27998a95.png",
       "Category": "session-griptapes",
-      "UpdatedDate": "2020-01-13T00:00:00"
+      "UpdatedDate": "2020-01-12T08:00:00Z"
     },
     {
       "ID": "gt-custom-akira.zip",
       "IDWithoutExtension": "gt-custom-akira",
       "Name": "Custom - Akira",
-      "Description": "Request\r\nModel: Akira\r\nSize: Any\r\nColor: Black\r\nVersion: 1",
+      "Description": "Request\r\nModel: Akira\r\nSize: Any\r\nColor: Black\r\nCompatible game version: 0.0.0.5x or 4.24.3",
       "Version": 1.0,
       "Author": "Wattie",
       "DownloadLink": "rsmm://Url/https$github.com/WattieSession/SessionMods/releases/download/gt2/gt-custom-akira.zip",
       "PreviewImage": "https://user-images.githubusercontent.com/60822222/74376106-63061e80-4d96-11ea-87b1-b3bce44a0f8e.png",
       "Category": "session-griptapes",
-      "UpdatedDate": "2020-01-12T00:00:00"
+      "UpdatedDate": "2020-01-11T08:00:00Z"
     },
     {
       "ID": "gt-christmas.dog.zip",
       "IDWithoutExtension": "gt-christmas.dog",
       "Name": "MOB - Mouse - Christmas Dog",
-      "Description": "Brand: MOB\r\nModel: Christmas Dog\r\nSize: Any\r\nColor: Black\r\nVersion: 1",
+      "Description": "Brand: MOB\r\nModel: Christmas Dog\r\nSize: Any\r\nColor: Black\r\nCompatible game version: 0.0.0.5x or 4.24.3",
       "Version": 1.0,
       "Author": "Wattie",
       "DownloadLink": "rsmm://Url/https$github.com/WattieSession/SessionMods/releases/download/gt1/gt-christmas.dog.zip",
       "PreviewImage": "https://user-images.githubusercontent.com/60822222/74376000-32be8000-4d96-11ea-90ed-b528d485864c.png",
       "Category": "session-griptapes",
-      "UpdatedDate": "2020-01-11T00:00:00"
+      "UpdatedDate": "2020-01-10T08:00:00Z"
     },
     {
       "ID": "gt-bb-pma.zip",
       "IDWithoutExtension": "gt-bb-pma",
       "Name": "Bad Brains - PMA",
-      "Description": "Brand: na\r\nModel: PMA\r\nSize: Any\r\nColor: Black\r\nVersion: 1",
+      "Description": "Brand: na\r\nModel: PMA\r\nSize: Any\r\nColor: Black\r\nCompatible game version: 0.0.0.5x or 4.24.3",
       "Version": 1.0,
       "Author": "Wattie",
       "DownloadLink": "rsmm://Url/https$github.com/WattieSession/SessionMods/releases/download/gt/gt-bb-pma.zip",
       "PreviewImage": "https://user-images.githubusercontent.com/60822222/74375822-e2dfb900-4d95-11ea-8e93-a7cd7bd823f3.png",
       "Category": "session-griptapes",
-      "UpdatedDate": "2020-01-10T00:00:00"
+      "UpdatedDate": "2020-01-09T08:00:00Z"
     },
     {
       "ID": "beanie-indyxthraser.zip",
       "IDWithoutExtension": "beanie-indyxthraser",
       "Name": "Independent x Thrasher - Pentask8 - Charcoal",
-      "Description": "Type: Hat - Male\r\nBrand: Independent x Thrasher\r\nModel: Pentask8\r\nSize: Any\r\nColor: Charcoal\r\nVersion: 1",
+      "Description": "Type: Hat - Male\r\nBrand: Independent x Thrasher\r\nModel: Pentask8\r\nSize: Any\r\nColor: Charcoal\r\nCompatible game version: 0.0.0.5x or 4.24.3",
       "Version": 1.0,
       "Author": "Wattie",
       "DownloadLink": "rsmm://Url/https$github.com/WattieSession/SessionMods/releases/download/c2/beanie-indyxthraser.zip",
       "PreviewImage": "https://user-images.githubusercontent.com/60822222/74375686-a2803b00-4d95-11ea-8d7b-626e6e9a35fe.png",
       "Category": "session-hats",
-      "UpdatedDate": "2020-01-08T00:00:00-08:00"
+      "UpdatedDate": "2020-01-08T08:00:00Z"
     },
     {
       "ID": "beanie-bb-bolt-v2.zip",
       "IDWithoutExtension": "beanie-bb-bolt-v2",
       "Name": "Bad Brains - Bolt - Black",
-      "Description": "Type: Hat - Male\r\nBrand: Bad Brains\r\nModel: Bolt\r\nSize: Any\r\nColor: Black\r\nVersion: 2",
+      "Description": "Type: Hat - Male\r\nBrand: Bad Brains\r\nModel: Bolt\r\nSize: Any\r\nColor: Black\r\nCompatible game version: 0.0.0.5x or 4.24.3",
       "Version": 1.0,
       "Author": "Wattie",
       "DownloadLink": "rsmm://Url/https$github.com/WattieSession/SessionMods/releases/download/c1/beanie-bb-bolt-v2.zip",
       "PreviewImage": "https://user-images.githubusercontent.com/60822222/74375557-62b95380-4d95-11ea-978b-f6297e1c0790.png",
       "Category": "session-hats",
-      "UpdatedDate": "2020-01-07T00:00:00-08:00"
+      "UpdatedDate": "2020-01-07T08:00:00Z"
     },
     {
       "ID": "dck-zero-bold-clean.zip",
       "IDWithoutExtension": "dck-zero-bold-clean",
       "Name": "Zero Bold - Clean",
-      "Description": "Condition: New\r\nBrand: Zero\r\nModel: Bold\r\nColor: Black/Red\r\nVersion: 1\r\n\r\nReplaces Half a Roger 8.125 deck",
+      "Description": "Condition: New\r\nBrand: Zero\r\nModel: Bold\r\nColor: Black/Red\r\nCompatible game version: 0.0.0.5x or 4.24.3\r\n\r\nReplaces Half a Roger 8.125 deck",
       "Version": 1.0,
       "Author": "Wattie",
       "DownloadLink": "rsmm://Url/https$github.com/WattieSession/SessionMods/releases/download/d45/dck-zero-bold-clean.zip",
       "PreviewImage": "https://user-images.githubusercontent.com/60822222/74554717-07ab6c00-4f0f-11ea-979b-6a7fb3b9070b.png",
       "Category": "session-decks",
-      "UpdatedDate": "2020-02-09T00:00:00-08:00"
+      "UpdatedDate": "2020-02-09T08:00:00Z"
     },
     {
       "ID": " NikeSB-Chron-solarsofts.zip",
       "IDWithoutExtension": " NikeSB-Chron-solarsofts",
       "Name": "Nike SB - Chron - Solarsofts",
-      "Description": "Request\r\nCondition: Used\r\nBrand: Nike SB\r\nModel: Chron - Solarsofts\r\nColor: Black\r\nVersion: 1\r\n\r\nReplaces Vul A shoe\r\n\r\nFor my latest releases: https://github.com/WattieSession/SessionMods/releases",
+      "Description": "Request\r\nCondition: Used\r\nBrand: Nike SB\r\nModel: Chron - Solarsofts\r\nColor: Black\r\nCompatible game version: 0.0.0.5x or 4.24.3\r\n\r\nReplaces Vul A shoe\r\n\r\nFor my latest releases: https://github.com/WattieSession/SessionMods/releases",
       "Version": 1.0,
       "Author": "Wattie",
       "DownloadLink": "rsmm://Url/https$github.com/WattieSession/SessionMods/releases/download/v0.1b/NikeSB-Chron-solarsofts.zip",
       "PreviewImage": "https://user-images.githubusercontent.com/60822222/74599399-f1e49680-5035-11ea-8272-27d49ba61eb3.png",
       "Category": "session-shoes",
-      "UpdatedDate": "2020-01-23T00:00:00-08:00"
+      "UpdatedDate": "2020-01-23T08:00:00Z"
     },
     {
       "ID": " shoes-nikesb-high-Unlucky-v2.zip",
       "IDWithoutExtension": " shoes-nikesb-high-Unlucky-v2",
       "Name": "Nike SB - Highs - Unlucky (v2)",
-      "Description": "In order for these shoes to work in game and not crash your shit, Go to your UserEngine.ini file and add  \r\n\r\n[/Script/Engine.RendererSettings]\r\nr.LightPropagationVolume = False\r\n\r\nThis file is located in Session/SessionGame/Config/\r\n\r\nSave and install the shoes. Massive thank you to Chuy for finding this fix.\r\nReplaces Mid-Toe Cup shoe.\r\n\r\nA HUGE thank you to Redgouf for all his help and amazing 3D model.\r\n\r\nReplaces Mid-Top Cup shoe in game.\r\n\r\nMy Session Catalog: https://pastebin.com/raw/D4e1dfZ6\r\n\r\nFor my latest releases: https://github.com/WattieSession/SessionMods/releases",
+      "Description": "Compatible game version: 0.0.0.5x or 4.24.3\r\n\r\nIn order for these shoes to work in game and not crash your shit, Go to your UserEngine.ini file and add  \r\n\r\n[/Script/Engine.RendererSettings]\r\nr.LightPropagationVolume = False\r\n\r\nThis file is located in Session/SessionGame/Config/\r\n\r\nSave and install the shoes. Massive thank you to Chuy for finding this fix.\r\nReplaces Mid-Toe Cup shoe.\r\n\r\nA HUGE thank you to Redgouf for all his help and amazing 3D model.\r\n\r\nReplaces Mid-Top Cup shoe in game.\r\n\r\nMy Session Catalog: https://pastebin.com/raw/D4e1dfZ6\r\n\r\nFor my latest releases: https://github.com/WattieSession/SessionMods/releases",
       "Version": 1.0,
       "Author": "Wattie",
       "DownloadLink": "rsmm://Url/https$github.com/WattieSession/SessionMods/releases/download/nsb6/shoes-nikesb-high-Unlucky-v2.zip",
       "PreviewImage": "https://user-images.githubusercontent.com/60822222/78630262-21519b80-784e-11ea-8d76-d00046b9366d.png",
       "Category": "session-shoes",
-      "UpdatedDate": "2020-01-26T00:00:00-08:00"
+      "UpdatedDate": "2020-01-26T08:00:00Z"
     },
     {
       "ID": " shoes-nikesb-high-skunks-v2.zip",
       "IDWithoutExtension": " shoes-nikesb-high-skunks-v2",
       "Name": "Nike SB - Highs - Skunks (v2)",
-      "Description": "In order for these shoes to work in game and not crash your shit, Go to your UserEngine.ini file and add  \r\n\r\n[/Script/Engine.RendererSettings]\r\nr.LightPropagationVolume = False\r\n\r\nThis file is located in Session/SessionGame/Config/\r\n\r\nSave and install the shoes. Massive thank you to Chuy for finding this fix.\r\n\r\nReplaces Mid-Toe Cup shoe.\r\n\r\nA HUGE thank you to Redgouf for all his help and amazing 3D model.\r\n\r\nReplaces Mid-Top Cup shoe in game.\r\n\r\nMy Session Catalog: https://pastebin.com/raw/D4e1dfZ6\r\n\r\nFor my latest releases: https://github.com/WattieSession/SessionMods/releases",
+      "Description": "Compatible game version: 0.0.0.5x or 4.24.3\r\n\r\nIn order for these shoes to work in game and not crash your shit, Go to your UserEngine.ini file and add  \r\n\r\n[/Script/Engine.RendererSettings]\r\nr.LightPropagationVolume = False\r\n\r\nThis file is located in Session/SessionGame/Config/\r\n\r\nSave and install the shoes. Massive thank you to Chuy for finding this fix.\r\n\r\nReplaces Mid-Toe Cup shoe.\r\n\r\nA HUGE thank you to Redgouf for all his help and amazing 3D model.\r\n\r\nReplaces Mid-Top Cup shoe in game.\r\n\r\nMy Session Catalog: https://pastebin.com/raw/D4e1dfZ6\r\n\r\nFor my latest releases: https://github.com/WattieSession/SessionMods/releases",
       "Version": 1.0,
       "Author": "Wattie",
       "DownloadLink": "rsmm://Url/https$github.com/WattieSession/SessionMods/releases/download/nsb5/shoes-nikesb-high-skunks-v2.zip",
       "PreviewImage": "https://user-images.githubusercontent.com/60822222/78630186-f1a29380-784d-11ea-9f55-9cfd4b2a8533.png",
       "Category": "session-shoes",
-      "UpdatedDate": "2020-01-25T00:00:00-08:00"
+      "UpdatedDate": "2020-01-25T08:00:00Z"
     },
     {
       "ID": "shoes-nikesb-high-maples-v2.zip",
       "IDWithoutExtension": "shoes-nikesb-high-maples-v2",
       "Name": "Nike SB - Highs - Maple/Bison (v2)",
-      "Description": "In order for these shoes to work in game and not crash your shit, Go to your UserEngine.ini file and add  \r\n\r\n[/Script/Engine.RendererSettings]\r\nr.LightPropagationVolume = False\r\n\r\nThis file is located in Session/SessionGame/Config/\r\n\r\nSave and install the shoes. Massive thank you to Chuy for finding this fix.\r\n\r\nReplaces Mid-Top Cup shoe in game.\r\n\r\nMy Session Catalog: https://pastebin.com/raw/D4e1dfZ6\r\n\r\nFor my latest releases: https://github.com/WattieSession/SessionMods/releases",
+      "Description": "Compatible game version: 0.0.0.5x or 4.24.3\r\n\r\nIn order for these shoes to work in game and not crash your shit, Go to your UserEngine.ini file and add  \r\n\r\n[/Script/Engine.RendererSettings]\r\nr.LightPropagationVolume = False\r\n\r\nThis file is located in Session/SessionGame/Config/\r\n\r\nSave and install the shoes. Massive thank you to Chuy for finding this fix.\r\n\r\nReplaces Mid-Top Cup shoe in game.\r\n\r\nMy Session Catalog: https://pastebin.com/raw/D4e1dfZ6\r\n\r\nFor my latest releases: https://github.com/WattieSession/SessionMods/releases",
       "Version": 1.0,
       "Author": "Wattie",
       "DownloadLink": "rsmm://Url/https$github.com/WattieSession/SessionMods/releases/download/nsb4/shoes-nikesb-high-maples-v2.zip",
       "PreviewImage": "https://user-images.githubusercontent.com/60822222/78630127-c029c800-784d-11ea-9cc9-446a334211f9.png",
       "Category": "session-shoes",
-      "UpdatedDate": "2020-01-24T00:00:00-08:00"
+      "UpdatedDate": "2020-01-24T08:00:00Z"
     },
     {
       "ID": "shoes-nikesb-high-mafia-v2.zip",
       "IDWithoutExtension": "shoes-nikesb-high-mafia-v2",
       "Name": "Nike SB - Highs - Mafia/Goodfellas (v2)",
-      "Description": "In order for these shoes to work in game and not crash your shit, Go to your UserEngine.ini file and add  \r\n\r\n[/Script/Engine.RendererSettings]\r\nr.LightPropagationVolume = False\r\n\r\nThis file is located in Session/SessionGame/Config/\r\n\r\nSave and install the shoes. Massive thank you to Chuy for finding this fix.\r\n\r\nA HUGE thank you to Redgouf for all his help and amazing 3D model.\r\n\r\nReplaces Mid-Top Cup shoe in game.\r\n\r\nMy Session Catalog: https://pastebin.com/raw/D4e1dfZ6\r\n\r\nFor my latest releases: https://github.com/WattieSession/SessionMods/releases",
+      "Description": "Compatible game version: 0.0.0.5x or 4.24.3\r\n\r\nIn order for these shoes to work in game and not crash your shit, Go to your UserEngine.ini file and add  \r\n\r\n[/Script/Engine.RendererSettings]\r\nr.LightPropagationVolume = False\r\n\r\nThis file is located in Session/SessionGame/Config/\r\n\r\nSave and install the shoes. Massive thank you to Chuy for finding this fix.\r\n\r\nA HUGE thank you to Redgouf for all his help and amazing 3D model.\r\n\r\nReplaces Mid-Top Cup shoe in game.\r\n\r\nMy Session Catalog: https://pastebin.com/raw/D4e1dfZ6\r\n\r\nFor my latest releases: https://github.com/WattieSession/SessionMods/releases",
       "Version": 1.0,
       "Author": "Wattie",
       "DownloadLink": "rsmm://Url/https$github.com/WattieSession/SessionMods/releases/download/nsb3/shoes-nikesb-high-mafia-v2.zip",
       "PreviewImage": "https://user-images.githubusercontent.com/60822222/78630036-85c02b00-784d-11ea-988f-2fde12e867ef.png",
       "Category": "session-shoes",
-      "UpdatedDate": "2020-01-23T00:00:00-08:00"
+      "UpdatedDate": "2020-01-23T08:00:00Z"
     },
     {
       "ID": "shoes-nikesb-high-lucky-v2.zip",
       "IDWithoutExtension": "shoes-nikesb-high-lucky-v2",
       "Name": "Nike SB - Highs - Lucky (v2)",
-      "Description": "In order for these shoes to work in game and not crash your shit, Go to your UserEngine.ini file and add  \r\n\r\n[/Script/Engine.RendererSettings]\r\nr.LightPropagationVolume = False\r\n\r\nThis file is located in Session/SessionGame/Config/\r\n\r\nSave and install the shoes. Massive thank you to Chuy for finding this fix.\r\n\r\nA HUGE thank you to Redgouf for all his help and amazing 3D model.\r\n\r\nReplaces Mid-Top Cup shoe in game.\r\n\r\nMy Session Catalog: https://pastebin.com/raw/D4e1dfZ6\r\n\r\nFor my latest releases: https://github.com/WattieSession/SessionMods/releases",
+      "Description": "Compatible game version: 0.0.0.5x or 4.24.3\r\n\r\nIn order for these shoes to work in game and not crash your shit, Go to your UserEngine.ini file and add  \r\n\r\n[/Script/Engine.RendererSettings]\r\nr.LightPropagationVolume = False\r\n\r\nThis file is located in Session/SessionGame/Config/\r\n\r\nSave and install the shoes. Massive thank you to Chuy for finding this fix.\r\n\r\nA HUGE thank you to Redgouf for all his help and amazing 3D model.\r\n\r\nReplaces Mid-Top Cup shoe in game.\r\n\r\nMy Session Catalog: https://pastebin.com/raw/D4e1dfZ6\r\n\r\nFor my latest releases: https://github.com/WattieSession/SessionMods/releases",
       "Version": 1.0,
       "Author": "Wattie",
       "DownloadLink": "rsmm://Url/https$github.com/WattieSession/SessionMods/releases/download/nsb2/shoes-nikesb-high-lucky-v2.zip",
       "PreviewImage": "https://user-images.githubusercontent.com/60822222/78629941-4db8e800-784d-11ea-825a-a3e16197d454.png",
       "Category": "session-shoes",
-      "UpdatedDate": "2020-01-22T00:00:00-08:00"
+      "UpdatedDate": "2020-01-22T08:00:00Z"
     },
     {
       "ID": "shoes-nikesb-high-diamond-v2.zip",
       "IDWithoutExtension": "shoes-nikesb-high-diamond-v2",
       "Name": "Nike SB - Highs - Diamonds (v2)",
-      "Description": "In order for these shoes to work in game and not crash your shit, Go to your UserEngine.ini file and add  \r\n\r\n[/Script/Engine.RendererSettings]\r\nr.LightPropagationVolume = False\r\n\r\nThis file is located in Session/SessionGame/Config/\r\n\r\nSave and install the shoes. Massive thank you to Chuy for finding this fix.\r\n\r\nA HUGE thank you to Redgouf for all his help and amazing 3D model.\r\n\r\nReplaces Mid-Top Cup shoe in game.\r\n\r\nMy Session Catalog: https://pastebin.com/raw/D4e1dfZ6\r\n\r\nFor my latest releases: https://github.com/WattieSession/SessionMods/releases",
+      "Description": "Compatible game version: 0.0.0.5x or 4.24.3\r\n\r\nIn order for these shoes to work in game and not crash your shit, Go to your UserEngine.ini file and add  \r\n\r\n[/Script/Engine.RendererSettings]\r\nr.LightPropagationVolume = False\r\n\r\nThis file is located in Session/SessionGame/Config/\r\n\r\nSave and install the shoes. Massive thank you to Chuy for finding this fix.\r\n\r\nA HUGE thank you to Redgouf for all his help and amazing 3D model.\r\n\r\nReplaces Mid-Top Cup shoe in game.\r\n\r\nMy Session Catalog: https://pastebin.com/raw/D4e1dfZ6\r\n\r\nFor my latest releases: https://github.com/WattieSession/SessionMods/releases",
       "Version": 1.0,
       "Author": "Wattie",
       "DownloadLink": "rsmm://Url/https$github.com/WattieSession/SessionMods/releases/download/nsb1/shoes-nikesb-high-diamond-v2.zip",
       "PreviewImage": "https://user-images.githubusercontent.com/60822222/78629763-d6835400-784c-11ea-909f-3553a9abd246.png",
       "Category": "session-shoes",
-      "UpdatedDate": "2020-01-21T00:00:00-08:00"
+      "UpdatedDate": "2020-01-21T08:00:00Z"
     },
     {
       "ID": "shoes-nikesb-high-travisscott.zip",
       "IDWithoutExtension": "shoes-nikesb-high-travisscott",
       "Name": "Nike SB - Highs - Travis Scott (v1)",
-      "Description": "In order for these shoes to work in game and not crash your shit, Go to your UserEngine.ini file and add  \r\n\r\n[/Script/Engine.RendererSettings]\r\nr.LightPropagationVolume = False\r\n\r\nThis file is located in Session/SessionGame/Config/\r\n\r\nSave and install the shoes. Massive thank you to Chuy for finding this fix.\r\n\r\nReplaces Mid-Top Cup shoe in game. \r\n\r\nAvailable below and in the asset store.\r\n\r\nMy Session Catalog: https://pastebin.com/raw/D4e1dfZ6\r\n\r\nFor my latest releases: https://github.com/WattieSession/SessionMods/releases",
+      "Description": "Compatible game version: 0.0.0.5x or 4.24.3\r\n\r\nIn order for these shoes to work in game and not crash your shit, Go to your UserEngine.ini file and add  \r\n\r\n[/Script/Engine.RendererSettings]\r\nr.LightPropagationVolume = False\r\n\r\nThis file is located in Session/SessionGame/Config/\r\n\r\nSave and install the shoes. Massive thank you to Chuy for finding this fix.\r\n\r\nReplaces Mid-Top Cup shoe in game. \r\n\r\nAvailable below and in the asset store.\r\n\r\nMy Session Catalog: https://pastebin.com/raw/D4e1dfZ6\r\n\r\nFor my latest releases: https://github.com/WattieSession/SessionMods/releases",
       "Version": 1.0,
       "Author": "Wattie",
       "DownloadLink": "rsmm://Url/https$github.com/WattieSession/SessionMods/releases/download/nsb8/shoes-nikesb-high-travisscott.zip",
       "PreviewImage": "https://user-images.githubusercontent.com/60822222/78963710-22343880-7aad-11ea-83bb-3784678d5691.png",
       "Category": "session-shoes",
-      "UpdatedDate": "2020-01-25T00:00:00-08:00"
+      "UpdatedDate": "2020-01-25T08:00:00Z"
     },
     {
       "ID": "shoes-nikesb-high-Uprise-v2.zip",
       "IDWithoutExtension": "shoes-nikesb-high-Uprise-v2",
       "Name": "Nike SB - Highs - Uprise",
-      "Description": "In order for these shoes to work in game and not crash your shit, Go to your UserEngine.ini file and add  \r\n\r\n[/Script/Engine.RendererSettings]\r\nr.LightPropagationVolume = False\r\n\r\nThis file is located in Session/SessionGame/Config/\r\n\r\nSave and install the shoes. Massive thank you to Chuy for finding this fix.\r\n\r\nReplaces Mid-Top Cup shoe in game. \r\n\r\nAvailable below and in the asset store.\r\n\r\nMy Session Catalog: https://pastebin.com/raw/D4e1dfZ6\r\n\r\nFor my latest releases: https://github.com/WattieSession/SessionMods/releases",
+      "Description": "Compatible game version: 0.0.0.5x or 4.24.3\r\n\r\nIn order for these shoes to work in game and not crash your shit, Go to your UserEngine.ini file and add  \r\n\r\n[/Script/Engine.RendererSettings]\r\nr.LightPropagationVolume = False\r\n\r\nThis file is located in Session/SessionGame/Config/\r\n\r\nSave and install the shoes. Massive thank you to Chuy for finding this fix.\r\n\r\nReplaces Mid-Top Cup shoe in game. \r\n\r\nAvailable below and in the asset store.\r\n\r\nMy Session Catalog: https://pastebin.com/raw/D4e1dfZ6\r\n\r\nFor my latest releases: https://github.com/WattieSession/SessionMods/releases",
       "Version": 1.0,
       "Author": "Wattie",
       "DownloadLink": "rsmm://Url/https$github.com/WattieSession/SessionMods/releases/download/nsb7/shoes-nikesb-high-Uprise-v2.zip",
       "PreviewImage": "https://user-images.githubusercontent.com/60822222/78963564-be117480-7aac-11ea-800e-2581408829d7.png",
       "Category": "session-shoes",
-      "UpdatedDate": "2020-01-24T00:00:00-08:00"
+      "UpdatedDate": "2020-01-24T08:00:00Z"
     },
     {
       "ID": " Hat-thrash-suicidal-blk.zip",
       "IDWithoutExtension": " Hat-thrash-suicidal-blk",
       "Name": "Suicidal Tendencies OG Possessed Flip Thrash Hat - Black",
-      "Description": "Updated for Session 0.0.0.5x release\r\n\r\nYou need Redgouf's [MESH] Thrash hat in order to get the proper look. Replaces \"Red Cap\" in game.",
+      "Description": "Compatible game version: 0.0.0.5x or 4.24.3\r\n\r\nYou need Redgouf's [MESH] Thrash hat in order to get the proper look. Replaces \"Red Cap\" in game.",
       "Version": 1.0,
       "Author": "Wattie",
       "DownloadLink": "rsmm://Url/https$github.com/WattieSession/SessionMods/releases/download/ht1/Hat-thrash-suicidal-blk.zip",
       "PreviewImage": "https://user-images.githubusercontent.com/60822222/76720211-63793880-66f9-11ea-944b-74fc9700be6c.png",
       "Category": "session-hats",
-      "UpdatedDate": "2020-01-07T00:00:00"
+      "UpdatedDate": "2020-01-06T08:00:00Z"
     },
     {
       "ID": " Hat-thrash-suicidal-blue.zip",
       "IDWithoutExtension": " Hat-thrash-suicidal-blue",
       "Name": "Suicidal Tendencies OG Possessed Flip Thrash Hat - Blue",
-      "Description": "Updated for Session 0.0.0.5x release\r\n\r\nYou need Redgouf's [MESH] Thrash hat in order to get the proper look. Replaces \"Red Cap\" in game.",
+      "Description": "Compatible game version: 0.0.0.5x or 4.24.3\r\n\r\nYou need Redgouf's [MESH] Thrash hat in order to get the proper look. Replaces \"Red Cap\" in game.",
       "Version": 1.0,
       "Author": "Wattie",
       "DownloadLink": "rsmm://Url/https$github.com/WattieSession/SessionMods/releases/download/ht1/Hat-thrash-suicidal-blue.zip",
       "PreviewImage": "https://user-images.githubusercontent.com/60822222/76720212-6411cf00-66f9-11ea-858b-72124fc29a3b.png",
       "Category": "session-hats",
-      "UpdatedDate": "2020-01-06T00:00:00"
+      "UpdatedDate": "2020-01-05T08:00:00Z"
     },
     {
       "ID": "Hat-thrash-suicidal-brown.zip",
       "IDWithoutExtension": "Hat-thrash-suicidal-brown",
       "Name": "Suicidal Tendencies OG Possessed Flip Thrash Hat - Brown",
-      "Description": "Updated for Session 0.0.0.5x release\r\n\r\nYou need Redgouf's [MESH] Thrash hat in order to get the proper look. Replaces \"Red Cap\" in game.",
+      "Description": "Compatible game version: 0.0.0.5x or 4.24.3\r\n\r\nYou need Redgouf's [MESH] Thrash hat in order to get the proper look. Replaces \"Red Cap\" in game.",
       "Version": 1.0,
       "Author": "Wattie",
       "DownloadLink": "rsmm://Url/https$github.com/WattieSession/SessionMods/releases/download/ht1/Hat-thrash-suicidal-brown.zip",
       "PreviewImage": "https://user-images.githubusercontent.com/60822222/76720213-64aa6580-66f9-11ea-9972-71747f8889f7.png",
       "Category": "session-hats",
-      "UpdatedDate": "2020-01-05T00:00:00"
+      "UpdatedDate": "2020-01-04T08:00:00Z"
     },
     {
       "ID": "Hat-thrash-suicidal-white.zip",
       "IDWithoutExtension": "Hat-thrash-suicidal-white",
       "Name": "Suicidal Tendencies OG Possessed Flip Thrash Hat - White",
-      "Description": "Updated for Session 0.0.0.5x release\r\n\r\nYou need Redgouf's [MESH] Thrash hat in order to get the proper look. Replaces \"Red Cap\" in game.",
+      "Description": "Compatible game version: 0.0.0.5x or 4.24.3\r\n\r\nYou need Redgouf's [MESH] Thrash hat in order to get the proper look. Replaces \"Red Cap\" in game.",
       "Version": 1.0,
       "Author": "Wattie",
       "DownloadLink": "rsmm://Url/https$github.com/WattieSession/SessionMods/releases/download/ht1/Hat-thrash-suicidal-white.zip",
       "PreviewImage": "https://user-images.githubusercontent.com/60822222/76720214-6542fc00-66f9-11ea-8a99-0a2618206220.png",
       "Category": "session-hats",
-      "UpdatedDate": "2020-01-04T00:00:00"
+      "UpdatedDate": "2020-01-03T08:00:00Z"
     },
     {
       "ID": "Hat-thrash-suicidal-yello.zip",
       "IDWithoutExtension": "Hat-thrash-suicidal-yello",
       "Name": "Suicidal Tendencies OG Possessed Flip Thrash Hat - Yellow",
-      "Description": "Updated for Session 0.0.0.5x release\r\n\r\nYou need Redgouf's [MESH] Thrash hat in order to get the proper look. Replaces \"Red Cap\" in game.",
+      "Description": "Compatible game version: 0.0.0.5x or 4.24.3\r\n\r\nYou need Redgouf's [MESH] Thrash hat in order to get the proper look. Replaces \"Red Cap\" in game.",
       "Version": 1.0,
       "Author": "Wattie",
       "DownloadLink": "rsmm://Url/https$github.com/WattieSession/SessionMods/releases/download/ht1/Hat-thrash-suicidal-yello.zip",
       "PreviewImage": "https://user-images.githubusercontent.com/60822222/76720207-6116de80-66f9-11ea-8746-bb19af4921d3.png",
       "Category": "session-hats",
-      "UpdatedDate": "2020-01-02T00:00:00-08:00"
+      "UpdatedDate": "2020-01-02T08:00:00Z"
     },
     {
       "ID": "shoes-nikesb-high-wetfloor.zip",
       "IDWithoutExtension": "shoes-nikesb-high-wetfloor",
       "Name": "Nike SB - Highs - Wet Floor",
-      "Description": "--READ ME--\r\n\r\nIn order for these shoes to work in game and not crash your shit, Go to your UserEngine.ini file and add\r\n\r\n[/Script/Engine.RendererSettings]\r\nr.LightPropagationVolume = False\r\n\r\nThis file is located in Session/SessionGame/Config/\r\n\r\nSave and install the shoes.\r\n\r\nReplaces Mid-Top Cup shoe in game.\r\n\r\nAvailable below and in the asset store.",
+      "Description": "Compatible game version: 0.0.0.5x or 4.24.3\r\n\r\n--READ ME--\r\n\r\nIn order for these shoes to work in game and not crash your shit, Go to your UserEngine.ini file and add\r\n\r\n[/Script/Engine.RendererSettings]\r\nr.LightPropagationVolume = False\r\n\r\nThis file is located in Session/SessionGame/Config/\r\n\r\nSave and install the shoes.\r\n\r\nReplaces Mid-Top Cup shoe in game.\r\n\r\nAvailable below and in the asset store.",
       "Version": 1.0,
       "Author": "Wattie",
       "DownloadLink": "rsmm://Url/https$github.com/WattieSession/SessionMods/releases/download/nsb11/shoes-nikesb-high-wetfloor.zip",
@@ -1145,7 +1145,7 @@
       "ID": "shoes-nikesb-high-supa-v2.zip",
       "IDWithoutExtension": "shoes-nikesb-high-supa-v2",
       "Name": "Nike SB - Highs - Supa v2",
-      "Description": "--READ ME--\r\n\r\nIn order for these shoes to work in game and not crash your shit, Go to your UserEngine.ini file and add\r\n\r\n[/Script/Engine.RendererSettings]\r\nr.LightPropagationVolume = False\r\n\r\nThis file is located in Session/SessionGame/Config/\r\n\r\nSave and install the shoes.\r\n\r\nReplaces Mid-Top Cup shoe in game.\r\n\r\nAvailable below and in the asset store.",
+      "Description": "Compatible game version: 0.0.0.5x or 4.24.3\r\n\r\n--READ ME--\r\n\r\nIn order for these shoes to work in game and not crash your shit, Go to your UserEngine.ini file and add\r\n\r\n[/Script/Engine.RendererSettings]\r\nr.LightPropagationVolume = False\r\n\r\nThis file is located in Session/SessionGame/Config/\r\n\r\nSave and install the shoes.\r\n\r\nReplaces Mid-Top Cup shoe in game.\r\n\r\nAvailable below and in the asset store.",
       "Version": 1.0,
       "Author": "Wattie",
       "DownloadLink": "rsmm://Url/https$github.com/WattieSession/SessionMods/releases/download/nsb10/shoes-nikesb-high-supa-v2.zip",
@@ -1157,7 +1157,7 @@
       "ID": " shoes-nikesb-high-MFDOOM.zip",
       "IDWithoutExtension": " shoes-nikesb-high-MFDOOM",
       "Name": "Nike SB - Highs - MF DOOM v2",
-      "Description": "--READ ME--\r\n\r\nIn order for these shoes to work in game and not crash your shit, Go to your UserEngine.ini file and add\r\n\r\n[/Script/Engine.RendererSettings]\r\nr.LightPropagationVolume = False\r\n\r\nThis file is located in Session/SessionGame/Config/\r\n\r\nSave and install the shoes.\r\n\r\nReplaces Mid-Top Cup shoe in game.\r\n\r\nAvailable below and in the asset store.",
+      "Description": "Compatible game version: 0.0.0.5x or 4.24.3\r\n\r\n--READ ME--\r\n\r\nIn order for these shoes to work in game and not crash your shit, Go to your UserEngine.ini file and add\r\n\r\n[/Script/Engine.RendererSettings]\r\nr.LightPropagationVolume = False\r\n\r\nThis file is located in Session/SessionGame/Config/\r\n\r\nSave and install the shoes.\r\n\r\nReplaces Mid-Top Cup shoe in game.\r\n\r\nAvailable below and in the asset store.",
       "Version": 1.0,
       "Author": "Wattie",
       "DownloadLink": "rsmm://Url/https$github.com/WattieSession/SessionMods/releases/download/nsb9/shoes-nikesb-high-MFDOOM.zip",
