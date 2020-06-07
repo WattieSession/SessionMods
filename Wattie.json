@@ -1211,7 +1211,7 @@
       "DownloadLink": "rsmm://Url/https$github.com/WattieSession/SessionMods/releases/download/nsb19/shoes-nikesb-low-reesedenim.zip",
       "PreviewImage": "https://user-images.githubusercontent.com/60822222/83550339-8d055d00-a4bb-11ea-9f62-4724d3afa09e.png",
       "Category": "session-shoes",
-      "UpdatedDate": "2020-04-12T07:00:00Z"
+      "UpdatedDate": "2020-04-12T00:00:00-07:00"
     },
     {
       "ID": "shoes-nikesb-low-pigeons.zip",
@@ -1295,7 +1295,55 @@
       "DownloadLink": "rsmm://Url/https$github.com/WattieSession/SessionMods/releases/download/nsb12/shoes-nikesb-low-abaddons.zip",
       "PreviewImage": "https://user-images.githubusercontent.com/60822222/83549269-e79db980-a4b9-11ea-9f80-358abf4b8708.png",
       "Category": "session-shoes",
-      "UpdatedDate": "2020-04-05T07:00:00Z"
+      "UpdatedDate": "2020-04-05T00:00:00-07:00"
+    },
+    {
+      "ID": "shoes-nikesb-low-whtclassicgrn.zip",
+      "IDWithoutExtension": "shoes-nikesb-low-whtclassicgrn",
+      "Name": "Nike SB - Lows - White Classic Green",
+      "Description": "Make sure \"Enable Light Probagation Volume\" is UNCHECKED or these shoes will crash your game.\r\n\r\nReplaces Vul A shoes for both Male and Female.\r\n\r\nCompatible with game version 0.0.0.5x or 4.24.3\r\n\r\nAvailable here and in the SMM Asset Store.",
+      "Version": 1.0,
+      "Author": "Wattie",
+      "DownloadLink": "rsmm://Url/https$github.com/WattieSession/SessionMods/releases/download/nsb29/shoes-nikesb-low-whtclassicgrn.zip",
+      "PreviewImage": "https://user-images.githubusercontent.com/60822222/83961033-3d6cbb80-a844-11ea-9571-d0e3f7630b91.png",
+      "Category": "session-shoes",
+      "UpdatedDate": "2020-04-06T00:00:00"
+    },
+    {
+      "ID": "shoes-nikesb-low-whtblk.zip",
+      "IDWithoutExtension": "shoes-nikesb-low-whtblk",
+      "Name": "Nike SB - Lows - White & Black",
+      "Description": "Make sure \"Enable Light Probagation Volume\" is UNCHECKED or these shoes will crash your game.\r\n\r\nReplaces Vul A shoes for both Male and Female.\r\n\r\nCompatible with game version 0.0.0.5x or 4.24.3\r\n\r\nAvailable here and in the SMM Asset Store.",
+      "Version": 1.0,
+      "Author": "Wattie",
+      "DownloadLink": "rsmm://Url/https$github.com/WattieSession/SessionMods/releases/download/nsb28/shoes-nikesb-low-whtblk.zip",
+      "PreviewImage": "https://user-images.githubusercontent.com/60822222/83961010-04cce200-a844-11ea-8974-6c0b359a09bf.png",
+      "Category": "session-shoes",
+      "UpdatedDate": "2020-04-05T00:00:00"
+    },
+    {
+      "ID": "shoes-nikesb-low-orangelabel.zip",
+      "IDWithoutExtension": "shoes-nikesb-low-orangelabel",
+      "Name": "Nike SB - Lows - Orange Label",
+      "Description": "Make sure \"Enable Light Probagation Volume\" is UNCHECKED or these shoes will crash your game.\r\n\r\nReplaces Vul A shoes for both Male and Female.\r\n\r\nCompatible with game version 0.0.0.5x or 4.24.3\r\n\r\nAvailable here and in the SMM Asset Store.",
+      "Version": 1.0,
+      "Author": "Wattie",
+      "DownloadLink": "rsmm://Url/https$github.com/WattieSession/SessionMods/releases/download/nsb27/shoes-nikesb-low-orangelabel.zip",
+      "PreviewImage": "https://user-images.githubusercontent.com/60822222/83960991-c8998180-a843-11ea-9d4f-a94a729b1020.png",
+      "Category": "session-shoes",
+      "UpdatedDate": "2020-04-04T00:00:00"
+    },
+    {
+      "ID": "shoes-nikesb-low-newcastles.zip",
+      "IDWithoutExtension": "shoes-nikesb-low-newcastles",
+      "Name": "Nike SB - Lows - Newcastle Ale",
+      "Description": "Make sure \"Enable Light Probagation Volume\" is UNCHECKED or these shoes will crash your game.\r\n\r\nReplaces Vul A shoes for both Male and Female.\r\n\r\nCompatible with game version 0.0.0.5x or 4.24.3\r\n\r\nAvailable here and in the SMM Asset Store.",
+      "Version": 1.0,
+      "Author": "Wattie",
+      "DownloadLink": "rsmm://Url/https$github.com/WattieSession/SessionMods/releases/download/nsb26/shoes-nikesb-low-newcastles.zip",
+      "PreviewImage": "https://user-images.githubusercontent.com/60822222/83960926-27123000-a843-11ea-8a47-1ea876abf43d.png",
+      "Category": "session-shoes",
+      "UpdatedDate": "2020-04-02T07:00:00Z"
     }
   ]
 }
