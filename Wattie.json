@@ -1343,7 +1343,43 @@
       "DownloadLink": "rsmm://Url/https$github.com/WattieSession/SessionMods/releases/download/nsb26/shoes-nikesb-low-newcastles.zip",
       "PreviewImage": "https://user-images.githubusercontent.com/60822222/83960926-27123000-a843-11ea-8a47-1ea876abf43d.png",
       "Category": "session-shoes",
-      "UpdatedDate": "2020-04-02T07:00:00Z"
+      "UpdatedDate": "2020-04-02T00:00:00-07:00"
+    },
+    {
+      "ID": " shoes-nikesb-low-chunkydunks.zip",
+      "IDWithoutExtension": " shoes-nikesb-low-chunkydunks",
+      "Name": "Nike SB - Lows -Chunky Dunks OG",
+      "Description": "Make sure \"Enable Light Probagation Volume\" is UNCHECKED or these shoes will crash your game.\r\n\r\nReplaces Vul A shoes for both Male and Female.\r\n\r\nCompatible with game version 0.0.0.5x or 4.24.3\r\n\r\nAvailable here and in the SMM Asset Store.",
+      "Version": 1.0,
+      "Author": "Wattie",
+      "DownloadLink": "rsmm://Url/https$github.com/WattieSession/SessionMods/releases/download/nsb30/shoes-nikesb-low-chunkydunks.zip",
+      "PreviewImage": "https://user-images.githubusercontent.com/60822222/84419939-2de7cc80-abce-11ea-9029-ceb876af9e89.png",
+      "Category": "session-shoes",
+      "UpdatedDate": "2020-04-02T00:00:00"
+    },
+    {
+      "ID": "shoes-nikesb-low-chunkydunks-mix.zip",
+      "IDWithoutExtension": "shoes-nikesb-low-chunkydunks-mix",
+      "Name": "Nike SB - Lows -Chunky Dunks Mixed Laces",
+      "Description": "Make sure \"Enable Light Probagation Volume\" is UNCHECKED or these shoes will crash your game.\r\n\r\nReplaces Vul A shoes for both Male and Female.\r\n\r\nCompatible with game version 0.0.0.5x or 4.24.3\r\n\r\nAvailable here and in the SMM Asset Store.",
+      "Version": 1.0,
+      "Author": "Wattie",
+      "DownloadLink": "rsmm://Url/https$github.com/WattieSession/SessionMods/releases/download/nsb31/shoes-nikesb-low-chunkydunks-mix.zip",
+      "PreviewImage": "https://user-images.githubusercontent.com/60822222/84420120-68516980-abce-11ea-8db3-3223600a70a1.png",
+      "Category": "session-shoes",
+      "UpdatedDate": "2020-04-01T00:00:00"
+    },
+    {
+      "ID": " shoes-nikesb-low-chunkydunks-yel.zip",
+      "IDWithoutExtension": " shoes-nikesb-low-chunkydunks-yel",
+      "Name": "Nike SB - Lows -Chunky Dunks Yellow Laces",
+      "Description": "Make sure \"Enable Light Probagation Volume\" is UNCHECKED or these shoes will crash your game.\r\n\r\nReplaces Vul A shoes for both Male and Female.\r\n\r\nCompatible with game version 0.0.0.5x or 4.24.3\r\n\r\nAvailable here and in the SMM Asset Store.",
+      "Version": 1.0,
+      "Author": "Wattie",
+      "DownloadLink": "rsmm://Url/https$github.com/WattieSession/SessionMods/releases/download/nsb32/shoes-nikesb-low-chunkydunks-yel.zip",
+      "PreviewImage": "https://user-images.githubusercontent.com/60822222/84420234-98990800-abce-11ea-87fb-be9cc6bb8e06.png",
+      "Category": "session-shoes",
+      "UpdatedDate": "2020-03-30T07:00:00Z"
     }
   ]
 }
