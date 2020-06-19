@@ -1379,7 +1379,115 @@
       "DownloadLink": "rsmm://Url/https$github.com/WattieSession/SessionMods/releases/download/nsb32/shoes-nikesb-low-chunkydunks-yel.zip",
       "PreviewImage": "https://user-images.githubusercontent.com/60822222/84420234-98990800-abce-11ea-87fb-be9cc6bb8e06.png",
       "Category": "session-shoes",
-      "UpdatedDate": "2020-03-30T07:00:00Z"
+      "UpdatedDate": "2020-03-30T00:00:00-07:00"
+    },
+    {
+      "ID": "socks-mid-white.zip",
+      "IDWithoutExtension": "socks-mid-white",
+      "Name": "Socks - Mid - White",
+      "Description": "Huge thank you to Abbadon for the perfect models and Redgouf for letting us borrow his shorts!\r\n\r\nInstallation notes:\r\n\r\nREQUIRED: You need to install Redgouf's [MESH] Shorts. They can be found here:\r\n\r\nillusory discord link: https://tinyurl.com/y8l5hfdh\r\n\r\nThese work with ANY shoe and ANY body mods but only Redgouf's shorts mesh.\r\n\r\nCompatible with game version 0.0.0.5x or 4.24.3\r\n\r\nAvailable here and in the SMM Asset Store.",
+      "Version": 1.0,
+      "Author": "Wattie",
+      "DownloadLink": "rsmm://Url/https$github.com/WattieSession/SessionMods/releases/download/sock8/socks-mid-white.zip",
+      "PreviewImage": "https://user-images.githubusercontent.com/60822222/85100597-59ae1800-b1b5-11ea-9c55-16c8858dd170.png",
+      "Category": "session-meshes",
+      "UpdatedDate": "2020-04-01T07:00:00Z"
+    },
+    {
+      "ID": "socks-mid-waldo.zip",
+      "IDWithoutExtension": "socks-mid-waldo",
+      "Name": "Socks - Mid - Waldo",
+      "Description": "Huge thank you to Abbadon for the perfect models and Redgouf for letting us borrow his shorts!\r\n\r\nInstallation notes:\r\n\r\nREQUIRED: You need to install Redgouf's [MESH] Shorts. They can be found here:\r\n\r\nillusory discord link: https://tinyurl.com/y8l5hfdh\r\n\r\nThese work with ANY shoe and ANY body mods but only Redgouf's shorts mesh.\r\n\r\nCompatible with game version 0.0.0.5x or 4.24.3\r\n\r\nAvailable here and in the SMM Asset Store.",
+      "Version": 1.0,
+      "Author": "Wattie",
+      "DownloadLink": "rsmm://Url/https$github.com/WattieSession/SessionMods/releases/download/sock7/socks-mid-waldo.zip",
+      "PreviewImage": "https://user-images.githubusercontent.com/60822222/85100544-3aaf8600-b1b5-11ea-8cea-1394d76bdf38.png",
+      "Category": "session-meshes",
+      "UpdatedDate": "2020-03-31T07:00:00Z"
+    },
+    {
+      "ID": "socks-mid-tiedye.zip",
+      "IDWithoutExtension": "socks-mid-tiedye",
+      "Name": "Socks - Mid - Tiedye",
+      "Description": "Huge thank you to Abbadon for the perfect models and Redgouf for letting us borrow his shorts!\r\n\r\nInstallation notes:\r\n\r\nREQUIRED: You need to install Redgouf's [MESH] Shorts. They can be found here:\r\n\r\nillusory discord link: https://tinyurl.com/y8l5hfdh\r\n\r\nThese work with ANY shoe and ANY body mods but only Redgouf's shorts mesh.\r\n\r\nCompatible with game version 0.0.0.5x or 4.24.3\r\n\r\nAvailable here and in the SMM Asset Store.",
+      "Version": 1.0,
+      "Author": "Wattie",
+      "DownloadLink": "rsmm://Url/https$github.com/WattieSession/SessionMods/releases/download/sock6/socks-mid-tiedye.zip",
+      "PreviewImage": "https://user-images.githubusercontent.com/60822222/85100480-16ec4000-b1b5-11ea-9a84-19b4abfdcbc1.png",
+      "Category": "session-meshes",
+      "UpdatedDate": "2020-03-31T00:00:00"
+    },
+    {
+      "ID": " socks-mid-stance-white.zip",
+      "IDWithoutExtension": " socks-mid-stance-white",
+      "Name": "Socks - Mid - Stance - White",
+      "Description": "Huge thank you to Abbadon for the perfect models and Redgouf for letting us borrow his shorts!\r\n\r\nInstallation notes:\r\n\r\nREQUIRED: You need to install Redgouf's [MESH] Shorts. They can be found here:\r\n\r\nillusory discord link: https://tinyurl.com/y8l5hfdh\r\n\r\nThese work with ANY shoe and ANY body mods but only Redgouf's shorts mesh.\r\n\r\nCompatible with game version 0.0.0.5x or 4.24.3\r\n\r\nAvailable here and in the SMM Asset Store.",
+      "Version": 1.0,
+      "Author": "Wattie",
+      "DownloadLink": "rsmm://Url/https$github.com/WattieSession/SessionMods/releases/download/sock5/socks-mid-stance-white.zip",
+      "PreviewImage": "https://user-images.githubusercontent.com/60822222/85100410-f02e0980-b1b4-11ea-9f54-6aa03f55b26c.png",
+      "Category": "session-meshes",
+      "UpdatedDate": "2020-03-30T00:00:00"
+    },
+    {
+      "ID": "socks-mid-ganja-white.zip",
+      "IDWithoutExtension": "socks-mid-ganja-white",
+      "Name": "Socks - Mid - Ganja - White",
+      "Description": "Huge thank you to Abbadon for the perfect models and Redgouf for letting us borrow his shorts!\r\n\r\nInstallation notes:\r\n\r\nREQUIRED: You need to install Redgouf's [MESH] Shorts. They can be found here:\r\n\r\nillusory discord link: https://tinyurl.com/y8l5hfdh\r\n\r\nThese work with ANY shoe and ANY body mods but only Redgouf's shorts mesh.\r\n\r\nCompatible with game version 0.0.0.5x or 4.24.3\r\n\r\nAvailable here and in the SMM Asset Store.",
+      "Version": 1.0,
+      "Author": "Wattie",
+      "DownloadLink": "rsmm://Url/https$github.com/WattieSession/SessionMods/releases/download/sock4/socks-mid-ganja-white.zip",
+      "PreviewImage": "https://user-images.githubusercontent.com/60822222/85100360-cecd1d80-b1b4-11ea-8c9b-ea38a6a10c08.png",
+      "Category": "session-meshes",
+      "UpdatedDate": "2020-03-29T00:00:00"
+    },
+    {
+      "ID": "socks-mid-black.zip",
+      "IDWithoutExtension": "socks-mid-black",
+      "Name": "Socks - Mid - Black",
+      "Description": "Huge thank you to Abbadon for the perfect models and Redgouf for letting us borrow his shorts!\r\n\r\nInstallation notes:\r\n\r\nREQUIRED: You need to install Redgouf's [MESH] Shorts. They can be found here:\r\n\r\nillusory discord link: https://tinyurl.com/y8l5hfdh\r\n\r\nThese work with ANY shoe and ANY body mods but only Redgouf's shorts mesh.\r\n\r\nCompatible with game version 0.0.0.5x or 4.24.3\r\n\r\nAvailable here and in the SMM Asset Store.",
+      "Version": 1.0,
+      "Author": "Wattie",
+      "DownloadLink": "rsmm://Url/https$github.com/WattieSession/SessionMods/releases/download/sock3/socks-mid-black.zip",
+      "PreviewImage": "https://user-images.githubusercontent.com/60822222/85100293-a6452380-b1b4-11ea-9cf3-29e225ac7641.png",
+      "Category": "session-meshes",
+      "UpdatedDate": "2020-03-28T00:00:00"
+    },
+    {
+      "ID": "socks-low-white.zip",
+      "IDWithoutExtension": "socks-low-white",
+      "Name": "Socks - Low - White",
+      "Description": "Huge thank you to Abbadon for the perfect models and Redgouf for letting us borrow his shorts!\r\n\r\nInstallation notes:\r\n\r\nREQUIRED: You need to install Redgouf's [MESH] Shorts. They can be found here:\r\n\r\nillusory discord link: https://tinyurl.com/y8l5hfdh\r\n\r\nThese work with ANY shoe and ANY body mods but only Redgouf's shorts mesh.\r\n\r\nCompatible with game version 0.0.0.5x or 4.24.3\r\n\r\nAvailable here and in the SMM Asset Store.",
+      "Version": 1.0,
+      "Author": "Wattie",
+      "DownloadLink": "rsmm://Url/https$github.com/WattieSession/SessionMods/releases/download/sock2/socks-low-white.zip",
+      "PreviewImage": "https://user-images.githubusercontent.com/60822222/85100248-7eee5680-b1b4-11ea-9653-23b44c2ad10d.png",
+      "Category": "session-meshes",
+      "UpdatedDate": "2020-03-27T00:00:00"
+    },
+    {
+      "ID": "socks-high-cholo.zip",
+      "IDWithoutExtension": "socks-high-cholo",
+      "Name": "Socks - High - \"Cholo's\"",
+      "Description": "Huge thank you to Abbadon for the perfect models and Redgouf for letting us borrow his shorts!\r\n\r\nInstallation notes:\r\n\r\nREQUIRED: You need to install Redgouf's [MESH] Shorts. They can be found here:\r\n\r\nillusory discord link: https://tinyurl.com/y8l5hfdh\r\n\r\nThese work with ANY shoe and ANY body mods but only Redgouf's shorts mesh.\r\n\r\nCompatible with game version 0.0.0.5x or 4.24.3\r\n\r\nAvailable here and in the SMM Asset Store.",
+      "Version": 1.0,
+      "Author": "Wattie",
+      "DownloadLink": "rsmm://Url/https$github.com/WattieSession/SessionMods/releases/download/sock1/socks-high-cholo.zip",
+      "PreviewImage": "https://user-images.githubusercontent.com/60822222/85100182-58302000-b1b4-11ea-8f94-df1183acf205.png",
+      "Category": "session-meshes",
+      "UpdatedDate": "2020-03-26T00:00:00"
+    },
+    {
+      "ID": "socks-high-black.zip",
+      "IDWithoutExtension": "socks-high-black",
+      "Name": "Socks - High - Black",
+      "Description": "Huge thank you to Abbadon for the perfect models and Redgouf for letting us borrow his shorts!\r\n\r\nInstallation notes:\r\n\r\nREQUIRED: You need to install Redgouf's [MESH] Shorts. They can be found here:\r\n\r\nillusory discord link: https://tinyurl.com/y8l5hfdh\r\n\r\nThese work with ANY shoe and ANY body mods but only Redgouf's shorts mesh.\r\n\r\nCompatible with game version 0.0.0.5x or 4.24.3\r\n\r\nAvailable here and in the SMM Asset Store.",
+      "Version": 1.0,
+      "Author": "Wattie",
+      "DownloadLink": "rsmm://Url/https$github.com/WattieSession/SessionMods/releases/download/sock/socks-high-black.zip",
+      "PreviewImage": "https://user-images.githubusercontent.com/60822222/85099940-aa247600-b1b3-11ea-8b51-3653905ba6b8.png",
+      "Category": "session-meshes",
+      "UpdatedDate": "2020-03-24T07:00:00Z"
     }
   ]
 }
